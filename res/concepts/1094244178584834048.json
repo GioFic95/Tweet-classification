@@ -1,0 +1,60 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "singoli del 2010",
+            "singoli di renato zero",
+            "singoli pop",
+            "singoli rock"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "citt\u00e0 di pellegrinaggio",
+            "padova"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

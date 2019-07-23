@@ -1,0 +1,64 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forze di polizia",
+            "guardie costiere",
+            "leggi e regolamenti del mondo dei trasporti"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti delle scienze etnoantropologiche",
+            "concetti e principi filosofici",
+            "teologia cristiana"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

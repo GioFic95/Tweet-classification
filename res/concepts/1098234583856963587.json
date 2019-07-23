@@ -1,0 +1,32 @@
+[
+    {
+        "categories": [
+            "nati a livorno",
+            "nati il 4 settembre",
+            "nati nel 1970",
+            "politici del movimento 5 stelle",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "sindaci di livorno",
+            "studenti dell'universit\u00e0 di pisa"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "animals",
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

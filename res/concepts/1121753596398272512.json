@@ -1,0 +1,65 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "anarchia",
+            "antifascismo",
+            "politica"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "disturbi psichici",
+            "neuropsichiatria infantile"
+        ],
+        "domains": [
+            "health and medicine",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "animals"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "gendarmeria",
+            "gradi e qualifiche dell'arma dei carabinieri"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "categories": [
+            "cucurbitaceae"
+        ],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "lingua italiana",
+            "lingue svo"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "tecnica cinematografica",
+            "tecnologia video"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "catasto"
+        ],
+        "domains": [
+            "art architecture and archaeology",
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ministeri italiani",
+            "ministero dell'economia e delle finanze"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

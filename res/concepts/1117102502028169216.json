@@ -1,0 +1,45 @@
+[
+    {
+        "categories": [
+            "architettura religiosa cristiana",
+            "elementi architettonici",
+            "elementi architettonici dell'architettura religiosa cristiana",
+            "pulpiti"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "diritto parlamentare"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "camere alte nazionali",
+            "parlamento statunitense"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

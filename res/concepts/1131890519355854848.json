@@ -1,0 +1,23 @@
+[
+    {
+        "categories": [
+            "anatomia comparata",
+            "testa"
+        ],
+        "domains": [
+            "animals"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cuore"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

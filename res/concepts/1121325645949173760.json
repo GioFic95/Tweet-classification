@@ -1,0 +1,64 @@
+[
+    {
+        "categories": [
+            "miniserie televisive biografiche",
+            "miniserie televisive del 1985",
+            "miniserie televisive drammatiche",
+            "miniserie televisive statunitensi"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "storia"
+        ],
+        "domains": [
+            "history"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "guerra"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fascismo",
+            "nazismo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "categories": [
+            "cucurbitaceae"
+        ],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ottica geometrica"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "chimica delle soluzioni",
+            "concetti fondamentali di chimica"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti e principi filosofici",
+            "scienze cognitive"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fascismo"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "alberi"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

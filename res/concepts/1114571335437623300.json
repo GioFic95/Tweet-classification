@@ -1,0 +1,67 @@
+[
+    {
+        "categories": [
+            "bande (criminalit\u00e0)"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forme poetiche",
+            "inni liturgici",
+            "storia della letteratura"
+        ],
+        "domains": [
+            "music",
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "inni nazionali"
+        ],
+        "domains": [
+            "heraldry honors and vexillology",
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attori italiani del xxi secolo",
+            "attori italiani del xx secolo",
+            "morti a milano",
+            "morti il 25 agosto",
+            "morti nel 2012",
+            "nati a dobbiaco",
+            "nati nel 1943",
+            "parolieri italiani",
+            "registi italiani del xxi secolo",
+            "registi italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

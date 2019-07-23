@@ -1,0 +1,52 @@
+[
+    {
+        "categories": [
+            "pensiero"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "sismologia"
+        ],
+        "domains": [
+            "geology and geophysics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "epistemologia"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

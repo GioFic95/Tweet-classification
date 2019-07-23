@@ -1,0 +1,71 @@
+[
+    {
+        "categories": [
+            "diritto costituzionale",
+            "governo",
+            "stato"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto costituzionale",
+            "stato"
+        ],
+        "domains": [
+            "law and crime",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mano"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "parti di indumenti"
+        ],
+        "domains": [
+            "textile and clothing"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "lingua italiana",
+            "lingue svo"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

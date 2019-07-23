@@ -1,0 +1,86 @@
+[
+    {
+        "categories": [
+            "magistrati italiani",
+            "nati a milano",
+            "nati l'11 dicembre",
+            "nati nel 1953"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "geology and geophysics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "anni di piombo",
+            "associazioni politiche italiane",
+            "settantasette"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "unit\u00e0 di misura astronomiche",
+            "unit\u00e0 di tempo"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "propaganda"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "eventi",
+            "filosofia",
+            "pensiero critico",
+            "teoria del diritto"
+        ],
+        "domains": [
+            "biology",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

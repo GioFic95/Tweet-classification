@@ -1,0 +1,78 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cultura a parigi",
+            "ebraismo in francia",
+            "organizzazioni non governative",
+            "organizzazioni per la salvaguardia dei diritti umani",
+            "politica della francia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "battaglie"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritti lgbt per regione",
+            "diritto penale",
+            "diritto privato"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

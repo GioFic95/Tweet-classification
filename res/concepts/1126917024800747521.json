@@ -1,0 +1,76 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "tasse"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "strumenti di pagamento"
+        ],
+        "domains": [
+            "numismatics and currencies"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "dogmi mariani",
+            "festivit\u00e0 cattoliche mariane",
+            "morte di maria"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giornalismo",
+            "terminologia televisiva"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "reti televisive della rai"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "nati a lecce",
+            "nati il 24 aprile",
+            "nati nel 1972",
+            "politici del movimento 5 stelle",
+            "politici italiani del xxi secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "stazioni ferroviarie attivate nel 1883"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "categories": [
+            "isole attraversate da confini",
+            "isole dell'irlanda",
+            "repubblica d'irlanda",
+            "territori celtici"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "energia",
+            "funzioni di stato"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "energia solare"
+        ],
+        "domains": [
+            "engineering and technology",
+            "farming"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giappone",
+            "imperi"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "economia politica"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "economia ambientale",
+            "tipi di economia"
+        ],
+        "domains": [
+            "business economics and finance",
+            "farming",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "scienze ambientali",
+            "sviluppo sostenibile"
+        ],
+        "domains": [
+            "farming"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "categories": [
+            "film ambientati in emilia-romagna",
+            "film diretti da bernardo bertolucci",
+            "film drammatici",
+            "film italiani del 1981"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "inferenza statistica",
+            "sociologia"
+        ],
+        "domains": [
+            "philosophy and psychology",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "lingua italiana",
+            "lingue svo"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "etica",
+            "filosofia del diritto",
+            "religione e politica"
+        ],
+        "domains": [
+            "law and crime",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

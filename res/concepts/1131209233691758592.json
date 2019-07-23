@@ -1,0 +1,41 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "album dei y&t",
+            "album del 1997",
+            "album hard rock",
+            "album heavy metal"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "album blues rock",
+            "album dei megadeth",
+            "album del 1999",
+            "album hard rock",
+            "album heavy metal"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "categories": [
+            "falconidae",
+            "taxa classificati da linneo"
+        ],
+        "domains": [
+            "animals"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mare mediterraneo",
+            "mari della grecia",
+            "mari dell'albania",
+            "mari d'italia"
+        ],
+        "domains": [
+            "geography and places",
+            "meteorology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "linea b (metropolitana di roma)",
+            "roma q. xvi monte sacro",
+            "roma z. i val melaina",
+            "stazioni della metropolitana di roma"
+        ],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "camere alte nazionali",
+            "parlamento francese"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "movimento 5 stelle",
+            "partiti politici italiani"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

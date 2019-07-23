@@ -1,0 +1,75 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "animals",
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "movimento 5 stelle",
+            "partiti politici italiani"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "comuni dei pirenei orientali"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "editoria",
+            "libro",
+            "tipografia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "partiti politici"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "partiti politici statunitensi",
+            "partito democratico (stati uniti d'america)"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

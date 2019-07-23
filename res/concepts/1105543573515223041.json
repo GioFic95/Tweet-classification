@@ -1,0 +1,53 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "david di donatello per il miglior regista esordiente",
+            "nati ad avigliana",
+            "nati il 25 luglio",
+            "nati nel 1967",
+            "registi italiani del xxi secolo",
+            "sceneggiatori italiani del xxi secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "loghi"
+        ],
+        "domains": [
+            "heraldry honors and vexillology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

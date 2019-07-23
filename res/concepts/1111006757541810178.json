@@ -1,0 +1,81 @@
+[
+    {
+        "categories": [
+            "topologia"
+        ],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forza"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forze armate"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "algebra lineare"
+        ],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "unit\u00e0 di misura astronomiche",
+            "unit\u00e0 di tempo"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

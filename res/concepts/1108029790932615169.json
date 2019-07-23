@@ -1,0 +1,48 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "sociologia della cultura",
+            "sociologia politica"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "geografia umana",
+            "urbanistica",
+            "villaggi"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "emozioni e sentimenti",
+            "psicologia sociale"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

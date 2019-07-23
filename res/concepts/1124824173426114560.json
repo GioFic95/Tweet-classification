@@ -1,0 +1,100 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "nascita di ges\u00f9",
+            "personaggi dei vangeli"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "museologia"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "armi bianche",
+            "armi bianche africane",
+            "armi bianche corte da mano",
+            "armi bianche da punta",
+            "armi bianche da taglio",
+            "armi bianche dell'asia",
+            "armi bianche dell'europa non mediterranea",
+            "armi bianche dell'europa sud-occidentale",
+            "armi bianche dell'oceania",
+            "armi bianche europee",
+            "armi bianche moderne",
+            "armi bianche orientali",
+            "armi bianche rinascimentali",
+            "armi medievali",
+            "attrezzi di uso comune",
+            "coltelli"
+        ],
+        "domains": [
+            "engineering and technology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "arbus"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "appellativi onorifici",
+            "gerarchia cattolica"
+        ],
+        "domains": [
+            "heraldry honors and vexillology",
+            "politics and government",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "artigianato"
+        ],
+        "domains": [
+            "art architecture and archaeology",
+            "textile and clothing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

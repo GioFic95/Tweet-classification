@@ -1,0 +1,82 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "numeri interi"
+        ],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti delle scienze etnoantropologiche",
+            "concetti e principi filosofici",
+            "teologia cristiana"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mesi dell'anno",
+            "unit\u00e0 di tempo"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "album del 1982",
+            "album di giuseppe cionfoli",
+            "album pop"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "analisi matematica",
+            "curve"
+        ],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

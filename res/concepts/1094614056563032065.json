@@ -1,0 +1,79 @@
+[
+    {
+        "categories": [
+            "mesi dell'anno"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "commercio internazionale",
+            "diritto",
+            "economia internazionale",
+            "politica internazionale"
+        ],
+        "domains": [
+            "business economics and finance",
+            "farming"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "teoria dei giochi"
+        ],
+        "domains": [
+            "games and video games",
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

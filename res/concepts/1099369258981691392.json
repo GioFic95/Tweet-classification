@@ -1,0 +1,42 @@
+[
+    {
+        "categories": [
+            "alleanza nazionale",
+            "partiti di destra italiani",
+            "partiti nazional-conservatori italiani del passato",
+            "partiti politici italiani del passato"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "satira",
+            "storia della televisione"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

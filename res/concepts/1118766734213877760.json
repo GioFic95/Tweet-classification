@@ -1,0 +1,94 @@
+[
+    {
+        "categories": [
+            "morti a lissone",
+            "morti nel 1989",
+            "nati a varese",
+            "nati nel 1905",
+            "pittori italiani del xx secolo",
+            "scultori italiani del xx secolo",
+            "studenti dell'accademia di belle arti di brera"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "comune",
+            "diritto comparato",
+            "diritto costituzionale",
+            "sindaci"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "comune",
+            "diritto comparato",
+            "diritto costituzionale",
+            "sindaci"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "rom"
+        ],
+        "domains": [
+            "computing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

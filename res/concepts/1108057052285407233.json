@@ -1,0 +1,42 @@
+[
+    {
+        "categories": [
+            "diritto comparato",
+            "diritto costituzionale"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto amministrativo",
+            "elezioni"
+        ],
+        "domains": [
+            "philosophy and psychology",
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "linguaggi di programmazione",
+            "metadati"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

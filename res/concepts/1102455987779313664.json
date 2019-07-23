@@ -1,0 +1,70 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "berretti",
+            "cappelli",
+            "copricapi"
+        ],
+        "domains": [
+            "textile and clothing"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "heraldry honors and vexillology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ideologie politiche",
+            "movimenti politici"
+        ],
+        "domains": [
+            "philosophy and psychology",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

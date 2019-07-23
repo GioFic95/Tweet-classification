@@ -1,0 +1,83 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto islamico",
+            "espressioni comuni della lingua araba",
+            "religione e politica"
+        ],
+        "domains": [
+            "religion mysticism and mythology",
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy",
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "unit\u00e0 di misura astronomiche",
+            "unit\u00e0 di tempo"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "pena di morte"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "escatologia",
+            "morte",
+            "processi fisiologici generali"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "categories": [
+            "povert\u00e0"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "psicologia clinica",
+            "psicologia della salute",
+            "salute",
+            "sicurezza del lavoro"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "reti televisive italiane",
+            "reti televisive satellitari (passato)",
+            "syndication italiane"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "sociologia economica"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

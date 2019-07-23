@@ -1,0 +1,39 @@
+[
+    {
+        "categories": [
+            "mesi dell'anno"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "famiglia"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giornalismo",
+            "terminologia televisiva"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

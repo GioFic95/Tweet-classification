@@ -1,0 +1,82 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "triuggio",
+            "ville della provincia di monza e della brianza"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "esercizi commerciali",
+            "locali per la ristorazione"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film commedia",
+            "film diretti da goffredo alessandrini",
+            "film italiani del 1931"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "economisti britannici",
+            "empiristi",
+            "filosofi britannici",
+            "illuministi",
+            "morti a edimburgo",
+            "morti il 17 luglio",
+            "morti nel 1790",
+            "nati a kirkcaldy",
+            "nati il 5 giugno",
+            "nati nel 1723",
+            "storia del pensiero economico",
+            "studenti del balliol college"
+        ],
+        "domains": [
+            "business economics and finance",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "canaletto",
+            "pittura",
+            "venezia"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

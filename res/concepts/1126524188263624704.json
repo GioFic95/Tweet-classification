@@ -1,0 +1,89 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "componenti di artiglieria",
+            "elementi di armi da fuoco"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "etica",
+            "filosofia del diritto",
+            "religione e politica"
+        ],
+        "domains": [
+            "law and crime",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "marketing"
+        ],
+        "domains": [
+            "business economics and finance",
+            "computing"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "lettura"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "libro",
+            "opere letterarie per tipo"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "letteratura per ragazzi",
+            "romanzi del 2008",
+            "romanzi fantasy",
+            "romanzi in inglese"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "categories": [
+            "europa"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "unit\u00e0 di tempo"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "condivisione foto",
+            "software per ios",
+            "software per l'elaborazione digitale delle immagini proprietari",
+            "software per windows phone"
+        ],
+        "domains": [
+            "computing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "maratona"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "terminologia sportiva"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antisemitismo",
+            "dittature",
+            "nazismo"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "armi bianche",
+            "armi bianche corte da mano",
+            "armi bianche da punta",
+            "armi bianche da taglio",
+            "armi bianche dell'asia",
+            "armi bianche moderne",
+            "armi bianche orientali",
+            "armi bianche rinascimentali",
+            "armi cerimoniali",
+            "armi medievali",
+            "armi tradizionali giapponesi",
+            "coltelli",
+            "pugnali"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

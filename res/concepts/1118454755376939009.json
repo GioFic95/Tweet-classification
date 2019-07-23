@@ -1,0 +1,85 @@
+[
+    {
+        "categories": [
+            "motori"
+        ],
+        "domains": [
+            "engineering and technology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "internet",
+            "motori di ricerca"
+        ],
+        "domains": [
+            "computing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ricerca scientifica"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "reti sociali"
+        ],
+        "domains": [
+            "computing",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "engineering and technology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film ambientati negli anni 1950",
+            "film ambientati nel maine",
+            "film basati su opere letterarie",
+            "film d'animazione warner bros.",
+            "film di fantascienza",
+            "film statunitensi del 1999",
+            "film sulla guerra fredda"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "dati",
+            "terminologia informatica"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

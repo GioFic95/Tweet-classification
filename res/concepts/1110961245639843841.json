@@ -1,0 +1,105 @@
+[
+    {
+        "categories": [
+            "conduttori televisivi italiani",
+            "deputati della xvii legislatura della repubblica italiana",
+            "deputati della xvi legislatura della repubblica italiana",
+            "governo berlusconi iv",
+            "imprenditori italiani",
+            "nati a lecco",
+            "nati il 26 ottobre",
+            "nati nel 1967",
+            "politici del popolo della libert\u00e0",
+            "politici di forza italia (1994)",
+            "politici di forza italia (2013)",
+            "politici italiani del xxi secolo",
+            "studenti dell'universit\u00e0 cattolica del sacro cuore"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forza"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forza italia (1994)",
+            "partiti conservatori italiani del passato",
+            "partiti politici italiani del passato"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "etica",
+            "filosofia del diritto",
+            "religione e politica"
+        ],
+        "domains": [
+            "law and crime",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "divulgazione scientifica",
+            "universit\u00e0"
+        ],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

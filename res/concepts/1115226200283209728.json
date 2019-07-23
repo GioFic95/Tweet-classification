@@ -1,0 +1,40 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cicli di teleri",
+            "dipinti di vittore carpaccio",
+            "dipinti nella ca' d'oro",
+            "dipinti nell'accademia carrara",
+            "dipinti nella pinacoteca di brera",
+            "dipinti nel museo correr",
+            "dipinti sullo sposalizio della vergine",
+            "dipinti su maria"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "design della comunicazione",
+            "semiotica",
+            "simboli",
+            "sociologia della cultura"
+        ],
+        "domains": [
+            "heraldry honors and vexillology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

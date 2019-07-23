@@ -1,0 +1,77 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ascetismo",
+            "concetti religiosi"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto tributario",
+            "imposte",
+            "scienza delle finanze"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "sociologia economica"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "povert\u00e0"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "elementi architettonici"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

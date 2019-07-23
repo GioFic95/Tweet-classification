@@ -1,0 +1,57 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "romanzi del 2008",
+            "romanzi di avventura",
+            "romanzi di clive cussler",
+            "romanzi in inglese",
+            "romanzi statunitensi"
+        ],
+        "domains": [
+            "literature and theatre",
+            "history"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "disoccupazione"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

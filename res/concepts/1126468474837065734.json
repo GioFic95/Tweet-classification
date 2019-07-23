@@ -1,0 +1,83 @@
+[
+    {
+        "categories": [
+            "terminologia finanziaria"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "segni di interpunzione"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "aritmetica",
+            "statistica descrittiva"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "disturbi psichici",
+            "ergonomia",
+            "processi psicologici"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "rischio"
+        ],
+        "domains": [
+            "business economics and finance",
+            "health and medicine",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

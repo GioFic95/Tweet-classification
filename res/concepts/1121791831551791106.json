@@ -1,0 +1,51 @@
+[
+    {
+        "categories": [
+            "editoria",
+            "giornalismo"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "accademia della crusca",
+            "drammaturghi italiani del xvi secolo",
+            "morti a firenze",
+            "morti il 18 febbraio",
+            "morti nel 1584",
+            "nati a firenze",
+            "nati a poggibonsi",
+            "nati il 22 marzo",
+            "nati nel 1505",
+            "poeti italiani del xvi secolo",
+            "scrittori italiani del xvi secolo"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "geografia d'italia",
+            "territori d'italia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "sistemi di rete",
+            "telefonia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

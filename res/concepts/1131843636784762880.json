@@ -1,0 +1,29 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "piazze di palermo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "segnali stradali",
+            "strade"
+        ],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

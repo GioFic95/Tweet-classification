@@ -1,0 +1,72 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xvi legislatura della repubblica italiana",
+            "deputati della xv legislatura della repubblica italiana",
+            "governo berlusconi ii",
+            "governo berlusconi iii",
+            "nati a torino",
+            "nati il 15 aprile",
+            "nati nel 1948",
+            "politici del centro cristiano democratico",
+            "politici della lega nord",
+            "politici del popolo della libert\u00e0",
+            "politici di alleanza nazionale",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "senatori della xiii legislatura della repubblica italiana",
+            "senatori della xii legislatura della repubblica italiana",
+            "senatori della xiv legislatura della repubblica italiana"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forza italia (1994)",
+            "partiti conservatori italiani del passato",
+            "partiti politici italiani del passato"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti e principi sul tempo",
+            "futurologia"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fisica"
+        ],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

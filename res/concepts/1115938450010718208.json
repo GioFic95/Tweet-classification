@@ -1,0 +1,64 @@
+[
+    {
+        "categories": [
+            "europarlamentari italiani della vii legislatura",
+            "nati a roma",
+            "nati il 10 novembre",
+            "nati nel 1970",
+            "politici del partito democratico (italia)",
+            "politici italiani del xxi secolo",
+            "presidenti del friuli-venezia giulia",
+            "studenti della sapienza - universit\u00e0 di roma"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "termini giuridici"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto del lavoro",
+            "vicende nel lavoro"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

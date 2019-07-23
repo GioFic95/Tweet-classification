@@ -1,0 +1,57 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "professioni dello sport",
+            "ruoli della pallavolo",
+            "terminologia calcistica",
+            "terminologia sportiva"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "allenatori del bologna f.c. 1909",
+            "allenatori del cagliari calcio",
+            "allenatori del calcio padova",
+            "allenatori del c.f. scalese a.s.d.",
+            "allenatori dell'acf fiorentina",
+            "allenatori dell'a.c. perugia calcio",
+            "allenatori dell'a.c. prato",
+            "allenatori della s.s.c. napoli",
+            "allenatori dell'empoli f.c.",
+            "allenatori dell'u.c. cuoiopelli",
+            "allenatori dell'u.c. sampdoria",
+            "allenatori dell'u.s. fucecchio",
+            "allenatori del modena f.c.",
+            "allenatori del torino f.c.",
+            "allenatori del vicenza calcio",
+            "allenatori di calcio italiani",
+            "calciatori dell'acf fiorentina",
+            "calciatori dell'u.c. cuoiopelli",
+            "calciatori italiani",
+            "nati a san miniato",
+            "nati il 2 febbraio",
+            "nati nel 1941",
+            "politici di sinistra ecologia libert\u00e0",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "categories": [
+            "morti a costanza (romania)",
+            "nati a sulmona",
+            "nati il 20 marzo",
+            "nati nel 43 a.c.",
+            "ovidio",
+            "poeti romani"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "terminologia calcistica",
+            "terminologia del baseball",
+            "terminologia pallanuotistica",
+            "terminologia sportiva"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "gradi dei generali",
+            "gradi militari"
+        ],
+        "domains": [
+            "law and crime",
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "frazioni di matera"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "architetture di breslavia",
+            "universit\u00e0 di breslavia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "gendarmeria",
+            "gradi e qualifiche dell'arma dei carabinieri"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

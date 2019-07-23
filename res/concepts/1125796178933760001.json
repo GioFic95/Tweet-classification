@@ -1,0 +1,34 @@
+[
+    {
+        "categories": [
+            "antropologia culturale",
+            "antropologia sociale",
+            "donne",
+            "sessualit\u00e0",
+            "sociologia della cultura"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "armi"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

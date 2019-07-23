@@ -1,0 +1,45 @@
+[
+    {
+        "categories": [
+            "ecologia",
+            "scienze ambientali"
+        ],
+        "domains": [
+            "animals",
+            "biology",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "anatomia della testa e del collo"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

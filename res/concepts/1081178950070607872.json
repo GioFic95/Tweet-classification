@@ -1,0 +1,90 @@
+[
+    {
+        "categories": [
+            "romanzi del 1956",
+            "romanzi di fantascienza",
+            "romanzi in inglese"
+        ],
+        "domains": [
+            "literature and theatre",
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "citt\u00e0 di pellegrinaggio",
+            "padova"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "figure araldiche",
+            "formicidae",
+            "taxa classificati da pierre andr\u00e9 latreille"
+        ],
+        "domains": [
+            "animals"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ospedali"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "emozioni e sentimenti"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

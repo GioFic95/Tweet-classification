@@ -1,0 +1,63 @@
+[
+    {
+        "categories": [
+            "mezzi di trasporto per il primo soccorso",
+            "mezzi di trasporto su strada",
+            "soccorso pubblico e difesa civile"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "games and video games",
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "chemistry and mineralogy",
+            "engineering and technology",
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "rocce"
+        ],
+        "domains": [
+            "geology and geophysics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "computing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

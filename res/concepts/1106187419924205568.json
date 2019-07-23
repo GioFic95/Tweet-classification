@@ -1,0 +1,82 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "abati della badia di cava",
+            "abati e badesse italiani",
+            "benedettini italiani",
+            "morti a napoli",
+            "morti il 14 gennaio",
+            "morti nel 1697",
+            "nati ad ascoli satriano",
+            "nati nel 1620",
+            "poeti italiani del xvii secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "termini giuridici"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "citt\u00e0 di pellegrinaggio",
+            "padova"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "redditi"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritti umani",
+            "diritto del lavoro",
+            "filosofia politica",
+            "redditi"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

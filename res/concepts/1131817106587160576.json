@@ -1,0 +1,83 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ambiente"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "effetto serra",
+            "inquinanti",
+            "mutamenti climatici"
+        ],
+        "domains": [
+            "chemistry and mineralogy",
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fasi della materia",
+            "fonti di riscaldamento",
+            "gas"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "effetto serra",
+            "inquinanti",
+            "mutamenti climatici"
+        ],
+        "domains": [
+            "chemistry and mineralogy",
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "apprestamenti protettivi",
+            "giardinaggio"
+        ],
+        "domains": [
+            "art architecture and archaeology",
+            "farming",
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

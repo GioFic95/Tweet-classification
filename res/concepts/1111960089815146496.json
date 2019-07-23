@@ -1,0 +1,92 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "engineering and technology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cordofoni composti, con corde parallele alla cassa armonica, a pizzico",
+            "musica nell'antica roma",
+            "strumenti musicali dell'antichit\u00e0"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "euro",
+            "monetazioni europee",
+            "simboli europei",
+            "unioni monetarie",
+            "valute africane",
+            "valute americane",
+            "valute europee",
+            "valute in corso"
+        ],
+        "domains": [
+            "numismatics and currencies"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mano"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "euro",
+            "monetazioni europee",
+            "simboli europei",
+            "unioni monetarie",
+            "valute africane",
+            "valute americane",
+            "valute europee",
+            "valute in corso"
+        ],
+        "domains": [
+            "numismatics and currencies"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

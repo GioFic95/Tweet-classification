@@ -1,0 +1,33 @@
+[
+    {
+        "categories": [
+            "costume",
+            "figure retoriche",
+            "letteratura latina",
+            "satira"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antropologia culturale",
+            "intelligenza",
+            "sociologia della cultura"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

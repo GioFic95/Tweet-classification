@@ -1,0 +1,54 @@
+[
+    {
+        "categories": [
+            "patologia"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "governo degli stati uniti d'america",
+            "presidenti degli stati uniti d'america"
+        ],
+        "domains": [
+            "politics and government",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto costituzionale",
+            "istituzioni",
+            "sociologia politica"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antropologia sociale",
+            "sociologia della devianza"
+        ],
+        "domains": [
+            "health and medicine",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

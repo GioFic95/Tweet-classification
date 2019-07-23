@@ -1,0 +1,73 @@
+[
+    {
+        "categories": [
+            "tecnica cinematografica",
+            "tecnologia video"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "istruzione in italia",
+            "professioni dell'educazione e dell'istruzione"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "lessico operistico"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "prima guerra mondiale"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "terziario"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "scuola"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film statunitensi del 1999",
+            "film thriller"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "lingua italiana",
+            "lingue svo"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "etica",
+            "filosofia del diritto",
+            "religione e politica"
+        ],
+        "domains": [
+            "law and crime",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "governatori romani della giudea",
+            "morti nel i secolo",
+            "personaggi citati nella divina commedia (inferno)",
+            "personaggi dei vangeli",
+            "politici romani del i secolo",
+            "politici suicidi",
+            "santi della chiesa ortodossa"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "governatori romani della giudea",
+            "morti nel i secolo",
+            "personaggi citati nella divina commedia (inferno)",
+            "personaggi dei vangeli",
+            "politici romani del i secolo",
+            "politici suicidi",
+            "santi della chiesa ortodossa"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

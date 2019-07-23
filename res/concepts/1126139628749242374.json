@@ -1,0 +1,46 @@
+[
+    {
+        "categories": [
+            "giorni della settimana"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "modelli italiani",
+            "nati a isola della scala",
+            "nati il 2 settembre",
+            "nati nel 1977"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "libro",
+            "opere letterarie per tipo"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

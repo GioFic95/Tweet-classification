@@ -1,0 +1,47 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "pittura",
+            "tecniche artistiche"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "morti a como",
+            "morti il 7 settembre",
+            "morti nel 1957",
+            "nati a como",
+            "nati il 15 febbraio",
+            "nati nel 1901",
+            "pittori italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

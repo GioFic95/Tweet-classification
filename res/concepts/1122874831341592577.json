@@ -1,0 +1,57 @@
+[
+    {
+        "categories": [
+            "educazione",
+            "parti di edifici"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology",
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "costituzioni",
+            "diritto costituzionale",
+            "leggi",
+            "stato",
+            "storia del diritto",
+            "teoria del diritto"
+        ],
+        "domains": [
+            "law and crime",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fisica della materia"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "categories": [
+            "megafauna",
+            "perissodattili"
+        ],
+        "domains": [
+            "animals"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "strada",
+            "strade"
+        ],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

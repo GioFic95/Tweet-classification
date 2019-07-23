@@ -1,0 +1,62 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "programmi televisivi terminati nel 2016",
+            "serie televisive drammatiche",
+            "serie televisive iniziate nel 2014",
+            "serie televisive poliziesche",
+            "serie televisive spagnole",
+            "serie televisive terminate nel 2016"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "universit\u00e0"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "architetture fasciste di roma",
+            "roma q. vi tiburtino",
+            "sapienza - universit\u00e0 di roma"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "educazione",
+            "istruzione"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

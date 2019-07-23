@@ -1,0 +1,63 @@
+[
+    {
+        "categories": [
+            "antropologia culturale",
+            "antropologia sociale",
+            "donne",
+            "sessualit\u00e0",
+            "sociologia della cultura"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "destra"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antropologia culturale",
+            "antropologia sociale",
+            "donne",
+            "sessualit\u00e0",
+            "sociologia della cultura"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "femminismo"
+        ],
+        "domains": [
+            "philosophy and psychology",
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

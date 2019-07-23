@@ -1,0 +1,69 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "politica d'italia",
+            "terminologia della politica"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cristologia",
+            "ges\u00f9",
+            "morti a gerusalemme",
+            "nati a betlemme",
+            "nati a nazaret",
+            "parabole di ges\u00f9",
+            "parole e locuzioni della lingua greca",
+            "personaggi citati nella divina commedia (paradiso)",
+            "personaggi del nuovo testamento",
+            "persone giustiziate per crocifissione",
+            "profeti islamici",
+            "vangelo secondo giovanni"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "edilizia"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "america meridionale",
+            "economia internazionale",
+            "geografia politica",
+            "politica internazionale"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

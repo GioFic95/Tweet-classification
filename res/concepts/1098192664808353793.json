@@ -1,0 +1,87 @@
+[
+    {
+        "categories": [
+            "nati a livorno",
+            "nati il 4 settembre",
+            "nati nel 1970",
+            "politici del movimento 5 stelle",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "sindaci di livorno",
+            "studenti dell'universit\u00e0 di pisa"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto costituzionale",
+            "elezioni",
+            "sistemi elettorali"
+        ],
+        "domains": [
+            "law and crime",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "reati concorsuali"
+        ],
+        "domains": [
+            "business economics and finance",
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "comune",
+            "diritto comparato",
+            "diritto costituzionale",
+            "sindaci"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

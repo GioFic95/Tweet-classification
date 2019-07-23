@@ -1,0 +1,22 @@
+[
+    {
+        "categories": [
+            "assistenza sociale",
+            "diritto penale",
+            "emigrazione"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "imbarcazioni a motore"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

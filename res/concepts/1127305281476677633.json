@@ -1,0 +1,156 @@
+[
+    {
+        "categories": [
+            "cariche politiche",
+            "diritto comparato",
+            "diritto costituzionale"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "ministeri degli affari esteri"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "classi di composti organici"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della consulta nazionale",
+            "deputati della democrazia cristiana",
+            "deputati della iii legislatura della repubblica italiana",
+            "deputati della ii legislatura della repubblica italiana",
+            "deputati della i legislatura della repubblica italiana",
+            "deputati della iv legislatura della repubblica italiana",
+            "deputati della ix legislatura della repubblica italiana",
+            "deputati dell'assemblea costituente della repubblica italiana",
+            "deputati della vii legislatura della repubblica italiana",
+            "deputati della vi legislatura della repubblica italiana",
+            "deputati della v legislatura della repubblica italiana",
+            "deputati della x legislatura della repubblica italiana",
+            "deputati dell'viii legislatura della repubblica italiana",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "giornalisti legati a roma",
+            "governo andreotti i",
+            "governo andreotti ii",
+            "governo andreotti iii",
+            "governo andreotti iv",
+            "governo andreotti v",
+            "governo andreotti vi",
+            "governo andreotti vii",
+            "governo craxi i",
+            "governo craxi ii",
+            "governo de gasperi iv",
+            "governo de gasperi v",
+            "governo de gasperi vi",
+            "governo de gasperi vii",
+            "governo de gasperi viii",
+            "governo de mita",
+            "governo fanfani i",
+            "governo fanfani ii",
+            "governo fanfani iii",
+            "governo fanfani iv",
+            "governo fanfani vi",
+            "governo goria",
+            "governo leone i",
+            "governo leone ii",
+            "governo moro i",
+            "governo moro ii",
+            "governo moro iii",
+            "governo moro iv",
+            "governo moro v",
+            "governo pella",
+            "governo rumor v",
+            "governo segni i",
+            "governo segni ii",
+            "governo tambroni",
+            "governo zoli",
+            "ministri degli affari esteri della repubblica italiana",
+            "ministri del bilancio e della programmazione economica della repubblica italiana",
+            "ministri della difesa della repubblica italiana",
+            "ministri delle finanze della repubblica italiana",
+            "ministri delle partecipazioni statali della repubblica italiana",
+            "ministri dell'industria, del commercio e dell'artigianato della repubblica italiana",
+            "ministri dell'interno della repubblica italiana",
+            "ministri del tesoro della repubblica italiana",
+            "ministri per i beni culturali e ambientali della repubblica italiana",
+            "morti a roma",
+            "morti il 6 maggio",
+            "morti nel 2013",
+            "nati a roma",
+            "nati il 14 gennaio",
+            "nati nel 1919",
+            "personalit\u00e0 di azione cattolica",
+            "politici del partito popolare italiano (1994)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "politici legati a roma",
+            "presidenti del consiglio dei ministri della repubblica italiana",
+            "scrittori italiani del xxi secolo",
+            "scrittori italiani del xx secolo",
+            "scrittori legati a roma",
+            "senatori a vita italiani",
+            "senatori della xiii legislatura della repubblica italiana",
+            "senatori della xii legislatura della repubblica italiana",
+            "senatori della xiv legislatura della repubblica italiana",
+            "senatori della x legislatura della repubblica italiana",
+            "senatori della xvi legislatura della repubblica italiana",
+            "senatori della xv legislatura della repubblica italiana",
+            "senatori dell'xi legislatura della repubblica italiana",
+            "storia delle relazioni tra santa sede e stato italiano",
+            "vincitori del premio bancarella"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "politici"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

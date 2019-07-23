@@ -1,0 +1,92 @@
+[
+    {
+        "categories": [
+            "anni di piombo",
+            "modi di dire italiani",
+            "storia d'italia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mogadiscio"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fotografi italiani",
+            "giornalisti assassinati",
+            "inviati e corrispondenti di guerra",
+            "morti a mogadiscio",
+            "morti il 20 marzo",
+            "morti nel 1994",
+            "nati a trieste",
+            "nati l'11 settembre",
+            "nati nel 1949"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fotografi italiani",
+            "giornalisti assassinati",
+            "inviati e corrispondenti di guerra",
+            "morti a mogadiscio",
+            "morti il 20 marzo",
+            "morti nel 1994",
+            "nati a trieste",
+            "nati l'11 settembre",
+            "nati nel 1949"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "terziario"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

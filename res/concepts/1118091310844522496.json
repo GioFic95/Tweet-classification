@@ -1,0 +1,112 @@
+[
+    {
+        "categories": [
+            "coppie di fratelli",
+            "ebrei statunitensi",
+            "famiglie statunitensi",
+            "nati il 21 settembre",
+            "nati il 29 novembre",
+            "nati nel 1954",
+            "nati nel 1957",
+            "premi bafta alla regia",
+            "premi oscar alla migliore sceneggiatura originale",
+            "premi oscar al miglior regista",
+            "premi oscar nel 1997",
+            "premi oscar nel 2008",
+            "produttori cinematografici statunitensi",
+            "produttori vincitori del premio oscar al miglior film",
+            "registi ebrei",
+            "registi statunitensi",
+            "registi statunitensi del xx secolo",
+            "sceneggiatori statunitensi",
+            "sceneggiatori statunitensi del xx secolo"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "anni di piombo",
+            "incendi",
+            "neofascismo",
+            "stragi commesse in italia"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "anni di piombo",
+            "incendi",
+            "neofascismo",
+            "stragi commesse in italia"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "csi - scena del crimine",
+            "episodi di serie televisive"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "anni di piombo",
+            "incendi",
+            "neofascismo",
+            "stragi commesse in italia"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "anni di piombo",
+            "incendi",
+            "neofascismo",
+            "stragi commesse in italia"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "roma q. xxvii primavalle"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "common law",
+            "reati"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

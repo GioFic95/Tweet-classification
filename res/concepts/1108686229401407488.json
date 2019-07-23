@@ -1,0 +1,39 @@
+[
+    {
+        "categories": [
+            "scuderie di rally",
+            "toyota"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "competizioni cestistiche francesi"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cestiste della dike basket napoli",
+            "cestiste della pallacanestro schio",
+            "cestiste del rivas ec\u00f3polis basket",
+            "cestiste del ros casares valencia",
+            "cestisti svincolati",
+            "cestisti ungheresi",
+            "nati a sopron",
+            "nati il 24 agosto",
+            "nati nel 1987"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

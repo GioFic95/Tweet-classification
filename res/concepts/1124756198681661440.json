@@ -1,0 +1,55 @@
+[
+    {
+        "categories": [
+            "architetture di ernesto basile",
+            "teatri all'italiana",
+            "teatri di palermo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "elementi architettonici",
+            "terminologia teatrale"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "eventi sociali",
+            "fiere",
+            "sociologia"
+        ],
+        "domains": [],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "architetture di roma scomparse",
+            "foro romano",
+            "roma r. x campitelli"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

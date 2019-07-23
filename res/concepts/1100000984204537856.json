@@ -1,0 +1,72 @@
+[
+    {
+        "categories": [
+            "editoria",
+            "giornalismo"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology",
+            "literature and theatre",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "linguaggi di programmazione",
+            "metadati"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "autori televisivi italiani",
+            "conduttori televisivi italiani",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "nati a torino",
+            "nati il 18 marzo",
+            "nati nel 1962",
+            "presentatori dei programmi in famiglia",
+            "presentatori di domenica in"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "categories": [
+            "chimica delle soluzioni",
+            "concetti fondamentali di chimica"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "rom"
+        ],
+        "domains": [
+            "computing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "morfologia"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "opere di giobbe covatta",
+            "romanzi del 1991",
+            "romanzi in napoletano",
+            "romanzi umoristici"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xvii legislatura della repubblica italiana",
+            "nati a palermo",
+            "nati il 16 maggio",
+            "nati nel 1981",
+            "politici del movimento 5 stelle",
+            "politici italiani del xxi secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "movimento 5 stelle",
+            "partiti politici italiani"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

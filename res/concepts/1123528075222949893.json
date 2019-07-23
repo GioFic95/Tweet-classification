@@ -1,0 +1,105 @@
+[
+    {
+        "categories": [
+            "deputati della consulta nazionale",
+            "deputati della democrazia cristiana",
+            "deputati della iii legislatura della repubblica italiana",
+            "deputati della ii legislatura della repubblica italiana",
+            "deputati della i legislatura della repubblica italiana",
+            "deputati della iv legislatura della repubblica italiana",
+            "deputati dell'assemblea costituente della repubblica italiana",
+            "deputati della v legislatura della repubblica italiana",
+            "governo bonomi ii",
+            "governo bonomi iii",
+            "governo de gasperi v",
+            "governo de gasperi vi",
+            "governo de gasperi vii",
+            "governo de gasperi viii",
+            "governo fanfani i",
+            "governo fanfani iv",
+            "governo leone i",
+            "governo moro i",
+            "governo moro ii",
+            "governo pella",
+            "governo scelba",
+            "governo segni i",
+            "governo zoli",
+            "ministri dei trasporti della repubblica italiana",
+            "ministri del commercio con l'estero della repubblica italiana",
+            "ministri dell'agricoltura e delle foreste della repubblica italiana",
+            "ministri delle poste e delle telecomunicazioni della repubblica italiana",
+            "morti a roma",
+            "morti il 1\u00ba marzo",
+            "morti nel 1971",
+            "nati a castellammare del golfo",
+            "nati il 15 settembre",
+            "nati nel 1905",
+            "politici della democrazia cristiana",
+            "politici italiani del xx secolo"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antropologia culturale",
+            "antropologia politica",
+            "antropologia sociale",
+            "costume",
+            "diritti umani",
+            "filosofia"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

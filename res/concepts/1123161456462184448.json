@@ -1,0 +1,28 @@
+[
+    {
+        "categories": [
+            "diocesi cattoliche erette prima del iv secolo",
+            "diocesi cattoliche in francia",
+            "metz"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "categories": [
+            "domenicani italiani",
+            "morti a firenze",
+            "morti il 23 maggio",
+            "morti nel 1498",
+            "nati a ferrara",
+            "nati il 21 settembre",
+            "nati nel 1452",
+            "persone giustiziate per eresia",
+            "persone giustiziate per impiccagione",
+            "politici italiani del xv secolo",
+            "predicatori italiani",
+            "presbiteri italiani",
+            "religiosi italiani",
+            "servi di dio italiani",
+            "vittime dell'inquisizione"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mesi dell'anno"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "imposte"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

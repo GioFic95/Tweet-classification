@@ -1,0 +1,44 @@
+[
+    {
+        "categories": [
+            "roma q. x ostiense",
+            "zone urbanistiche di roma"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "campionati di calcio"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "comunicazione politica",
+            "elezioni",
+            "generi di pubblicit\u00e0"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "professioni della scienza",
+            "professioni sanitarie"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

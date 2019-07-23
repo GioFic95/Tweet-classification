@@ -1,0 +1,30 @@
+[
+    {
+        "categories": [
+            "gruppi politici del parlamento europeo",
+            "partiti euroscettici",
+            "partiti politici europei del passato"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

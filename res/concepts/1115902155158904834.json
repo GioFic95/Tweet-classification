@@ -1,0 +1,69 @@
+[
+    {
+        "categories": [
+            "serie televisive della abc (stati uniti d'america)",
+            "serie televisive iniziate nel 1991",
+            "serie televisive statunitensi",
+            "serie televisive terminate nel 1998",
+            "sitcom",
+            "una bionda per pap\u00e0"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "design della comunicazione",
+            "semiotica",
+            "simboli",
+            "sociologia della cultura"
+        ],
+        "domains": [
+            "heraldry honors and vexillology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "navigazione a vela",
+            "venti"
+        ],
+        "domains": [
+            "meteorology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

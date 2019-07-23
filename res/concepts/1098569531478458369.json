@@ -1,0 +1,70 @@
+[
+    {
+        "categories": [
+            "assistenza sociale",
+            "diritto penale",
+            "emigrazione"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "titoli nobiliari"
+        ],
+        "domains": [
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "notazioni matematiche",
+            "sistemi di numerazione"
+        ],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film ambientati a napoli",
+            "film basati su opere di eduardo de filippo",
+            "film basati su opere teatrali",
+            "film commedia",
+            "film diretti da eduardo de filippo",
+            "film di tot\u00f2",
+            "film girati a napoli",
+            "film italiani del 1950"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

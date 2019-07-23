@@ -1,0 +1,41 @@
+[
+    {
+        "categories": [
+            "calciatori dell'u.s. rovereto",
+            "calciatori del mantova f.c.",
+            "calciatori italiani",
+            "nati a mantova",
+            "nati il 23 marzo",
+            "nati nel 1901"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forza italia (1994)",
+            "partiti conservatori italiani del passato",
+            "partiti politici italiani del passato"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

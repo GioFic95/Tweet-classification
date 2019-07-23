@@ -1,0 +1,34 @@
+[
+    {
+        "categories": [
+            "architetture di massimiliano fuksas",
+            "palazzi di roma",
+            "roma q. xxxii europa"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "parlamento statunitense"
+        ],
+        "domains": [
+            "law and crime",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "aziende fondate nel 2000",
+            "logo assente su wikidata",
+            "societ\u00e0 immobiliari italiane",
+            "societ\u00e0 partecipate dal ministero dell'economia e delle finanze"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

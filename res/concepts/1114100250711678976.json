@@ -1,0 +1,61 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cavalieri dell'ordine supremo della santissima annunziata",
+            "decorati con l'ordine dei santi maurizio e lazzaro",
+            "diplomatici italiani",
+            "governo alfieri",
+            "morti a firenze",
+            "morti il 16 aprile",
+            "morti nel 1869",
+            "nati a torino",
+            "nati il 13 agosto",
+            "nati nel 1799",
+            "politici italiani del xix secolo",
+            "presidenti del consiglio dei ministri del regno di sardegna",
+            "sepolti nella basilica di santa croce"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "camere alte nazionali",
+            "parlamento francese"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "storia di roma nell'et\u00e0 moderna",
+            "storia di roma nel medioevo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "famiglia"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

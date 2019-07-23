@@ -1,0 +1,43 @@
+[
+    {
+        "categories": [
+            "editoria",
+            "giornalismo"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "emittenti radiofoniche con sede a milano",
+            "emittenti radiofoniche italiane a diffusione nazionale",
+            "il sole 24 ore"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "caltagirone editore",
+            "editoria in campania",
+            "periodici fondati nel 1892",
+            "periodici in lingua italiana",
+            "quotidiani italiani"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

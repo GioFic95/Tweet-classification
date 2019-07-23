@@ -1,0 +1,73 @@
+[
+    {
+        "categories": [
+            "governo degli stati uniti d'america",
+            "presidenti degli stati uniti d'america"
+        ],
+        "domains": [
+            "politics and government",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "accademici italiani del xx secolo",
+            "cavalieri di gran croce omri",
+            "deputati della democrazia cristiana",
+            "deputati della ix legislatura della repubblica italiana",
+            "deputati della xiii legislatura della repubblica italiana",
+            "deputati della xii legislatura della repubblica italiana",
+            "deputati della xiv legislatura della repubblica italiana",
+            "deputati della x legislatura della repubblica italiana",
+            "deputati della xv legislatura della repubblica italiana",
+            "deputati dell'xi legislatura della repubblica italiana",
+            "figli d'arte",
+            "giudici della corte costituzionale della repubblica italiana",
+            "giuristi italiani del xxi secolo",
+            "giuristi italiani del xx secolo",
+            "governo amato ii",
+            "governo andreotti vi",
+            "governo d'alema i",
+            "governo d'alema ii",
+            "governo de mita",
+            "governo goria",
+            "ministri della difesa della repubblica italiana",
+            "ministri della pubblica istruzione della repubblica italiana",
+            "ministri per i rapporti con il parlamento della repubblica italiana",
+            "nati a palermo",
+            "nati il 23 luglio",
+            "nati nel 1941",
+            "politici della democrazia cristiana",
+            "politici della margherita",
+            "politici del partito democratico (italia)",
+            "politici del partito popolare italiano (1994)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "presidenti della repubblica italiana",
+            "studenti della sapienza - universit\u00e0 di roma"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "parti del giorno"
+        ],
+        "domains": [
+            "meteorology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

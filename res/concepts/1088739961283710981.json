@@ -1,0 +1,23 @@
+[
+    {
+        "categories": [
+            "numeri grandi"
+        ],
+        "domains": [
+            "business economics and finance",
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "dollaro"
+        ],
+        "domains": [
+            "numismatics and currencies"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "categories": [
+            "elaborazione del linguaggio naturale",
+            "filosofia del linguaggio",
+            "logica"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "games and video games",
+            "mathematics",
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

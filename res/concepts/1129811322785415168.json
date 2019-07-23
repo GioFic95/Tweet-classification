@@ -1,0 +1,22 @@
+[
+    {
+        "categories": [
+            "partiti politici sudafricani"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "festival musicali britannici"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

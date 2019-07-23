@@ -1,0 +1,22 @@
+[
+    {
+        "categories": [
+            "sms"
+        ],
+        "domains": [
+            "computing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "aziende del passato",
+            "aziende fondate nel 1999",
+            "compagnie telefoniche italiane del passato"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

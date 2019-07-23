@@ -1,0 +1,50 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "palermo"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "acido-base",
+            "propriet\u00e0 chimiche",
+            "unit\u00e0 di concentrazione"
+        ],
+        "domains": [
+            "chemistry and mineralogy",
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "calciatori del f.c. internazionale milano",
+            "calciatori della juventus f.c.",
+            "calciatori della nazionale italiana",
+            "calciatori dello j\u00fabilo iwata",
+            "calciatori italiani",
+            "cavalieri omri",
+            "concorrenti de l'isola dei famosi",
+            "nati a palermo",
+            "nati il 1\u00ba dicembre",
+            "nati nel 1964"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

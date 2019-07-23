@@ -1,0 +1,98 @@
+[
+    {
+        "categories": [
+            "nutrizione"
+        ],
+        "domains": [
+            "farming"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "farming",
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "batteriologia",
+            "biologia molecolare",
+            "chimica ambientale",
+            "fitofarmaci"
+        ],
+        "domains": [
+            "chemistry and mineralogy",
+            "farming"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "salute"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "euro",
+            "monetazioni europee",
+            "simboli europei",
+            "unioni monetarie",
+            "valute africane",
+            "valute americane",
+            "valute europee",
+            "valute in corso"
+        ],
+        "domains": [
+            "numismatics and currencies"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "categories": [
+            "carsismo",
+            "geomorfologia"
+        ],
+        "domains": [
+            "geology and geophysics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "kata del judo",
+            "tecniche delle arti marziali"
+        ],
+        "domains": [],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "collezionismo",
+            "commercio",
+            "oggetti",
+            "turismo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

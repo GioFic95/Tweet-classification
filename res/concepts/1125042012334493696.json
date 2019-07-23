@@ -1,0 +1,74 @@
+[
+    {
+        "categories": [
+            "armi antiche",
+            "armi bianche da lancio",
+            "armi bianche da punta",
+            "armi bianche dell'europa non mediterranea",
+            "armi bianche del medio oriente",
+            "armi bianche europee",
+            "armi inastate",
+            "armi medievali"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ingegneria aerospaziale"
+        ],
+        "domains": [
+            "engineering and technology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "filosofia della mente",
+            "filosofia greca",
+            "parole e locuzioni della lingua greca",
+            "processi psicologici",
+            "scienze cognitive"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "comunismo",
+            "ideologie politiche"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "heraldry honors and vexillology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

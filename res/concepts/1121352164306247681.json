@@ -1,0 +1,180 @@
+[
+    {
+        "categories": [
+            "accademici italiani del xx secolo",
+            "deputati della vii legislatura della repubblica italiana",
+            "deputati della vi legislatura della repubblica italiana",
+            "deputati della v legislatura della repubblica italiana",
+            "deputati dell'viii legislatura della repubblica italiana",
+            "fondatori di riviste italiane",
+            "geografi italiani",
+            "governo andreotti v",
+            "governo cossiga ii",
+            "governo forlani",
+            "governo spadolini i",
+            "meridionalismo",
+            "ministri dei lavori pubblici della repubblica italiana",
+            "morti a capri",
+            "morti il 24 luglio",
+            "morti nel 1982",
+            "nati a napoli",
+            "nati il 31 luglio",
+            "nati nel 1921",
+            "politici del partito liberale italiano",
+            "politici del partito radicale",
+            "politici del partito repubblicano italiano",
+            "politici italiani del xx secolo",
+            "professori all'universit\u00e0 di napoli"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antifascismo",
+            "partigiani"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "confinati politici",
+            "deputati della consulta nazionale",
+            "deputati della iii legislatura della repubblica italiana",
+            "deputati della ii legislatura della repubblica italiana",
+            "deputati della iv legislatura della repubblica italiana",
+            "deputati dell'assemblea costituente della repubblica italiana",
+            "deputati della vii legislatura della repubblica italiana",
+            "deputati della vi legislatura della repubblica italiana",
+            "deputati della v legislatura della repubblica italiana",
+            "direttori di periodici",
+            "giornalisti italiani del xx secolo",
+            "giornalisti legati a roma",
+            "medaglie d'argento al valor militare",
+            "medaglie d'oro al valor militare",
+            "militari italiani della prima guerra mondiale",
+            "morti a roma",
+            "morti il 24 febbraio",
+            "morti nel 1990",
+            "nati a stella (italia)",
+            "nati il 25 settembre",
+            "nati nel 1896",
+            "partigiani italiani",
+            "partigiani operanti a roma",
+            "personalit\u00e0 dell'ateismo",
+            "persone legate a savona",
+            "politici del partito socialista italiano",
+            "politici italiani del xx secolo",
+            "politici legati a roma",
+            "presidenti della camera dei deputati",
+            "presidenti della repubblica italiana",
+            "resistenza in liguria",
+            "schedati al casellario politico centrale",
+            "senatori a vita italiani",
+            "socialisti",
+            "ufficiali del regio esercito"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "confinati politici",
+            "deputati della consulta nazionale",
+            "deputati della iii legislatura della repubblica italiana",
+            "deputati della ii legislatura della repubblica italiana",
+            "deputati della iv legislatura della repubblica italiana",
+            "deputati dell'assemblea costituente della repubblica italiana",
+            "deputati della vii legislatura della repubblica italiana",
+            "deputati della vi legislatura della repubblica italiana",
+            "deputati della v legislatura della repubblica italiana",
+            "direttori di periodici",
+            "giornalisti italiani del xx secolo",
+            "giornalisti legati a roma",
+            "medaglie d'argento al valor militare",
+            "medaglie d'oro al valor militare",
+            "militari italiani della prima guerra mondiale",
+            "morti a roma",
+            "morti il 24 febbraio",
+            "morti nel 1990",
+            "nati a stella (italia)",
+            "nati il 25 settembre",
+            "nati nel 1896",
+            "partigiani italiani",
+            "partigiani operanti a roma",
+            "personalit\u00e0 dell'ateismo",
+            "persone legate a savona",
+            "politici del partito socialista italiano",
+            "politici italiani del xx secolo",
+            "politici legati a roma",
+            "presidenti della camera dei deputati",
+            "presidenti della repubblica italiana",
+            "resistenza in liguria",
+            "schedati al casellario politico centrale",
+            "senatori a vita italiani",
+            "socialisti",
+            "ufficiali del regio esercito"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "radio"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forme di protesta",
+            "scioperi"
+        ],
+        "domains": [
+            "law and crime",
+            "numismatics and currencies"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "numismatics and currencies",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fascismo",
+            "nazismo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

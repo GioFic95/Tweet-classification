@@ -1,0 +1,98 @@
+[
+    {
+        "categories": [
+            "11 settembre 2001",
+            "giorni di settembre",
+            "storia di new york"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "brocardi",
+            "common law",
+            "diritto comparato",
+            "fonti del diritto",
+            "storia del diritto",
+            "teoria del diritto"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "grandezze astronomiche",
+            "leghe metalliche",
+            "leghe per monete"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "autori televisivi italiani",
+            "conduttori televisivi italiani",
+            "direttori di periodici",
+            "europarlamentari italiani della vi legislatura",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "nati a salerno",
+            "nati il 2 luglio",
+            "nati nel 1951",
+            "politici dei democratici di sinistra"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

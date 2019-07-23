@@ -1,0 +1,56 @@
+[
+    {
+        "categories": [
+            "deputati della xvi legislatura della repubblica italiana",
+            "deputati della xv legislatura della repubblica italiana",
+            "europarlamentari italiani della v legislatura",
+            "nati a taranto",
+            "nati il 18 aprile",
+            "nati nel 1960",
+            "politici della rosa nel pugno",
+            "politici del partito radicale",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "lingua turca",
+            "lingue sov"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "professioni nei servizi"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "partiti politici"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

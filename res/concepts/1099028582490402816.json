@@ -1,0 +1,87 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "filosofi tedeschi del xviii secolo",
+            "immanuel kant",
+            "morti a k\u00f6nigsberg",
+            "morti il 12 febbraio",
+            "morti nel 1804",
+            "nati a k\u00f6nigsberg",
+            "nati il 22 aprile",
+            "nati nel 1724"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "epistemologia"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xiv legislatura della repubblica italiana",
+            "governo prodi ii",
+            "nati a milano",
+            "nati il 6 agosto",
+            "nati nel 1964",
+            "politici dei socialisti democratici italiani",
+            "politici dei socialisti italiani",
+            "politici del nuovo psi",
+            "politici del partito socialista italiano",
+            "politici del partito socialista italiano (2007)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xiv legislatura della repubblica italiana",
+            "governo prodi ii",
+            "nati a milano",
+            "nati il 6 agosto",
+            "nati nel 1964",
+            "politici dei socialisti democratici italiani",
+            "politici dei socialisti italiani",
+            "politici del nuovo psi",
+            "politici del partito socialista italiano",
+            "politici del partito socialista italiano (2007)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

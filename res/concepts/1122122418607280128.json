@@ -1,0 +1,95 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "chiesa cattolica in africa",
+            "congregazioni clericali"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cammino neocatecumenale"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "famiglia"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fondatori di societ\u00e0 e istituti cattolici",
+            "missionari italiani",
+            "morti a khartum",
+            "morti il 10 ottobre",
+            "morti nel 1881",
+            "nati a limone sul garda",
+            "nati il 15 marzo",
+            "nati nel 1831",
+            "santi canonizzati da giovanni paolo ii",
+            "santi comboniani",
+            "santi italiani del xix secolo",
+            "santi per nome",
+            "vescovi cattolici italiani del xix secolo"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fondatori di societ\u00e0 e istituti cattolici",
+            "missionari italiani",
+            "morti a khartum",
+            "morti il 10 ottobre",
+            "morti nel 1881",
+            "nati a limone sul garda",
+            "nati il 15 marzo",
+            "nati nel 1831",
+            "santi canonizzati da giovanni paolo ii",
+            "santi comboniani",
+            "santi italiani del xix secolo",
+            "santi per nome",
+            "vescovi cattolici italiani del xix secolo"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

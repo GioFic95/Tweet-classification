@@ -1,0 +1,39 @@
+[
+    {
+        "categories": [
+            "elezioni europee"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "contabilit\u00e0",
+            "diritto societario",
+            "documenti amministrativi"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film basati su opere letterarie",
+            "film di fantascienza",
+            "film post apocalittici",
+            "film remake",
+            "film statunitensi del 2014",
+            "film su incidenti e disastri aerei"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

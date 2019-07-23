@@ -1,0 +1,74 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "alimenti con propriet\u00e0 antiossidanti",
+            "vino"
+        ],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "gas naturale"
+        ],
+        "domains": [],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "amministrazione di londra",
+            "londra"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "coreografi italiani",
+            "danzatori italiani",
+            "esuli giuliano-dalmati",
+            "morti a roma",
+            "morti il 5 aprile",
+            "morti nel 2011",
+            "nati a pola",
+            "nati il 9 novembre",
+            "nati nel 1937",
+            "registi italiani del xxi secolo",
+            "registi italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "categories": [
+            "cariche politiche",
+            "diritto parlamentare"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto costituzionale",
+            "organi degli enti territoriali d'italia"
+        ],
+        "domains": [
+            "geography and places",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "grandezze astronomiche",
+            "leghe metalliche",
+            "leghe per monete"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "filosofi italiani del xvi secolo",
+            "latinisti italiani",
+            "letterati italiani",
+            "morti a venezia",
+            "nati a brindisi",
+            "nati nel 1540"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "storia del mali"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto della navigazione",
+            "gradi di marina",
+            "marina mercantile",
+            "ruoli della nautica"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

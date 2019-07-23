@@ -1,0 +1,38 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "animali della mitologia greca",
+            "concetti e principi filosofici",
+            "georg wilhelm friedrich hegel",
+            "mitologia romana"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "divinit\u00e0 della guerra",
+            "minerva",
+            "mitologia romana",
+            "personaggi del de mulieribus claris"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

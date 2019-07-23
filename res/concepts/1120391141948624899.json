@@ -1,0 +1,83 @@
+[
+    {
+        "categories": [
+            "propaganda"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "criminali italiani",
+            "mafiosi legati a cosa nostra",
+            "nati a castelvetrano",
+            "nati il 26 aprile",
+            "nati nel 1962"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xvii legislatura della repubblica italiana",
+            "deputati della xvi legislatura della repubblica italiana",
+            "europarlamentari italiani della viii legislatura",
+            "europarlamentari italiani della vii legislatura",
+            "europarlamentari italiani della vi legislatura",
+            "euroscetticismo",
+            "nati a milano",
+            "nati il 9 marzo",
+            "nati nel 1973",
+            "politici della lega nord",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "studenti dell'universit\u00e0 degli studi di milano"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "euro",
+            "monetazioni europee",
+            "simboli europei",
+            "unioni monetarie",
+            "valute africane",
+            "valute americane",
+            "valute europee",
+            "valute in corso"
+        ],
+        "domains": [
+            "numismatics and currencies"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "prima guerra mondiale"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

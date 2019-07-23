@@ -1,0 +1,88 @@
+[
+    {
+        "categories": [
+            "costume"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ricompense militari romane"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "artisti alla posizione numero 1 della classifica singoli italiana",
+            "autori partecipanti al festival di sanremo",
+            "cantanti in attivit\u00e0",
+            "cantautori italiani del xx secolo",
+            "cantautori pop rock",
+            "cantautori rock",
+            "chitarristi italiani",
+            "chitarristi pop rock",
+            "gruppi e musicisti della dischi ricordi",
+            "gruppi e musicisti della sony music",
+            "gruppi e musicisti della toscana",
+            "musicisti italiani del xxi secolo",
+            "musicisti italiani del xx secolo",
+            "nati a siena",
+            "nati il 14 giugno",
+            "nati nel 1954",
+            "persone che hanno fatto coming out",
+            "studenti dell'universit\u00e0 di siena",
+            "vincitori del festivalbar"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "retorica"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "politica"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

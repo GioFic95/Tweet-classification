@@ -1,0 +1,52 @@
+[
+    {
+        "categories": [
+            "unit\u00e0 di tempo"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "parassitologia"
+        ],
+        "domains": [
+            "biology",
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "camilliani",
+            "morti a milano",
+            "morti il 20 agosto",
+            "morti nel 2004",
+            "nati a roverbella",
+            "nati il 25 marzo",
+            "nati nel 1928",
+            "religiosi italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

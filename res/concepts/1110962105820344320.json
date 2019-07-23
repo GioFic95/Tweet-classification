@@ -1,0 +1,83 @@
+[
+    {
+        "categories": [
+            "governo degli stati uniti d'america",
+            "presidenti degli stati uniti d'america"
+        ],
+        "domains": [
+            "politics and government",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "enti pubblici di ricerca",
+            "enti pubblici italiani per funzione",
+            "istituti di statistica",
+            "statistica in italia"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "parlamento statunitense"
+        ],
+        "domains": [
+            "law and crime",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "restaurazione francese",
+            "restaurazione spagnola",
+            "risorgimento italiano",
+            "storia contemporanea europea",
+            "storia dell'austria",
+            "storia di verona"
+        ],
+        "domains": [
+            "history",
+            "royalty and nobility",
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

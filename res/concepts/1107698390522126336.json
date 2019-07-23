@@ -1,0 +1,87 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto comparato",
+            "procedure giudiziarie",
+            "storia del diritto",
+            "teoria del diritto",
+            "tribunale"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "diritto comparato",
+            "diritto costituzionale",
+            "diritto pubblico",
+            "procedure giudiziarie",
+            "professioni legali"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "assassinati con arma da fuoco",
+            "magistrati italiani",
+            "morti a milano",
+            "morti il 19 marzo",
+            "morti nel 1980",
+            "nati a bergamo",
+            "nati il 28 giugno",
+            "nati nel 1932",
+            "vittime degli anni di piombo e della strategia della tensione"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "assassinati con arma da fuoco",
+            "magistrati italiani",
+            "morti a milano",
+            "morti il 29 gennaio",
+            "morti nel 1979",
+            "nati a penne",
+            "nati il 30 agosto",
+            "nati nel 1942",
+            "vittime degli anni di piombo e della strategia della tensione"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

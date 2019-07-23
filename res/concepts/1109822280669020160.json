@@ -1,0 +1,39 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antisemitismo",
+            "compositori d'opera",
+            "compositori romantici",
+            "pianisti tedeschi",
+            "poeti tedeschi",
+            "richard wagner",
+            "saggisti tedeschi",
+            "scrittori tedeschi del xix secolo",
+            "sostenitori del vegetarianismo",
+            "teorici dei diritti animali"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

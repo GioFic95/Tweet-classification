@@ -1,0 +1,90 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "europa danubiana",
+            "romania"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "videogiochi del 2009",
+            "videogiochi nintendo",
+            "videogiochi per nintendo ds",
+            "videogiochi rompicapo",
+            "warioware"
+        ],
+        "domains": [
+            "games and video games"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cavalieri della croce di ferro",
+            "cavalieri dell'ordine al merito di pietro federico luigi",
+            "cavalieri dell'ordine al merito militare (baviera)",
+            "cavalieri dell'ordine della corona ferrea",
+            "cavalieri dell'ordine della corona (prussia)",
+            "cavalieri dell'ordine dell'aquila rossa",
+            "cavalieri dell'ordine di hohenzollern",
+            "cavalieri dell'ordine di san giovanni del baliaggio di brandeburgo",
+            "cavalieri dell'ordine militare di massimiliano giuseppe",
+            "cavalieri dell'ordine pour le m\u00e9rite",
+            "generali tedeschi",
+            "morti a monaco di baviera",
+            "morti il 31 dicembre",
+            "morti nel 1946",
+            "nati a monaco di baviera",
+            "nati il 16 ottobre",
+            "nati nel 1868",
+            "personalit\u00e0 tedesche della seconda guerra mondiale"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

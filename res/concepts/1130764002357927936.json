@@ -1,0 +1,73 @@
+[
+    {
+        "categories": [
+            "cavalieri dell'ordine della giarrettiera",
+            "cavalieri dell'ordine di san giorgio",
+            "cavalieri dell'ordine di san vladimiro",
+            "cavalieri dell'ordine supremo della santissima annunziata",
+            "cavalieri di gran croce dell'ordine dei santi maurizio e lazzaro",
+            "imperatori di russia",
+            "marescialli di campo britannici",
+            "medaglie d'oro al valor militare",
+            "morti a ekaterinburg",
+            "morti il 17 luglio",
+            "morti nel 1918",
+            "nati a pu\u0161kin (san pietroburgo)",
+            "nati il 18 maggio",
+            "nati nel 1868",
+            "personalit\u00e0 commemorate con funerali di stato",
+            "personalit\u00e0 russe della prima guerra mondiale",
+            "persone giustiziate per fucilazione",
+            "romanov",
+            "santi della chiesa ortodossa",
+            "santi per nome",
+            "santi russi del xx secolo",
+            "vittime di dittature comuniste",
+            "zar di russia"
+        ],
+        "domains": [
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xvii legislatura della repubblica italiana",
+            "nati a pisa",
+            "nati il 4 ottobre",
+            "nati nel 1972",
+            "politici di sinistra ecologia libert\u00e0",
+            "politici italiani del xxi secolo",
+            "studenti dell'universit\u00e0 di pisa"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "sociologia",
+            "storia militare"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "gruppi etnici",
+            "sociologia del diritto",
+            "sociologia politica",
+            "teoria del diritto"
+        ],
+        "domains": [
+            "law and crime",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

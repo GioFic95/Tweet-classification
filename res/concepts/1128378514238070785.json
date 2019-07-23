@@ -1,0 +1,32 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ecosistemi"
+        ],
+        "domains": [
+            "geography and places",
+            "meteorology",
+            "farming"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ecosistemi"
+        ],
+        "domains": [
+            "farming",
+            "geography and places",
+            "meteorology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

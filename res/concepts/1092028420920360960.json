@@ -1,0 +1,61 @@
+[
+    {
+        "categories": [
+            "remunerazione del lavoro"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "conduttori televisivi italiani",
+            "direttori di telegiornale",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "nati all'aquila",
+            "nati il 27 maggio",
+            "nati nel 1944",
+            "scrittori italiani del xxi secolo",
+            "scrittori italiani del xx secolo",
+            "vincitori del premio bancarella",
+            "vincitori del premio saint vincent"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antropologia culturale",
+            "antropologia politica",
+            "antropologia sociale",
+            "costume",
+            "diritti umani",
+            "filosofia"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "categories": [
+            "famiglia",
+            "infanzia"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "povert\u00e0"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "scuola"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "neuropsicologia",
+            "neuroscienze",
+            "processi cognitivi",
+            "psicologia cognitiva"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antropologia filosofica",
+            "comunisti in germania",
+            "ebrei tedeschi",
+            "economisti tedeschi",
+            "esponenti della sinistra hegeliana",
+            "filosofi atei",
+            "filosofi della politica",
+            "filosofi della storia",
+            "filosofi tedeschi del xix secolo",
+            "giornalisti tedeschi del xix secolo",
+            "marxismo",
+            "materialisti",
+            "morti a londra",
+            "morti il 14 marzo",
+            "morti nel 1883",
+            "nati a treviri",
+            "nati il 5 maggio",
+            "nati nel 1818",
+            "politologi tedeschi",
+            "religione e politica",
+            "socialisti",
+            "sociologi tedeschi",
+            "studenti dell'universit\u00e0 di bonn"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

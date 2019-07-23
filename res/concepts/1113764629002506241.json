@@ -1,0 +1,59 @@
+[
+    {
+        "categories": [
+            "film commedia",
+            "film statunitensi del 1986"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attori statunitensi del xx secolo",
+            "attori suicidi",
+            "cantanti statunitensi del xx secolo",
+            "david di donatello per la migliore attrice straniera",
+            "golden globe per la migliore attrice in un film commedia o musicale",
+            "marilyn monroe",
+            "modelli statunitensi",
+            "morti a los angeles",
+            "morti il 5 agosto",
+            "morti nel 1962",
+            "morti per overdose",
+            "nati a los angeles",
+            "nati il 1\u00ba giugno",
+            "nati nel 1926",
+            "pin-up",
+            "playmate di playboy",
+            "studenti del lee strasberg theatre and film institute"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "metrica"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film ambientati nel futuro",
+            "film commedia fantascientifica",
+            "film diretti da carlo vanzina",
+            "film distopici",
+            "film italiani del 2007",
+            "film post apocalittici"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film ambientati nell'antica roma",
+            "film comici",
+            "film diretti da carlo vanzina",
+            "film italiani del 1994"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "versioni della bibbia cristiana"
+        ],
+        "domains": [
+            "literature and theatre",
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

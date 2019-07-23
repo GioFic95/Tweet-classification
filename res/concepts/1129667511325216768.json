@@ -1,0 +1,62 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cantanti beat",
+            "cantanti blues",
+            "cantanti della canzone napoletana",
+            "cantanti in attivit\u00e0",
+            "cantanti italiani",
+            "cantanti jazz",
+            "cantanti pop",
+            "cantanti swing",
+            "nati a piedimonte matese",
+            "nati il 9 maggio",
+            "nati nel 1949",
+            "produttori discografici italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mari"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "reti televisive della rai",
+            "sky italia"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

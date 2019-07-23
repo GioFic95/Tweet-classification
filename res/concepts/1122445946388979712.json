@@ -1,0 +1,101 @@
+[
+    {
+        "categories": [
+            "fascismo"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film ambientati a cremona",
+            "film commedia",
+            "film italiani del 2006"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "razzismo"
+        ],
+        "domains": [
+            "culture and society",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film ambientati a cremona",
+            "film commedia",
+            "film italiani del 2006"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "drammaturghi spagnoli",
+            "filosofi spagnoli",
+            "morti a salamanca",
+            "morti il 31 dicembre",
+            "morti nel 1936",
+            "nati a bilbao",
+            "nati il 29 settembre",
+            "nati nel 1864",
+            "poeti spagnoli",
+            "politici spagnoli",
+            "rettori spagnoli",
+            "scrittori spagnoli"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "drammaturghi spagnoli",
+            "filosofi spagnoli",
+            "morti a salamanca",
+            "morti il 31 dicembre",
+            "morti nel 1936",
+            "nati a bilbao",
+            "nati il 29 settembre",
+            "nati nel 1864",
+            "poeti spagnoli",
+            "politici spagnoli",
+            "rettori spagnoli",
+            "scrittori spagnoli"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

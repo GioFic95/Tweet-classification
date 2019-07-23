@@ -1,0 +1,46 @@
+[
+    {
+        "categories": [
+            "famiglia"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "compositori francesi",
+            "enciclopedisti svizzeri",
+            "filosofia romantica",
+            "filosofi del diritto",
+            "filosofi della politica",
+            "filosofi francesi del xviii secolo",
+            "filosofi svizzeri",
+            "illuministi",
+            "jean-jacques rousseau",
+            "memorialisti svizzeri",
+            "morti il 2 luglio",
+            "morti nel 1778",
+            "musicisti svizzeri",
+            "nati a ginevra",
+            "nati il 28 giugno",
+            "nati nel 1712",
+            "pedagogisti svizzeri",
+            "personalit\u00e0 commemorate con funerali di stato",
+            "personalit\u00e0 impegnate contro lo schiavismo",
+            "pre-esistenzialisti",
+            "scrittori svizzeri",
+            "scrittori svizzeri in lingua francese",
+            "sepolti nel pantheon (parigi)",
+            "sostenitori del vegetarianismo",
+            "teorici dei diritti animali"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

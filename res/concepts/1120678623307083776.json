@@ -1,0 +1,87 @@
+[
+    {
+        "categories": [
+            "mesi dell'anno"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "appello",
+            "diritto"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "benemeriti della cultura e dell'arte",
+            "filologi italiani",
+            "nati a bari",
+            "nati il 5 giugno",
+            "nati nel 1942",
+            "politici del partito dei comunisti italiani",
+            "saggisti italiani del xx secolo",
+            "storici italiani del xxi secolo",
+            "storici italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "benemeriti della cultura e dell'arte",
+            "filologi italiani",
+            "nati a bari",
+            "nati il 5 giugno",
+            "nati nel 1942",
+            "politici del partito dei comunisti italiani",
+            "saggisti italiani del xx secolo",
+            "storici italiani del xxi secolo",
+            "storici italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fascismo"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

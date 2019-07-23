@@ -1,0 +1,56 @@
+[
+    {
+        "categories": [
+            "album del 1998",
+            "album della canzone napoletana",
+            "album di gigi d'alessio",
+            "album pop"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "emozioni e sentimenti",
+            "psichiatria",
+            "psicoanalisi"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "casi giudiziari",
+            "criminali italiani",
+            "delitti di cronaca nera in italia",
+            "reati di omicidio nel 1971"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

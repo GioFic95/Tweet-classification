@@ -1,0 +1,49 @@
+[
+    {
+        "categories": [
+            "commercio internazionale",
+            "dogana",
+            "figure e regole del trasporto merci",
+            "terminologia commerciale"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mezzi per la movimentazione delle merci",
+            "parti di veicoli",
+            "trasporto di merci su strada"
+        ],
+        "domains": [
+            "engineering and technology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

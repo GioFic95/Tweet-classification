@@ -1,0 +1,56 @@
+[
+    {
+        "categories": [
+            "commissione juncker",
+            "nati a maastricht",
+            "nati il 6 maggio",
+            "nati nel 1961",
+            "politici olandesi"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "angoli",
+            "poliedri",
+            "poligoni"
+        ],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "comunit\u00e0 economiche",
+            "premi nobel nel 2012",
+            "unione europea",
+            "vincitori del premio nobel per la pace"
+        ],
+        "domains": [
+            "law and crime",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

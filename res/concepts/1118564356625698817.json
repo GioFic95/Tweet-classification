@@ -1,0 +1,23 @@
+[
+    {
+        "categories": [
+            "punti cardinali"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ascomycota"
+        ],
+        "domains": [
+            "biology",
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

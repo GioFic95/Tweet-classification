@@ -1,0 +1,55 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti religiosi",
+            "filosofia della religione",
+            "religione",
+            "simboli cristiani",
+            "teologia",
+            "teologia ebraica"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "leiji matsumoto",
+            "manga del 1980",
+            "seinen",
+            "serie televisive anime del 1981",
+            "toei animation"
+        ],
+        "domains": [
+            "media",
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "pirateria"
+        ],
+        "domains": [
+            "history",
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

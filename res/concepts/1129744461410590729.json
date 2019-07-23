@@ -1,0 +1,76 @@
+[
+    {
+        "categories": [
+            "piazze di roma",
+            "roma r. ii trevi"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "elementi architettonici",
+            "terminologia teatrale"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati francesi",
+            "europarlamentari francesi della viii legislatura",
+            "europarlamentari francesi della vii legislatura",
+            "europarlamentari francesi della vi legislatura",
+            "figli d'arte",
+            "le pen",
+            "nati a neuilly-sur-seine",
+            "nati il 5 agosto",
+            "nati nel 1968",
+            "politici del fronte nazionale (francia)",
+            "politici francesi del xxi secolo",
+            "politici francesi del xx secolo"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antislamisti",
+            "nati a venlo",
+            "nati il 6 settembre",
+            "nati nel 1963",
+            "personalit\u00e0 dell'agnosticismo",
+            "politici olandesi",
+            "registi olandesi"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giornalismo",
+            "terminologia televisiva"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

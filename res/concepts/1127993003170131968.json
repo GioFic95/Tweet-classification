@@ -1,0 +1,66 @@
+[
+    {
+        "categories": [
+            "nati a sassari",
+            "nati il 31 agosto",
+            "nati nel 1935",
+            "vescovi cattolici italiani del xxi secolo",
+            "vescovi cattolici italiani del xx secolo",
+            "vescovi di nuoro"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giorno",
+            "unit\u00e0 di tempo"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "liste di ministri degli affari interni",
+            "liste di segretari di stato del regno unito",
+            "segretari di stato britannici"
+        ],
+        "domains": [
+            "law and crime",
+            "politics and government",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

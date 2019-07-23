@@ -1,0 +1,68 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cosa nostra",
+            "mafia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cosa nostra",
+            "mafia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della iii legislatura della repubblica italiana",
+            "deputati della ii legislatura della repubblica italiana",
+            "deputati della i legislatura della repubblica italiana",
+            "deputati dell'assemblea costituente della repubblica italiana",
+            "morti a sarzana",
+            "morti l'11 maggio",
+            "morti nel 1983",
+            "nati a castagneto carducci",
+            "nati il 21 aprile",
+            "nati nel 1912",
+            "partigiani italiani",
+            "politici del partito comunista d'italia",
+            "politici del partito comunista italiano",
+            "politici italiani del xx secolo",
+            "sindaci italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

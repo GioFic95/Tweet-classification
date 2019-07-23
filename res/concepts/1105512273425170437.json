@@ -1,0 +1,94 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "gestione della memoria",
+            "memorie informatiche"
+        ],
+        "domains": [
+            "computing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della ix legislatura della repubblica italiana",
+            "deputati della vii legislatura della repubblica italiana",
+            "deputati della vi legislatura della repubblica italiana",
+            "deputati della x legislatura della repubblica italiana",
+            "deputati dell'viii legislatura della repubblica italiana",
+            "deputati dell'xi legislatura della repubblica italiana",
+            "giornalisti italiani del xx secolo",
+            "governo andreotti v",
+            "governo andreotti vi",
+            "governo andreotti vii",
+            "governo de mita",
+            "governo goria",
+            "governo moro iv",
+            "ministri dell'industria, del commercio e dell'artigianato della repubblica italiana",
+            "nati a viterbo",
+            "nati il 10 febbraio",
+            "nati nel 1930",
+            "politici del partito repubblicano italiano",
+            "politici italiani del xx secolo",
+            "repubblicanesimo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "salute"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

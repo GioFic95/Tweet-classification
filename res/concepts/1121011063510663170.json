@@ -1,0 +1,79 @@
+[
+    {
+        "categories": [
+            "amministrazione aziendale"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "escatologia",
+            "morte",
+            "processi fisiologici generali"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "violenza"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attivisti italiani",
+            "giornalismo in sicilia",
+            "giornalisti assassinati",
+            "giornalisti italiani del xx secolo",
+            "lotta alla mafia",
+            "morti a cinisi",
+            "morti il 9 maggio",
+            "morti nel 1978",
+            "nati a cinisi",
+            "nati il 5 gennaio",
+            "nati nel 1948",
+            "politici del partito socialista italiano di unit\u00e0 proletaria",
+            "politici di democrazia proletaria",
+            "vittime di cosa nostra"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "libia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

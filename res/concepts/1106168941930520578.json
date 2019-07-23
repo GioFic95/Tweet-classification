@@ -1,0 +1,64 @@
+[
+    {
+        "categories": [
+            "editoria",
+            "giornalismo"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "europarlamentari italiani della vi legislatura",
+            "nati a roma",
+            "nati l'11 ottobre",
+            "nati nel 1965",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "politici legati a roma",
+            "presidenti della provincia di roma",
+            "presidenti del lazio"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti delle scienze etnoantropologiche",
+            "diritto",
+            "etica",
+            "famiglia"
+        ],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "periodici cattolici italiani",
+            "periodici fondati nel 1931",
+            "periodici in lingua italiana",
+            "riviste cattoliche",
+            "settimanali italiani"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

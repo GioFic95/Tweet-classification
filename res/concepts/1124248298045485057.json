@@ -1,0 +1,71 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ordine della santissima trinit\u00e0",
+            "ordini mendicanti"
+        ],
+        "domains": [
+            "religion mysticism and mythology",
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "assistenza sociale",
+            "diritto penale",
+            "emigrazione"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "allenamento sportivo",
+            "articolazioni",
+            "fisiologia umana",
+            "fitness"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "economia politica"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "commissari europei",
+            "commissione barroso i",
+            "economisti rumeni",
+            "nati a bra\u0219ov",
+            "nati il 28 giugno",
+            "nati nel 1961",
+            "politici rumeni"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

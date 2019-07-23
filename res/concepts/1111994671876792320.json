@@ -1,0 +1,82 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attivismo",
+            "sociologia politica"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film ambientati a verona",
+            "film girati a verona",
+            "film per la televisione del 2007",
+            "film per la televisione di ard",
+            "film per la televisione tedeschi",
+            "film sentimentali per la televisione"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritti lgbt",
+            "diritto comparato",
+            "diritto di famiglia",
+            "famiglia"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "brani musicali",
+            "fonetica",
+            "forme musicali",
+            "generi di canto"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

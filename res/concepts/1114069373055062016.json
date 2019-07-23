@@ -1,0 +1,62 @@
+[
+    {
+        "categories": [
+            "quartieri",
+            "urbanistica"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film diretti da robert redford",
+            "film drammatici",
+            "film statunitensi del 1980",
+            "film sul suicidio",
+            "golden globe per il miglior film drammatico",
+            "premi oscar al miglior film"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "numismatics and currencies"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

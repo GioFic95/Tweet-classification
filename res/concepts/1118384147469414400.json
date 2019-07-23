@@ -1,0 +1,95 @@
+[
+    {
+        "categories": [
+            "diritto comparato",
+            "diritto processuale civile",
+            "diritto processuale penale"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "partiti politici"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "partiti politici cinesi",
+            "partito comunista cinese"
+        ],
+        "domains": [
+            "history",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "marco",
+            "monetazione finlandese",
+            "storia della finlandia",
+            "valute fuori corso",
+            "valute sostituite dall'euro"
+        ],
+        "domains": [
+            "numismatics and currencies"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xiii legislatura della repubblica italiana",
+            "deputati della xii legislatura della repubblica italiana",
+            "deputati della xiv legislatura della repubblica italiana",
+            "europarlamentari italiani della vi legislatura",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "insegnanti italiani del xxi secolo",
+            "insegnanti italiani del xx secolo",
+            "militanti di lotta continua",
+            "nati a torino",
+            "nati il 12 ottobre",
+            "nati nel 1959",
+            "politici del movimento studentesco",
+            "politici del partito comunista italiano",
+            "politici del partito dei comunisti italiani",
+            "politici di lotta continua",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

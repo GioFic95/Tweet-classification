@@ -1,0 +1,35 @@
+[
+    {
+        "categories": [
+            "chiesa cattolica nella citt\u00e0 del vaticano",
+            "citt\u00e0 del vaticano",
+            "diritto canonico",
+            "papato",
+            "santa sede",
+            "stato pontificio"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

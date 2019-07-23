@@ -1,0 +1,73 @@
+[
+    {
+        "categories": [
+            "segni di interpunzione"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "neuropsicologia",
+            "neuroscienze",
+            "processi cognitivi",
+            "psicologia cognitiva"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "animals"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "elementi architettonici"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "conseguenze della seconda guerra mondiale",
+            "storia contemporanea americana",
+            "storia contemporanea europea",
+            "storia degli stati uniti d'america (1945-1964)",
+            "storia economica"
+        ],
+        "domains": [
+            "history",
+            "politics and government",
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

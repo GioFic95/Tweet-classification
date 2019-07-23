@@ -1,0 +1,75 @@
+[
+    {
+        "categories": [
+            "cucurbitaceae"
+        ],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "radio"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "teoria del diritto",
+            "unione europea"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "medicina del sonno",
+            "psicoanalisi"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cavalieri di gran croce omri decorati di gran cordone",
+            "coreggenti",
+            "generali francesi",
+            "gran croce della legion d'onore",
+            "ministri della difesa della iv repubblica francese",
+            "morti il 9 novembre",
+            "morti nel 1970",
+            "nati a lilla",
+            "nati il 22 novembre",
+            "nati nel 1890",
+            "personalit\u00e0 commemorate con funerali di stato",
+            "personalit\u00e0 francesi della seconda guerra mondiale",
+            "politici francesi del xx secolo",
+            "presidenti della repubblica francese",
+            "primi ministri della francia",
+            "scrittori francesi del xx secolo"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

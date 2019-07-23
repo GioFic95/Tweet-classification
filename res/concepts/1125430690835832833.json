@@ -1,0 +1,70 @@
+[
+    {
+        "categories": [
+            "anatomia delle spugne"
+        ],
+        "domains": [
+            "biology",
+            "animals"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "citt\u00e0 di pellegrinaggio",
+            "padova"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "textile and clothing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "accademici dei lincei",
+            "fisici italiani del xx secolo",
+            "governo dini",
+            "ministri dell'universit\u00e0 e della ricerca scientifica e tecnologica della repubblica italiana",
+            "morti a roma",
+            "morti l'8 aprile",
+            "morti nel 2015",
+            "nati a milano",
+            "nati il 24 aprile",
+            "nati nel 1920",
+            "politici italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

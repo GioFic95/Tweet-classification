@@ -1,0 +1,76 @@
+[
+    {
+        "categories": [
+            "twitter"
+        ],
+        "domains": [
+            "computing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "comunit\u00e0 virtuali",
+            "web 2.0"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "numeri interi"
+        ],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cantanti statunitensi",
+            "cantautori contemporary r&b",
+            "cantautori neo soul",
+            "cantautori statunitensi",
+            "danzatori statunitensi",
+            "musicisti afroamericani",
+            "musicisti statunitensi del xxi secolo",
+            "musicisti statunitensi del xx secolo",
+            "nati a rochester (new york)",
+            "nati il 21 gennaio",
+            "nati nel 1971"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giornalismo",
+            "terminologia televisiva"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

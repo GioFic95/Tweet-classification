@@ -1,0 +1,24 @@
+[
+    {
+        "categories": [
+            "animazione flash",
+            "serie televisive d'animazione canadesi",
+            "serie televisive d'animazione del 2004",
+            "serie televisive d'animazione statunitensi",
+            "serie televisive di cartoon network"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "italia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

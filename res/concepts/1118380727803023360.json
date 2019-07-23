@@ -1,0 +1,121 @@
+[
+    {
+        "categories": [
+            "bombe aeronautiche"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "punti cardinali"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "topografia"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "inquinamento",
+            "rifiuti"
+        ],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "centrali nucleari",
+            "energia nucleare",
+            "fisica atomica",
+            "ingegneria nucleare",
+            "inquinanti",
+            "materiali nucleari",
+            "prodotti di fissione",
+            "radioattivit\u00e0",
+            "tipi di rifiuti"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ipocoristici",
+            "prenomi di origine slava",
+            "prenomi italiani femminili"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "artisti dello spettacolo legati a bologna",
+            "conduttori televisivi italiani",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "giornalisti legati a bologna",
+            "nati a nibbiano",
+            "nati il 9 giugno",
+            "nati nel 1954",
+            "studenti dell'universit\u00e0 di bologna",
+            "vincitori del premio saint vincent"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "artisti dello spettacolo legati a bologna",
+            "conduttori televisivi italiani",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "giornalisti legati a bologna",
+            "nati a nibbiano",
+            "nati il 9 giugno",
+            "nati nel 1954",
+            "studenti dell'universit\u00e0 di bologna",
+            "vincitori del premio saint vincent"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

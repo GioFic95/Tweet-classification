@@ -1,0 +1,103 @@
+[
+    {
+        "categories": [
+            "dipinti a soggetto storico",
+            "dipinti a washington",
+            "dipinti negli stati uniti d'america"
+        ],
+        "domains": [
+            "art architecture and archaeology",
+            "law and crime",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "decreti",
+            "editti",
+            "fonti del diritto romano",
+            "teoria del diritto"
+        ],
+        "domains": [
+            "heraldry honors and vexillology",
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xii legislatura della repubblica italiana",
+            "europarlamentari italiani della iii legislatura",
+            "europarlamentari italiani della ii legislatura",
+            "nati il 29 luglio",
+            "nati nel 1940",
+            "politici del partito socialista italiano",
+            "politici del partito socialista italiano (2007)",
+            "politici italiani del xx secolo",
+            "sindacalisti italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "economia della produzione"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "lavoro",
+            "microeconomia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "carolina del nord"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto industriale"
+        ],
+        "domains": [
+            "music",
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "estrazione del petrolio",
+            "lavorazioni meccaniche",
+            "lavorazioni metallurgiche"
+        ],
+        "domains": [
+            "chemistry and mineralogy",
+            "engineering and technology",
+            "farming"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "edilizia",
+            "features archeologiche",
+            "pozzi"
+        ],
+        "domains": [
+            "geography and places",
+            "geology and geophysics",
+            "farming"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "canali naturali d'italia",
+            "mare mediterraneo",
+            "mari d'italia",
+            "stretti della sicilia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

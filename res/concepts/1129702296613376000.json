@@ -1,0 +1,41 @@
+[
+    {
+        "categories": [
+            "brani musicali del festival di sanremo 1996",
+            "brani musicali vincitori del festival di sanremo nella sezione nuove proposte",
+            "singoli del 1996",
+            "singoli di syria",
+            "singoli pop"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto della navigazione",
+            "gradi di marina",
+            "marina mercantile",
+            "ruoli della nautica"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "categories": [
+            "anno liturgico della chiesa cattolica",
+            "giorni della settimana"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "teoria dei segnali"
+        ],
+        "domains": [
+            "engineering and technology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

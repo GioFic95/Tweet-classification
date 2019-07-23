@@ -1,0 +1,45 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "inquinamento",
+            "rifiuti"
+        ],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "centrali nucleari",
+            "energia nucleare",
+            "fisica atomica",
+            "ingegneria nucleare",
+            "inquinanti",
+            "materiali nucleari",
+            "prodotti di fissione",
+            "radioattivit\u00e0",
+            "tipi di rifiuti"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "categories": [
+            "figure araldiche",
+            "massoneria"
+        ],
+        "domains": [
+            "heraldry honors and vexillology",
+            "art architecture and archaeology",
+            "numismatics and currencies"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "politici"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

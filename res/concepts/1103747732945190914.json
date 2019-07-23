@@ -1,0 +1,40 @@
+[
+    {
+        "categories": [
+            "nati a indianapolis",
+            "nati il 21 giugno",
+            "nati nel 1938",
+            "politici del partito repubblicano (stati uniti d'america)",
+            "rappresentanti statunitensi eletti dall'indiana"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film argentini del 2005",
+            "film brasiliani del 2005",
+            "film documentari argentini",
+            "film svizzeri del 2005"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "medicina alternativa",
+            "pseudoscienza"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

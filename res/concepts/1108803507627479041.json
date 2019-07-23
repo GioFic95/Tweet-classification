@@ -1,0 +1,117 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "pene"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "criminali jugoslavi",
+            "nati il 19 giugno",
+            "nati nel 1945",
+            "persone condannate per crimini contro l'umanit\u00e0",
+            "politici jugoslavi",
+            "serbi di bosnia ed erzegovina",
+            "storia della jugoslavia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "criminali jugoslavi",
+            "nati il 19 giugno",
+            "nati nel 1945",
+            "persone condannate per crimini contro l'umanit\u00e0",
+            "politici jugoslavi",
+            "serbi di bosnia ed erzegovina",
+            "storia della jugoslavia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antropologi serbi",
+            "autori romantici",
+            "etnologi serbi",
+            "linguisti serbi",
+            "morti a vienna",
+            "morti il 7 febbraio",
+            "morti nel 1864",
+            "nati il 7 novembre",
+            "nati nel 1787",
+            "scrittori serbi"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto comparato",
+            "procedure giudiziarie",
+            "storia del diritto",
+            "teoria del diritto",
+            "tribunale"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "organi giurisdizionali nella comunit\u00e0 internazionale",
+            "storia dell'africa postcoloniale",
+            "storia del ruanda",
+            "tribunali delle nazioni unite"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "discriminazione",
+            "frasi e parole d'autore della politica",
+            "genocidi",
+            "stragi"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

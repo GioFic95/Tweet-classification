@@ -1,0 +1,63 @@
+[
+    {
+        "categories": [
+            "redditi"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritti umani",
+            "diritto del lavoro",
+            "filosofia politica",
+            "redditi"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "battaglie della prima guerra mondiale che coinvolgono la germania",
+            "battaglie della prima guerra mondiale che coinvolgono l'italia",
+            "battaglie dell'isonzo",
+            "caporetto",
+            "germania nella prima guerra mondiale",
+            "impero austro-ungarico nella prima guerra mondiale"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti e principi filosofici",
+            "georg wilhelm friedrich hegel",
+            "metafisica",
+            "neoplatonismo",
+            "ontologia"
+        ],
+        "domains": [
+            "philosophy and psychology",
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

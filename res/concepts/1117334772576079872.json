@@ -1,0 +1,26 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "architetture neogotiche di londra",
+            "edifici e monumenti a westminster",
+            "edifici parlamentari",
+            "edifici reali a londra",
+            "palazzi classificati di primo grado",
+            "patrimoni dell'umanit\u00e0 del regno unito"
+        ],
+        "domains": [
+            "royalty and nobility",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

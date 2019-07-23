@@ -1,0 +1,116 @@
+[
+    {
+        "categories": [
+            "gestione del traffico ferroviario"
+        ],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "economia dell'unione sovietica",
+            "storia contemporanea asiatica",
+            "storia contemporanea europea",
+            "storia economica"
+        ],
+        "domains": [
+            "history",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "politica"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "politica economica"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "editoria",
+            "giornalismo"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "accademici italiani del xx secolo",
+            "cavalieri di gran croce omri",
+            "commissione prodi",
+            "deputati della xiii legislatura della repubblica italiana",
+            "deputati della xv legislatura della repubblica italiana",
+            "direttori di periodici",
+            "dirigenti d'azienda italiani",
+            "dirigenti pubblici italiani",
+            "economisti italiani",
+            "governo andreotti iv",
+            "governo prodi i",
+            "governo prodi ii",
+            "ministri della giustizia della repubblica italiana",
+            "ministri dell'industria, del commercio e dell'artigianato della repubblica italiana",
+            "nati il 9 agosto",
+            "politici de i democratici",
+            "politici della democrazia cristiana",
+            "politici del partito democratico (italia)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "presidenti del consiglio dei ministri della repubblica italiana",
+            "presidenti della commissione europea",
+            "professori all'universit\u00e0 di bologna",
+            "studenti dell'universit\u00e0 cattolica del sacro cuore"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

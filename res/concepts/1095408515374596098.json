@@ -1,0 +1,28 @@
+[
+    {
+        "categories": [
+            "film ambientati in pennsylvania",
+            "film noir",
+            "film statunitensi del 2013",
+            "film sul suicidio",
+            "film thriller drammatici",
+            "film thriller psicologici",
+            "film warner bros."
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "periodici fondati nel 1982",
+            "periodici statunitensi in lingua inglese",
+            "quotidiani statunitensi"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

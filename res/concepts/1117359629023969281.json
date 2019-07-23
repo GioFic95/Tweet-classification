@@ -1,0 +1,53 @@
+[
+    {
+        "categories": [
+            "comuni del paran\u00e1"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "allenatori del f.c. pro vercelli 1892",
+            "allenatori della casertana f.c.",
+            "allenatori della paganese calcio 1926",
+            "allenatori dell'u.s. salernitana 1919",
+            "allenatori di calcio italiani",
+            "calciatori del cagliari calcio",
+            "calciatori del cosenza calcio",
+            "calciatori del foggia calcio",
+            "calciatori dell'a.c. chievoverona",
+            "calciatori dell'a.c. milan",
+            "calciatori della s.s. fidelis andria 1928",
+            "calciatori della s.s. juve stabia",
+            "calciatori dell'u.s. salernitana 1919",
+            "calciatori del venezia f.c.",
+            "calciatori italiani",
+            "nati a salerno",
+            "nati il 20 maggio",
+            "nati nel 1972"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "geometria"
+        ],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

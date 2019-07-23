@@ -1,0 +1,78 @@
+[
+    {
+        "categories": [
+            "deputati della ix legislatura della repubblica italiana",
+            "deputati della x legislatura della repubblica italiana",
+            "deputati della xv legislatura della repubblica italiana",
+            "deputati dell'xi legislatura della repubblica italiana",
+            "governo andreotti vi",
+            "governo andreotti vii",
+            "nati il 23 settembre",
+            "nati nel 1946",
+            "politici dei popolari-udeur",
+            "politici della democrazia cristiana",
+            "politici del partito popolare italiano (1994)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "politici"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "firenze"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

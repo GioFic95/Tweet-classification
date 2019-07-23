@@ -1,0 +1,45 @@
+[
+    {
+        "categories": [
+            "ministeri italiani",
+            "ministero dello sviluppo economico"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attrezzi agricoli",
+            "attrezzi da giardinaggio",
+            "attrezzi per falegnameria",
+            "attrezzi per meccanica",
+            "geotecnica"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ecosistemi"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

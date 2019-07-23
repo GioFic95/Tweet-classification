@@ -1,0 +1,42 @@
+[
+    {
+        "categories": [
+            "ciclo carolingio",
+            "personaggi tipo"
+        ],
+        "domains": [
+            "religion mysticism and mythology",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto costituzionale",
+            "mezzi di comunicazione",
+            "scrittura",
+            "teorie dell'informatica"
+        ],
+        "domains": [
+            "computing",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

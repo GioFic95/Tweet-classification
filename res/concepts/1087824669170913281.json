@@ -1,0 +1,108 @@
+[
+    {
+        "categories": [
+            "alberi"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "allenatori del calcio catania",
+            "allenatori dell'aquila calcio 1927",
+            "allenatori dell'a.s. roma",
+            "allenatori dell'u.s. ancona 1905",
+            "allenatori dell'u.s. lecce",
+            "allenatori di calcio italiani",
+            "calciatori del calcio catania",
+            "calciatori della s.g.s. fortitudo",
+            "calciatori dell'a.s. roma",
+            "calciatori della s.s. alba roma",
+            "calciatori dell'u.s. lecce",
+            "calciatori italiani",
+            "morti il 2 novembre",
+            "morti nel 1975",
+            "nati a roma",
+            "nati il 28 settembre",
+            "nati nel 1900"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giganti",
+            "giganti della mitologia greca",
+            "mitologia greca",
+            "personaggi citati nella divina commedia (inferno)"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "geografia d'italia",
+            "meridione d'italia",
+            "territori d'italia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "italia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "gruppo di coimbra",
+            "medaglie d'oro al valor militare",
+            "resistenza padovana",
+            "universit\u00e0 degli studi di padova"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

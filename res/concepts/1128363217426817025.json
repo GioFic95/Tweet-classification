@@ -1,0 +1,37 @@
+[
+    {
+        "categories": [
+            "concetti e principi filosofici",
+            "pragmatica",
+            "sociologia della comunicazione",
+            "sociologia della cultura"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "economia dello sviluppo",
+            "economia internazionale",
+            "ideologie politiche",
+            "liberalismo",
+            "storia economica"
+        ],
+        "domains": [
+            "business economics and finance",
+            "philosophy and psychology",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "categories": [
+            "nati a modica",
+            "nati il 22 febbraio",
+            "nati nel 1945",
+            "politici dei democratici di sinistra",
+            "politici del partito comunista italiano",
+            "politici del partito democratico della sinistra",
+            "politici di sinistra democratica (italia)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "senatori della xiii legislatura della repubblica italiana",
+            "senatori della xii legislatura della repubblica italiana",
+            "senatori della x legislatura della repubblica italiana",
+            "senatori dell'xi legislatura della repubblica italiana",
+            "sindaci italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime",
+            "mathematics",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "chemistry and mineralogy",
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "movimento 5 stelle",
+            "partiti politici italiani"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "pratiche politiche",
+            "procedure giudiziarie",
+            "terminologia della politica"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "eventi sociali"
+        ],
+        "domains": [],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

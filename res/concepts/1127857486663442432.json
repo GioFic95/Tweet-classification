@@ -1,0 +1,98 @@
+[
+    {
+        "categories": [
+            "concetti e principi filosofici",
+            "logica"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xvii legislatura della repubblica italiana",
+            "deputati della xvi legislatura della repubblica italiana",
+            "europarlamentari italiani della viii legislatura",
+            "europarlamentari italiani della vii legislatura",
+            "europarlamentari italiani della vi legislatura",
+            "euroscetticismo",
+            "nati a milano",
+            "nati il 9 marzo",
+            "nati nel 1973",
+            "politici della lega nord",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "studenti dell'universit\u00e0 degli studi di milano"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto amministrativo",
+            "diritto costituzionale",
+            "elezioni"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "elezioni europee"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti e principi filosofici",
+            "diritto comparato",
+            "diritto costituzionale",
+            "diritto processuale civile",
+            "diritto processuale penale",
+            "teoria del diritto"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

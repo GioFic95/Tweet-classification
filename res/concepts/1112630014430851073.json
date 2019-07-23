@@ -1,0 +1,69 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "comune",
+            "diritto comparato",
+            "diritto costituzionale",
+            "sindaci"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film basati su opere di narrativa",
+            "film d'azione drammatici",
+            "film diretti da j. lee thompson",
+            "film polizieschi",
+            "film statunitensi del 1976"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "nati a istanbul",
+            "nati il 26 febbraio",
+            "nati nel 1954",
+            "politici del partito per la giustizia e lo sviluppo (turchia)",
+            "politici turchi",
+            "presidenti della repubblica turca",
+            "primi ministri della turchia",
+            "storia della turchia"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

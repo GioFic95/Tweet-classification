@@ -1,0 +1,67 @@
+[
+    {
+        "categories": [
+            "attivisti italiani",
+            "filantropi italiani",
+            "medici italiani",
+            "nati a sesto san giovanni",
+            "nati il 21 aprile",
+            "nati nel 1948",
+            "pacifisti",
+            "scrittori atei",
+            "scrittori italiani del xxi secolo",
+            "scrittori italiani del xx secolo",
+            "studenti dell'universit\u00e0 degli studi di milano"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "strada",
+            "strade"
+        ],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti e principi filosofici",
+            "filosofia della mente",
+            "platonismo"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

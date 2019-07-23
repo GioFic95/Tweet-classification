@@ -1,0 +1,91 @@
+[
+    {
+        "categories": [
+            "parlamento bosniaco-erzegovino"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xvii legislatura della repubblica italiana",
+            "governo renzi",
+            "ministri per i rapporti con il parlamento della repubblica italiana",
+            "ministri per le riforme istituzionali della repubblica italiana",
+            "nati a montevarchi",
+            "nati il 24 gennaio",
+            "nati nel 1981",
+            "politici del partito democratico (italia)",
+            "politici italiani del xxi secolo",
+            "studenti dell'universit\u00e0 di firenze"
+        ],
+        "domains": [
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "foreste",
+            "selvicoltura"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "partiti politici"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "partiti politici statunitensi",
+            "partito democratico (stati uniti d'america)"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "strumenti di ambito tributario"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

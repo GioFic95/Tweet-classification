@@ -1,0 +1,56 @@
+[
+    {
+        "categories": [
+            "clima"
+        ],
+        "domains": [
+            "meteorology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "femminismo"
+        ],
+        "domains": [
+            "philosophy and psychology",
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "parti del giorno"
+        ],
+        "domains": [
+            "meteorology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "morti a roma",
+            "morti il 6 marzo",
+            "morti nel 1959",
+            "nati a milano",
+            "nati il 6 dicembre",
+            "nati nel 1886",
+            "registi italiani del xx secolo",
+            "sceneggiatori italiani del xx secolo"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "categories": [
+            "autori televisivi italiani",
+            "conduttori televisivi italiani",
+            "imitatori italiani",
+            "nati a savona",
+            "nati il 30 novembre",
+            "nati nel 1964",
+            "presentatori del festival di sanremo",
+            "scrittori italiani del xxi secolo",
+            "scrittori italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "conduttori radiofonici",
+            "professioni della radio",
+            "radiodiffusione"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "anatomia topografica"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

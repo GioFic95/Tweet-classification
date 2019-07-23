@@ -1,0 +1,57 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "gestione d'azienda",
+            "governo d'impresa"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della democrazia cristiana",
+            "deputati della iii legislatura della repubblica italiana",
+            "deputati della ii legislatura della repubblica italiana",
+            "deputati della i legislatura della repubblica italiana",
+            "deputati dell'assemblea costituente della repubblica italiana",
+            "governo de gasperi vi",
+            "governo de gasperi viii",
+            "governo fanfani i",
+            "governo fanfani ii",
+            "governo pella",
+            "governo scelba",
+            "governo segni i",
+            "governo segni ii",
+            "governo tambroni",
+            "governo zoli",
+            "ministri del bilancio della repubblica italiana",
+            "ministri dell'interno della repubblica italiana",
+            "ministri del tesoro della repubblica italiana",
+            "morti a roma",
+            "morti il 18 febbraio",
+            "morti nel 1963",
+            "nati ad ascoli piceno",
+            "nati il 25 novembre",
+            "nati nel 1901",
+            "politici della democrazia cristiana",
+            "politici del partito nazionale fascista",
+            "politici del partito popolare italiano (1919)",
+            "politici italiani del xx secolo",
+            "presidenti del consiglio dei ministri della repubblica italiana"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

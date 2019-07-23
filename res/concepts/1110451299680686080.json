@@ -1,0 +1,90 @@
+[
+    {
+        "categories": [
+            "diritto amministrativo",
+            "diritto costituzionale",
+            "elezioni"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "games and video games"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto amministrativo",
+            "elezioni"
+        ],
+        "domains": [
+            "philosophy and psychology",
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "sociologia economica"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "creature leggendarie",
+            "demoni",
+            "demonologia cristiana",
+            "divinit\u00e0 degli inferi",
+            "entit\u00e0 spirituali",
+            "figure bibliche",
+            "mitologia islamica",
+            "satanismo"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "iosif stalin",
+            "militari sovietici",
+            "morti a mosca",
+            "morti il 5 marzo",
+            "morti nel 1953",
+            "nati a gori",
+            "nati il 21 dicembre",
+            "nati nel 1879",
+            "personalit\u00e0 commemorate con funerali di stato",
+            "personalit\u00e0 dell'ateismo",
+            "poeti georgiani",
+            "politici sovietici",
+            "rivoluzionari sovietici"
+        ],
+        "domains": [
+            "history",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

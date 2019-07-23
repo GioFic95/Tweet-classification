@@ -1,0 +1,84 @@
+[
+    {
+        "categories": [
+            "autorit\u00e0 indipendenti italiane",
+            "diritto dell'informazione",
+            "privacy"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto dell'informazione",
+            "diritto informatico",
+            "etica",
+            "privacy"
+        ],
+        "domains": [
+            "health and medicine",
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "associazione",
+            "diritto civile"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fondatori di impresa",
+            "imprenditori italiani",
+            "morti a milano",
+            "morti il 12 aprile",
+            "morti nel 2016",
+            "nati a milano",
+            "nati il 14 agosto",
+            "nati nel 1954",
+            "persone legate alla olivetti",
+            "politici del movimento 5 stelle",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "pene",
+            "termini giuridici"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "euro",
+            "monetazioni europee",
+            "simboli europei",
+            "unioni monetarie",
+            "valute africane",
+            "valute americane",
+            "valute europee",
+            "valute in corso"
+        ],
+        "domains": [
+            "numismatics and currencies"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

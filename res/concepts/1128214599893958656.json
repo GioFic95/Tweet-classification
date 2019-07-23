@@ -1,0 +1,35 @@
+[
+    {
+        "categories": [
+            "chirurgia"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "garibaldini",
+            "morti a ledro",
+            "morti il 26 maggio",
+            "morti nel 1890",
+            "nati a magasa",
+            "nati il 16 ottobre",
+            "nati nel 1820",
+            "patrioti italiani",
+            "persone legate alla terza guerra d'indipendenza italiana",
+            "scrittori italiani del xix secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

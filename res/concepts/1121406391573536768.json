@@ -1,0 +1,103 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "accademici italiani del xx secolo",
+            "cavalieri di gran croce omri",
+            "giuristi italiani",
+            "giuristi italiani del xxi secolo",
+            "giuristi italiani del xx secolo",
+            "governo prodi i",
+            "ministri di grazia e giustizia della repubblica italiana",
+            "nati a ciri\u00e9",
+            "nati il 7 novembre",
+            "nati nel 1940",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "presidenti della corte costituzionale della repubblica italiana",
+            "studenti dell'universit\u00e0 cattolica del sacro cuore"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "famiglie tedesche"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "suddivisioni degli stati uniti d'america",
+            "suddivisioni del regno unito"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "medaglistica",
+            "oggetti di riconoscimento"
+        ],
+        "domains": [
+            "heraldry honors and vexillology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "valor militare"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "valor militare"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

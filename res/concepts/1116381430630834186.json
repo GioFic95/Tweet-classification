@@ -1,0 +1,29 @@
+[
+    {
+        "categories": [
+            "ecuador"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "alberghi degli stati uniti d'america"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "aziende fondate nel 1963",
+            "case di produzione cinematografica statunitensi"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

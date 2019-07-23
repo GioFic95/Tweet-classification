@@ -1,0 +1,38 @@
+[
+    {
+        "categories": [
+            "membranofoni",
+            "membranofoni a percussione",
+            "strumenti della musica colta del xx e xxi secolo",
+            "strumenti musicali dell'antichit\u00e0"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "foreste",
+            "selvicoltura"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "categories": [
+            "sintetizzatori",
+            "sintetizzatori arp"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti e principi filosofici",
+            "georg wilhelm friedrich hegel",
+            "metafisica",
+            "neoplatonismo",
+            "ontologia"
+        ],
+        "domains": [
+            "philosophy and psychology",
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "componenti di strumenti musicali",
+            "cordofoni",
+            "vibrazioni meccaniche"
+        ],
+        "domains": [
+            "textile and clothing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "bibbia",
+            "concetti religiosi",
+            "dottrina cristiana",
+            "teologia cristiana",
+            "teologia islamica"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "alfabeto italiano",
+            "digrammi",
+            "trigrammi"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

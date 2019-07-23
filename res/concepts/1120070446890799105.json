@@ -1,0 +1,106 @@
+[
+    {
+        "categories": [
+            "suddivisioni degli stati uniti d'america",
+            "suddivisioni del regno unito"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "museologia"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "unit\u00e0 di lunghezza",
+            "unit\u00e0 di misura storiche"
+        ],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attori cinematografici italiani",
+            "attori italiani del xx secolo",
+            "attori legati a roma",
+            "attori teatrali italiani",
+            "benemeriti della cultura e dell'arte",
+            "cantanti italiani del xx secolo",
+            "cavalieri di gran croce omri",
+            "comici italiani",
+            "compositori italiani del xx secolo",
+            "david di donatello per il miglior attore protagonista",
+            "doppiatori italiani",
+            "doppiatori legati a roma",
+            "golden globe per il miglior attore in un film commedia o musicale",
+            "morti a roma",
+            "morti il 24 febbraio",
+            "morti nel 2003",
+            "nastri d'argento al migliore attore non protagonista",
+            "nastri d'argento al migliore attore protagonista",
+            "nati a roma",
+            "nati il 15 giugno",
+            "nati nel 1920",
+            "personalit\u00e0 commemorate con funerali di stato",
+            "registi cinematografici italiani",
+            "registi italiani del xx secolo",
+            "registi legati a roma",
+            "sceneggiatori italiani",
+            "sceneggiatori italiani del xx secolo",
+            "sepolti nel cimitero del verano"
+        ],
+        "domains": [
+            "media",
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

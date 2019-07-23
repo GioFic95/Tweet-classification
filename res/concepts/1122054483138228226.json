@@ -1,0 +1,65 @@
+[
+    {
+        "categories": [
+            "forza italia (1994)",
+            "partiti conservatori italiani del passato",
+            "partiti politici italiani del passato"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "italia dei valori",
+            "partiti politici italiani"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "consiglieri regionali delle marche",
+            "nati ad ascoli piceno",
+            "nati il 15 settembre",
+            "nati nel 1951",
+            "politici del popolo della libert\u00e0",
+            "politici di forza italia (1994)",
+            "politici di forza italia (2013)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "presidenti della provincia di ascoli piceno",
+            "sindaci di ascoli piceno"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "comune",
+            "diritto comparato",
+            "diritto costituzionale",
+            "sindaci"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "categories": [
+            "acustica",
+            "apparecchiature cinematografiche",
+            "apparecchiature televisive",
+            "dispositivi audio",
+            "tecnologia musicale",
+            "trasduttori"
+        ],
+        "domains": [
+            "engineering and technology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "programmi televisivi degli anni 2000",
+            "programmi televisivi di rai 1",
+            "programmi televisivi iniziati nel 2006",
+            "programmi televisivi italiani",
+            "programmi televisivi terminati nel 2006",
+            "rotocalchi televisivi",
+            "rubriche dei telegiornali"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto costituzionale",
+            "governo",
+            "stato"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

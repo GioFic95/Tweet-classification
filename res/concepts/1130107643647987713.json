@@ -1,0 +1,127 @@
+[
+    {
+        "categories": [
+            "precipitazioni atmosferiche"
+        ],
+        "domains": [
+            "meteorology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "suddivisioni degli stati uniti d'america",
+            "suddivisioni del regno unito"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "statuto delle persone nel diritto romano",
+            "titoli nobiliari"
+        ],
+        "domains": [
+            "history",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "consiglieri regionali della lombardia",
+            "deputati della xii legislatura della repubblica italiana",
+            "europarlamentari italiani della viii legislatura",
+            "europarlamentari italiani della vii legislatura",
+            "europarlamentari italiani della vi legislatura",
+            "governo amato ii",
+            "governo d'alema i",
+            "governo d'alema ii",
+            "governo prodi i",
+            "ministri per il coordinamento delle politiche dell'unione europea della repubblica italiana",
+            "ministri per i rapporti con il parlamento della repubblica italiana",
+            "nati a pogliano milanese",
+            "nati il 17 marzo",
+            "nati nel 1950",
+            "politici della margherita",
+            "politici del partito democratico (italia)",
+            "politici del partito popolare italiano (1994)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "senatori della xiii legislatura della repubblica italiana",
+            "senatori della xiv legislatura della repubblica italiana"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "consiglieri regionali della lombardia",
+            "deputati della xii legislatura della repubblica italiana",
+            "europarlamentari italiani della viii legislatura",
+            "europarlamentari italiani della vii legislatura",
+            "europarlamentari italiani della vi legislatura",
+            "governo amato ii",
+            "governo d'alema i",
+            "governo d'alema ii",
+            "governo prodi i",
+            "ministri per il coordinamento delle politiche dell'unione europea della repubblica italiana",
+            "ministri per i rapporti con il parlamento della repubblica italiana",
+            "nati a pogliano milanese",
+            "nati il 17 marzo",
+            "nati nel 1950",
+            "politici della margherita",
+            "politici del partito democratico (italia)",
+            "politici del partito popolare italiano (1994)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "senatori della xiii legislatura della repubblica italiana",
+            "senatori della xiv legislatura della repubblica italiana"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "animals"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

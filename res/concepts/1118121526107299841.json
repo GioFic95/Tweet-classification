@@ -1,0 +1,40 @@
+[
+    {
+        "categories": [
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "nati a borgonovo val tidone",
+            "nati il 31 dicembre",
+            "nati nel 1929",
+            "persone legate a piacenza",
+            "rettori della libera universit\u00e0 di lingue e comunicazione iulm",
+            "rettori dell'universit\u00e0 degli studi di trento",
+            "scrittori italiani del xxi secolo",
+            "scrittori italiani del xx secolo",
+            "sociologi italiani"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fascismo",
+            "storia d'italia",
+            "storia d'italia per et\u00e0"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "categories": [
+            "destra"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "militari italiani della prima guerra mondiale",
+            "morti il 17 agosto",
+            "morti nel 1916",
+            "morti per incidente a cavallo",
+            "nati a reggio calabria",
+            "nati il 19 ottobre",
+            "nati nel 1882",
+            "pittori italiani del xx secolo",
+            "scultori italiani del xx secolo",
+            "umberto boccioni"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "nati a torino",
+            "nati nel 1950",
+            "traduttori italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "collo"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "aforisti statunitensi",
+            "attivisti statunitensi",
+            "conduttori radiofonici statunitensi",
+            "economisti statunitensi",
+            "fascisti statunitensi",
+            "filosofi statunitensi del xx secolo",
+            "imagismo",
+            "modernisti",
+            "morti a venezia",
+            "morti il 1\u00ba novembre",
+            "morti nel 1972",
+            "nati il 30 ottobre",
+            "nati nel 1885",
+            "orientalisti statunitensi",
+            "personalit\u00e0 della repubblica sociale italiana",
+            "poeti statunitensi",
+            "saggisti statunitensi",
+            "scrittori in lingua italiana",
+            "traduttori statunitensi"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "aforisti statunitensi",
+            "attivisti statunitensi",
+            "conduttori radiofonici statunitensi",
+            "economisti statunitensi",
+            "fascisti statunitensi",
+            "filosofi statunitensi del xx secolo",
+            "imagismo",
+            "modernisti",
+            "morti a venezia",
+            "morti il 1\u00ba novembre",
+            "morti nel 1972",
+            "nati il 30 ottobre",
+            "nati nel 1885",
+            "orientalisti statunitensi",
+            "personalit\u00e0 della repubblica sociale italiana",
+            "poeti statunitensi",
+            "saggisti statunitensi",
+            "scrittori in lingua italiana",
+            "traduttori statunitensi"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

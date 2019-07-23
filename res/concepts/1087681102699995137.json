@@ -1,0 +1,101 @@
+[
+    {
+        "categories": [
+            "conduttori televisivi italiani",
+            "figli d'arte",
+            "nati a milano",
+            "nati il 27 aprile",
+            "nati nel 1962",
+            "telecronisti sportivi italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attori italiani del xx secolo",
+            "attori teatrali italiani",
+            "morti a torino",
+            "morti l'11 novembre",
+            "morti nel 1955",
+            "nati a torino",
+            "nati il 29 giugno",
+            "nati nel 1876",
+            "registi italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "pensiero"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "autori televisivi italiani",
+            "concorrenti de l'isola dei famosi",
+            "conduttori televisivi italiani",
+            "figli d'arte",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "nati a tradate",
+            "nati il 17 novembre",
+            "nati nel 1975",
+            "scrittori italiani del xxi secolo",
+            "scrittori italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "famiglia"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

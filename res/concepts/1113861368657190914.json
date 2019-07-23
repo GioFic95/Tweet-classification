@@ -1,0 +1,214 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "eventi sociali",
+            "fiere",
+            "sociologia"
+        ],
+        "domains": [],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "anatomia vegetale"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "europa"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "libro",
+            "opere letterarie per tipo"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della ii legislatura della repubblica italiana",
+            "deputati della i legislatura della repubblica italiana",
+            "deputati dell'assemblea costituente della repubblica italiana",
+            "deputati della xxvii legislatura del regno d'italia",
+            "deputati della xxvi legislatura del regno d'italia",
+            "direttori di periodici",
+            "federalisti",
+            "governo bonomi ii",
+            "governo bonomi iii",
+            "governo de gasperi i",
+            "governo de gasperi ii",
+            "governo de gasperi iii",
+            "governo de gasperi iv",
+            "governo de gasperi v",
+            "governo de gasperi vi",
+            "governo de gasperi vii",
+            "governo de gasperi viii",
+            "governo parri",
+            "membri dell'abgeordnetenhaus (impero austro-ungarico)",
+            "ministri degli affari esteri della repubblica italiana",
+            "ministri degli esteri del regno d'italia",
+            "ministri delle colonie del regno d'italia",
+            "ministri dell'interno della repubblica italiana",
+            "morti a borgo valsugana",
+            "morti il 19 agosto",
+            "morti nel 1954",
+            "nati a pieve tesino",
+            "nati il 3 aprile",
+            "nati nel 1881",
+            "personalit\u00e0 del cattolicesimo",
+            "politici della democrazia cristiana",
+            "politici del partito popolare italiano (1919)",
+            "politici italiani del xx secolo",
+            "presidenti del consiglio dei ministri della repubblica italiana",
+            "presidenti del consiglio dei ministri del regno d'italia",
+            "presidenti del parlamento europeo",
+            "secessionisti dell'aventino",
+            "servi di dio italiani",
+            "storia delle relazioni tra santa sede e stato italiano"
+        ],
+        "domains": [
+            "history",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della ii legislatura della repubblica italiana",
+            "deputati della i legislatura della repubblica italiana",
+            "deputati dell'assemblea costituente della repubblica italiana",
+            "deputati della xxvii legislatura del regno d'italia",
+            "deputati della xxvi legislatura del regno d'italia",
+            "direttori di periodici",
+            "federalisti",
+            "governo bonomi ii",
+            "governo bonomi iii",
+            "governo de gasperi i",
+            "governo de gasperi ii",
+            "governo de gasperi iii",
+            "governo de gasperi iv",
+            "governo de gasperi v",
+            "governo de gasperi vi",
+            "governo de gasperi vii",
+            "governo de gasperi viii",
+            "governo parri",
+            "membri dell'abgeordnetenhaus (impero austro-ungarico)",
+            "ministri degli affari esteri della repubblica italiana",
+            "ministri degli esteri del regno d'italia",
+            "ministri delle colonie del regno d'italia",
+            "ministri dell'interno della repubblica italiana",
+            "morti a borgo valsugana",
+            "morti il 19 agosto",
+            "morti nel 1954",
+            "nati a pieve tesino",
+            "nati il 3 aprile",
+            "nati nel 1881",
+            "personalit\u00e0 del cattolicesimo",
+            "politici della democrazia cristiana",
+            "politici del partito popolare italiano (1919)",
+            "politici italiani del xx secolo",
+            "presidenti del consiglio dei ministri della repubblica italiana",
+            "presidenti del consiglio dei ministri del regno d'italia",
+            "presidenti del parlamento europeo",
+            "secessionisti dell'aventino",
+            "servi di dio italiani",
+            "storia delle relazioni tra santa sede e stato italiano"
+        ],
+        "domains": [
+            "history",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della ii legislatura della repubblica italiana",
+            "deputati della i legislatura della repubblica italiana",
+            "deputati dell'assemblea costituente della repubblica italiana",
+            "deputati della xxvii legislatura del regno d'italia",
+            "deputati della xxvi legislatura del regno d'italia",
+            "direttori di periodici",
+            "federalisti",
+            "governo bonomi ii",
+            "governo bonomi iii",
+            "governo de gasperi i",
+            "governo de gasperi ii",
+            "governo de gasperi iii",
+            "governo de gasperi iv",
+            "governo de gasperi v",
+            "governo de gasperi vi",
+            "governo de gasperi vii",
+            "governo de gasperi viii",
+            "governo parri",
+            "membri dell'abgeordnetenhaus (impero austro-ungarico)",
+            "ministri degli affari esteri della repubblica italiana",
+            "ministri degli esteri del regno d'italia",
+            "ministri delle colonie del regno d'italia",
+            "ministri dell'interno della repubblica italiana",
+            "morti a borgo valsugana",
+            "morti il 19 agosto",
+            "morti nel 1954",
+            "nati a pieve tesino",
+            "nati il 3 aprile",
+            "nati nel 1881",
+            "personalit\u00e0 del cattolicesimo",
+            "politici della democrazia cristiana",
+            "politici del partito popolare italiano (1919)",
+            "politici italiani del xx secolo",
+            "presidenti del consiglio dei ministri della repubblica italiana",
+            "presidenti del consiglio dei ministri del regno d'italia",
+            "presidenti del parlamento europeo",
+            "secessionisti dell'aventino",
+            "servi di dio italiani",
+            "storia delle relazioni tra santa sede e stato italiano"
+        ],
+        "domains": [
+            "history",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

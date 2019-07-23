@@ -1,0 +1,44 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "calciatori italiani",
+            "calciatrici dell'a.c.f. torino",
+            "calciatrici dell'u.s.d. luserna calcio",
+            "nati a pinerolo",
+            "nati il 10 agosto",
+            "nati nel 1996"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "italo-australiani",
+            "nati a perth (australia occidentale)",
+            "nati il 6 agosto",
+            "nati nel 1972",
+            "scrittori italiani del xxi secolo",
+            "scrittori italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "animals"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

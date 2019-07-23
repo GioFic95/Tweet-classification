@@ -1,0 +1,90 @@
+[
+    {
+        "categories": [
+            "diaristica"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mesi dell'anno"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giorno",
+            "unit\u00e0 di tempo"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mare mediterraneo",
+            "mari della grecia",
+            "mari dell'albania",
+            "mari d'italia"
+        ],
+        "domains": [
+            "geography and places",
+            "meteorology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "linea b (metropolitana di roma)",
+            "roma q. xvi monte sacro",
+            "roma z. i val melaina",
+            "stazioni della metropolitana di roma"
+        ],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "isole"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "frazioni di lampedusa e linosa",
+            "geografia di lampedusa e linosa",
+            "isole dell'africa",
+            "isole della provincia di agrigento",
+            "pelagie"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

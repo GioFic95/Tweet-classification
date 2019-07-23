@@ -1,0 +1,47 @@
+[
+    {
+        "categories": [
+            "a tutto reality",
+            "serie televisive d'animazione canadesi",
+            "serie televisive d'animazione del 2012",
+            "serie televisive di teletoon"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "eboli",
+            "prefisso telefonico locale letto da wikidata"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "famiglia"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "geografia d'italia",
+            "meridione d'italia",
+            "territori d'italia"
+        ],
+        "domains": [
+            "history",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

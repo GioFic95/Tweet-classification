@@ -1,0 +1,55 @@
+[
+    {
+        "categories": [
+            "generi letterari",
+            "posta"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "calciatori del chelsea f.c.",
+            "calciatori del dundee united f.c.",
+            "calciatori della nazionale scozzese",
+            "calciatori dello heart of midlothian f.c.",
+            "calciatori dello hibernian f.c.",
+            "calciatori scozzesi",
+            "nati a edimburgo",
+            "nati il 18 aprile",
+            "nati nel 1958"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "animals"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

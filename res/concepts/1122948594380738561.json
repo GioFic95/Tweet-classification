@@ -1,0 +1,24 @@
+[
+    {
+        "categories": [
+            "esposizioni",
+            "movimenti pittorici",
+            "studi di genere"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "partiti politici venezuelani"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

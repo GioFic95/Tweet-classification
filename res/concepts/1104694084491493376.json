@@ -1,0 +1,22 @@
+[
+    {
+        "categories": [
+            "strade di torino"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "aziende della provincia di cuneo",
+            "aziende fondate nel 2004",
+            "societ\u00e0 italiane di grande distribuzione organizzata"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

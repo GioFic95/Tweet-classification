@@ -1,0 +1,117 @@
+[
+    {
+        "categories": [
+            "giorni della settimana"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mesi dell'anno"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xiv legislatura della repubblica italiana",
+            "deputati della xvi legislatura della repubblica italiana",
+            "deputati della xv legislatura della repubblica italiana",
+            "governo berlusconi iv",
+            "imprenditori italiani",
+            "nati a cuneo",
+            "nati il 19 settembre",
+            "nati nel 1963",
+            "politici della democrazia cristiana",
+            "politici del popolo della libert\u00e0",
+            "politici di forza italia (1994)",
+            "politici di fratelli d'italia - alleanza nazionale",
+            "politici italiani del xxi secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xiv legislatura della repubblica italiana",
+            "deputati della xvi legislatura della repubblica italiana",
+            "deputati della xv legislatura della repubblica italiana",
+            "governo berlusconi iv",
+            "imprenditori italiani",
+            "nati a cuneo",
+            "nati il 19 settembre",
+            "nati nel 1963",
+            "politici della democrazia cristiana",
+            "politici del popolo della libert\u00e0",
+            "politici di forza italia (1994)",
+            "politici di fratelli d'italia - alleanza nazionale",
+            "politici italiani del xxi secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "esercizi commerciali",
+            "locali per la ristorazione"
+        ],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "strade",
+            "strade di new york",
+            "urbanistica"
+        ],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "aspe"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

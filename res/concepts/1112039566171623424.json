@@ -1,0 +1,74 @@
+[
+    {
+        "categories": [
+            "giocatori dei baltimore orioles",
+            "giocatori dei minnesota twins",
+            "giocatori dei new york mets",
+            "giocatori dei new york yankees",
+            "giocatori dei washington nationals",
+            "giocatori di baseball messicani",
+            "nati a los mochis",
+            "nati il 12 gennaio",
+            "nati nel 1978"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "professioni nei servizi"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "governo degli stati uniti d'america",
+            "presidenti degli stati uniti d'america"
+        ],
+        "domains": [
+            "politics and government",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "diritto amministrativo",
+            "diritto costituzionale",
+            "diritto privato",
+            "governo d'impresa"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

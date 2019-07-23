@@ -1,0 +1,103 @@
+[
+    {
+        "categories": [
+            "governo degli stati uniti d'america",
+            "presidenti degli stati uniti d'america"
+        ],
+        "domains": [
+            "politics and government",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "educazione",
+            "parti di edifici"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "universit\u00e0"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "architetture fasciste di roma",
+            "roma q. vi tiburtino",
+            "sapienza - universit\u00e0 di roma"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "accademici italiani",
+            "assassinati con arma da fuoco",
+            "giuristi italiani",
+            "insegnanti italiani",
+            "morti a roma",
+            "morti il 20 maggio",
+            "morti nel 1999",
+            "nati a roma",
+            "nati l'11 aprile",
+            "nati nel 1948",
+            "professori alla sapienza - universit\u00e0 di roma",
+            "storia dell'italia nel secondo dopoguerra",
+            "vittime del terrorismo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "accademici italiani",
+            "assassinati con arma da fuoco",
+            "giuristi italiani",
+            "insegnanti italiani",
+            "morti a roma",
+            "morti il 20 maggio",
+            "morti nel 1999",
+            "nati a roma",
+            "nati l'11 aprile",
+            "nati nel 1948",
+            "professori alla sapienza - universit\u00e0 di roma",
+            "storia dell'italia nel secondo dopoguerra",
+            "vittime del terrorismo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

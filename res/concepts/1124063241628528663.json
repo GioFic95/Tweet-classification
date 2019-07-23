@@ -1,0 +1,36 @@
+[
+    {
+        "categories": [
+            "attori canadesi",
+            "attori statunitensi del xix secolo",
+            "attori statunitensi del xx secolo",
+            "attori suicidi",
+            "cinema muto statunitense",
+            "inventori canadesi",
+            "inventori statunitensi",
+            "morti a beverly hills",
+            "morti il 28 dicembre",
+            "morti nel 1938",
+            "nati a hamilton (canada)",
+            "nati il 2 gennaio",
+            "nati nel 1890"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cortometraggi drammatici",
+            "cortometraggi muti statunitensi",
+            "cortometraggi statunitensi del 1909"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "house of mouse",
+            "serie televisive d'animazione del 2001",
+            "serie televisive d'animazione statunitensi",
+            "serie televisive della abc (stati uniti d'america)"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attori italiani",
+            "doppiatori italiani",
+            "nati a roma",
+            "nati il 21 luglio",
+            "nati nel 1981"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "categories": [
+            "psicologia cognitiva"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto costituzionale",
+            "governo",
+            "stato"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "avvocati italiani del xx secolo",
+            "cavalieri di gran croce omri",
+            "commendatori omri",
+            "giuristi italiani del xxi secolo",
+            "giuristi italiani del xx secolo",
+            "governo letta",
+            "governo monti",
+            "grandi ufficiali omri",
+            "ministri per gli affari europei della repubblica italiana",
+            "nati a roma",
+            "nati il 17 agosto",
+            "nati nel 1954",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

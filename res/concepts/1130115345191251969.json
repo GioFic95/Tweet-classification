@@ -1,0 +1,99 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "chiesa cattolica nella citt\u00e0 del vaticano",
+            "citt\u00e0 del vaticano",
+            "diritto canonico",
+            "papato",
+            "santa sede",
+            "stato pontificio"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "arcivescovi cattolici argentini del xxi secolo",
+            "arcivescovi cattolici argentini del xx secolo",
+            "cardinali argentini del xxi secolo",
+            "cardinali nominati da giovanni paolo ii",
+            "gesuiti argentini",
+            "italo-argentini",
+            "nati a buenos aires",
+            "nati il 17 dicembre",
+            "nati nel 1936",
+            "papa francesco",
+            "papi argentini",
+            "vescovi e arcivescovi di buenos aires"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "generi letterari",
+            "posta"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "decreti",
+            "editti",
+            "fonti del diritto romano",
+            "teoria del diritto"
+        ],
+        "domains": [
+            "heraldry honors and vexillology",
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "frasi latine"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

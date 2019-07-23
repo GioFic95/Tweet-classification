@@ -1,0 +1,46 @@
+[
+    {
+        "categories": [
+            "avvocati italiani del xx secolo",
+            "deputati della xvi legislatura della repubblica italiana",
+            "deputati della xv legislatura della repubblica italiana",
+            "nati a genova",
+            "nati il 2 maggio",
+            "nati nel 1956",
+            "politici del popolo della libert\u00e0",
+            "politici di alleanza nazionale",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "studenti dell'universit\u00e0 cattolica del sacro cuore"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "scuola"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "violenza"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

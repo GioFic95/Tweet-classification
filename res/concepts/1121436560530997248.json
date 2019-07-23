@@ -1,0 +1,104 @@
+[
+    {
+        "categories": [
+            "fascismo"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concha de oro",
+            "film francesi del 1970",
+            "film gialli",
+            "film italiani del 1970"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "assassinati con arma da fuoco",
+            "comunisti in germania",
+            "comunisti in polonia",
+            "ebrei polacchi",
+            "filosofi atei",
+            "filosofi polacchi",
+            "marxismo",
+            "morti a berlino",
+            "morti il 15 gennaio",
+            "morti nel 1919",
+            "nati a zamo\u015b\u0107",
+            "nati il 5 marzo",
+            "nati nel 1871",
+            "pacifisti",
+            "persone sequestrate",
+            "politici assassinati",
+            "politici del partito socialdemocratico tedesco",
+            "politici polacchi",
+            "rivoluzionari polacchi",
+            "socialisti"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giornalismo",
+            "terminologia televisiva"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "numeri grandi"
+        ],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "lingua italiana",
+            "lingue svo"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

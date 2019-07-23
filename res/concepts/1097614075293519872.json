@@ -1,0 +1,64 @@
+[
+    {
+        "categories": [
+            "morti a rubano",
+            "morti il 21 marzo",
+            "morti nel 2013",
+            "nati a casalpusterlengo",
+            "nati il 13 dicembre",
+            "nati nel 1918",
+            "partigiani italiani",
+            "persone legate a solagna",
+            "presbiteri italiani",
+            "resistenza padovana"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ragioneria"
+        ],
+        "domains": [
+            "mathematics",
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "partiti politici iraniani"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto costituzionale",
+            "stato"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto del lavoro",
+            "etica",
+            "sociologia",
+            "solidariet\u00e0"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

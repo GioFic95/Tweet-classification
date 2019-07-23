@@ -1,0 +1,37 @@
+[
+    {
+        "categories": [
+            "delitti contro la libert\u00e0 morale",
+            "diritto italiano"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cultura di internet"
+        ],
+        "domains": [
+            "law and crime",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antropologia della famiglia",
+            "diritto di famiglia",
+            "pedagogia",
+            "sociologia della famiglia"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

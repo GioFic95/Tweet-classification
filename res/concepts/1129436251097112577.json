@@ -1,0 +1,141 @@
+[
+    {
+        "categories": [
+            "romanzi del 1936",
+            "romanzi in inglese",
+            "via col vento"
+        ],
+        "domains": [
+            "literature and theatre",
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "futuro e libert\u00e0",
+            "partiti politici italiani del passato"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "conferenze di pace",
+            "guerra civile siriana",
+            "montreux"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cortometraggi commedia",
+            "cortometraggi muti statunitensi",
+            "cortometraggi statunitensi del 1915",
+            "film comici",
+            "film diretti da charlie chaplin"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "banche"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "banche etiche",
+            "finanza etica",
+            "solidariet\u00e0"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "etica",
+            "teologia"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cultura a stoccolma",
+            "premio nobel"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "economisti indiani",
+            "filosofi della politica",
+            "filosofi indiani",
+            "nati il 3 novembre",
+            "nati nel 1933",
+            "premi nobel nel 1998",
+            "professori dell'universit\u00e0 di harvard",
+            "vincitori del premio nobel per l'economia"
+        ],
+        "domains": [
+            "business economics and finance",
+            "farming",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

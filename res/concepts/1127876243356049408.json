@@ -1,0 +1,49 @@
+[
+    {
+        "categories": [
+            "femminismo"
+        ],
+        "domains": [
+            "philosophy and psychology",
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariddi d'oro al miglior film",
+            "film ambientati in australia",
+            "film australiani del 1975",
+            "film drammatici"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "myrtaceae"
+        ],
+        "domains": [
+            "biology",
+            "animals"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "textile and clothing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "morti nel 1985",
+            "nati a firenze",
+            "nati nel 1912",
+            "storici dell'arte italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "elettrofoni semielettronici",
+            "strumenti del jazz e della black music",
+            "strumenti della musica folk",
+            "strumenti della musica pop e rock"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "berlino",
+            "citt\u00e0 della lega anseatica"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

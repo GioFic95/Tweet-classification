@@ -1,0 +1,87 @@
+[
+    {
+        "categories": [
+            "cucurbitaceae"
+        ],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "appello",
+            "diritto"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "commendatori dell'ordine dei santi maurizio e lazzaro",
+            "grandi ufficiali dell'ordine della corona d'italia",
+            "lotta alla mafia",
+            "medaglie d'argento al valor militare",
+            "medaglie di bronzo al valor militare",
+            "morti a udine",
+            "morti il 5 luglio",
+            "morti nel 1942",
+            "nati a pavia",
+            "nati il 22 dicembre",
+            "nati nel 1871",
+            "personalit\u00e0 dell'italia fascista",
+            "politici italiani del xix secolo",
+            "politici italiani del xx secolo",
+            "poliziotti italiani",
+            "prefetti italiani",
+            "senatori della xxix legislatura del regno d'italia",
+            "senatori della xxviii legislatura del regno d'italia",
+            "senatori della xxvii legislatura del regno d'italia",
+            "storia della sicilia post unitaria",
+            "ufficiali del regio esercito"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

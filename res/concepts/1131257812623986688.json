@@ -1,0 +1,36 @@
+[
+    {
+        "categories": [
+            "bioinformatica",
+            "organizzazioni internazionali"
+        ],
+        "domains": [
+            "biology",
+            "animals"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "componenti delle tute spaziali"
+        ],
+        "domains": [
+            "engineering and technology",
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti e principi filosofici",
+            "natura"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

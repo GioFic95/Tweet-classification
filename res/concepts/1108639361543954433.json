@@ -1,0 +1,52 @@
+[
+    {
+        "categories": [
+            "periodici belgi in lingua francese",
+            "periodici fondati nel 1887",
+            "quotidiani belgi"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "belgi fiamminghi",
+            "europarlamentari belgi",
+            "nati l'11 aprile",
+            "nati nel 1953",
+            "politici belgi",
+            "primi ministri del belgio"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "comunicazione politica",
+            "elezioni",
+            "generi di pubblicit\u00e0"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "parto",
+            "processi fisiologici generali"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

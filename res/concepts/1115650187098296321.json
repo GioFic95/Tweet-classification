@@ -1,0 +1,81 @@
+[
+    {
+        "categories": [
+            "europarlamentari italiani della vi legislatura",
+            "nati a miami",
+            "nati il 3 settembre",
+            "nati nel 1956",
+            "politici del partito comunista italiano",
+            "politici del partito di unit\u00e0 proletaria",
+            "politici di rifondazione comunista",
+            "politici italiani del xxi secolo"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "europarlamentari italiani della vi legislatura",
+            "nati a miami",
+            "nati il 3 settembre",
+            "nati nel 1956",
+            "politici del partito comunista italiano",
+            "politici del partito di unit\u00e0 proletaria",
+            "politici di rifondazione comunista",
+            "politici italiani del xxi secolo"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "segni di interpunzione"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "aritmetica",
+            "statistica descrittiva"
+        ],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "animals"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

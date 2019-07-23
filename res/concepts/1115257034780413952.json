@@ -1,0 +1,89 @@
+[
+    {
+        "categories": [
+            "dame dell'ordine della giarrettiera",
+            "decorati con la medaglia presidenziale della libert\u00e0",
+            "espressioni comuni della lingua inglese",
+            "espressioni comuni della lingua italiana",
+            "morti a londra",
+            "morti l'8 aprile",
+            "morti nel 2013",
+            "nati il 13 ottobre",
+            "nati nel 1925",
+            "nati nelle midlands orientali",
+            "personalit\u00e0 commemorate con funerali di stato",
+            "politici britannici del xx secolo",
+            "politici del partito conservatore (regno unito)",
+            "primi ministri del regno unito"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ferro"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "storia"
+        ],
+        "domains": [
+            "history"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "unit\u00e0 di misura astronomiche",
+            "unit\u00e0 di tempo"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film ambientati nella preistoria",
+            "film britannici del 1966",
+            "film d'animazione realizzati in stop motion",
+            "film fantastici",
+            "film hammer film productions",
+            "film remake"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

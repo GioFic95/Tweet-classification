@@ -1,0 +1,84 @@
+[
+    {
+        "categories": [
+            "fisica delle particelle",
+            "fisica nucleare",
+            "leggi di conservazione",
+            "meccanica quantistica",
+            "simmetria"
+        ],
+        "domains": [
+            "mathematics",
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antropologia sociale",
+            "sociologia politica"
+        ],
+        "domains": [
+            "culture and society",
+            "law and crime",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "europa"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "compositori italiani del xxi secolo",
+            "compositori italiani del xx secolo",
+            "musicisti blues",
+            "musicisti jazz",
+            "nati a lazise",
+            "nati il 7 giugno",
+            "nati nel 1957",
+            "pianisti italiani"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giornalismo",
+            "terminologia televisiva"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "categories": [
+            "titoli nobiliari"
+        ],
+        "domains": [
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "greenpeace",
+            "nonviolenza",
+            "organizzazioni ambientaliste",
+            "organizzazioni non governative"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

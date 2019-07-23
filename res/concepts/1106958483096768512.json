@@ -1,0 +1,60 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "aree naturali protette della russia",
+            "geografia della siberia",
+            "lena",
+            "sacha-jacuzia"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ecosistemi",
+            "esogeologia",
+            "geomorfologia fluviale",
+            "sedimentologia"
+        ],
+        "domains": [
+            "geography and places",
+            "geology and geophysics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "geography and places",
+            "animals",
+            "farming"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ambiente",
+            "ecologia"
+        ],
+        "domains": [
+            "animals",
+            "biology",
+            "farming"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

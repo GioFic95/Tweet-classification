@@ -1,0 +1,84 @@
+[
+    {
+        "categories": [
+            "concetti e principi filosofici",
+            "diritto comparato",
+            "diritto costituzionale",
+            "diritto processuale civile",
+            "diritto processuale penale",
+            "teoria del diritto"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "singoli acid jazz",
+            "singoli del 2011",
+            "singoli di ben westbeech",
+            "singoli house"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "morti a firenze",
+            "morti il 4 maggio",
+            "morti nel 1965",
+            "nati a firenze",
+            "nati nel 1893",
+            "registi italiani del xx secolo",
+            "registi teatrali italiani",
+            "sceneggiatori italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "amore",
+            "diritto",
+            "etica",
+            "sessualit\u00e0",
+            "teologia",
+            "virt\u00f9"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

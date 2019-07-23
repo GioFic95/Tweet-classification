@@ -1,0 +1,89 @@
+[
+    {
+        "categories": [
+            "national gallery di londra"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "rappresentazioni grafiche"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "filosofi francesi del xxi secolo",
+            "filosofi francesi del xx secolo",
+            "morti a parigi",
+            "morti il 10 novembre",
+            "morti nel 2015",
+            "nati a boulogne-billancourt",
+            "nati il 19 giugno",
+            "nati nel 1937",
+            "saggisti francesi"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mesi dell'anno"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "proteste",
+            "quinta repubblica francese",
+            "rivoluzioni",
+            "sessantotto",
+            "storia contemporanea",
+            "storia dell'anarchismo",
+            "storia di parigi"
+        ],
+        "domains": [
+            "history",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

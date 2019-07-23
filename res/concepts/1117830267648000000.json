@@ -1,0 +1,21 @@
+[
+    {
+        "categories": [
+            "evoluzione",
+            "filogenetica",
+            "processi biologici",
+            "storia della scienza"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

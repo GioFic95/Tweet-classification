@@ -1,0 +1,54 @@
+[
+    {
+        "categories": [
+            "film ambientati a new york",
+            "film ambientati negli anni 1960",
+            "film drammatici",
+            "film francesi del 2013",
+            "film statunitensi del 2013"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "libri di memorie britannici",
+            "opere letterarie del 1981",
+            "opere letterarie in inglese",
+            "saggi di j. r. r. tolkien",
+            "saggistica britannica"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "battaglie"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

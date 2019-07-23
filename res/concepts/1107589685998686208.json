@@ -1,0 +1,36 @@
+[
+    {
+        "categories": [
+            "agenti segreti sovietici",
+            "antislamisti",
+            "artisti marziali russi",
+            "gran croce della legion d'onore",
+            "militari russi",
+            "militari sovietici",
+            "nati a san pietroburgo",
+            "nati il 7 ottobre",
+            "nati nel 1952",
+            "oppositori alla pena capitale",
+            "politici russi",
+            "primi ministri della russia"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "arte cinese",
+            "pittura",
+            "scrittura"
+        ],
+        "domains": [
+            "chemistry and mineralogy",
+            "textile and clothing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

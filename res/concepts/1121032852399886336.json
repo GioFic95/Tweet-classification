@@ -1,0 +1,51 @@
+[
+    {
+        "categories": [
+            "diritto comparato",
+            "diritto costituzionale",
+            "diritto pubblico",
+            "procedure giudiziarie",
+            "storia del diritto"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "false diagnosi psichiatriche",
+            "lgbt",
+            "omosessualit\u00e0 nelle arti",
+            "orientamento sessuale"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology",
+            "literature and theatre",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

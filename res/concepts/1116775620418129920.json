@@ -1,0 +1,114 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "assistenza sociale",
+            "diritto penale",
+            "emigrazione"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "biologia",
+            "ontologia"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ominidi",
+            "taxa classificati da linneo"
+        ],
+        "domains": [
+            "animals"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "reazioni chimiche"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attori italiani",
+            "concorrenti de l'isola dei famosi",
+            "concorrenti di miss universo 1988",
+            "conduttori televisivi italiani",
+            "nati a bentivoglio",
+            "nati il 1\u00ba aprile",
+            "nati nel 1965",
+            "presentatori de le iene",
+            "presentatori del festival di sanremo",
+            "presentatori de l'isola dei famosi",
+            "presentatori di zelig",
+            "showgirl e showman italiani",
+            "telegatto al personaggio femminile"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "strumenti della musica barocca",
+            "strumenti della musica colta del xx e xxi secolo",
+            "strumenti della musica europea dell'ottocento",
+            "strumenti della musica folk",
+            "strumenti della musica galante e classica",
+            "viole da braccio"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mobili",
+            "tavola"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

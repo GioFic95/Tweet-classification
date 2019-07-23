@@ -1,0 +1,68 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "dante alighieri",
+            "dolce stil novo",
+            "morti a ravenna",
+            "morti nel 1321",
+            "nati a firenze",
+            "nati nel 1265",
+            "personaggi citati nella divina commedia",
+            "personalit\u00e0 commemorate nella basilica di santa croce",
+            "persone legate a forl\u00ec",
+            "poeti italiani del xiii secolo",
+            "poeti italiani del xiv secolo",
+            "politici italiani del xiii secolo",
+            "politici italiani del xiv secolo",
+            "scrittori cattolici",
+            "scrittori in lingua latina",
+            "scrittori italiani del xiii secolo",
+            "scrittori italiani del xiv secolo"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cani",
+            "canidi",
+            "specie di interesse veterinario"
+        ],
+        "domains": [
+            "animals"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

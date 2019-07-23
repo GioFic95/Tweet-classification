@@ -1,0 +1,37 @@
+[
+    {
+        "categories": [
+            "chiese dedicate a san silvestro i papa",
+            "chiese di roma (rione colonna)",
+            "chiese nazionali di roma",
+            "chiese titolari di roma",
+            "societ\u00e0 dell'apostolato cattolico"
+        ],
+        "domains": [
+            "religion mysticism and mythology",
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

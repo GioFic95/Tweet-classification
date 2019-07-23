@@ -1,0 +1,99 @@
+[
+    {
+        "categories": [
+            "film ambientati a washington",
+            "film ambientati in artide",
+            "film basati su opere di narrativa",
+            "film britannici del 1964",
+            "film commedia nera",
+            "film conservati nel national film registry",
+            "film diretti da stanley kubrick",
+            "film girati in inghilterra",
+            "film satirici",
+            "film statunitensi del 1964",
+            "film su armi e guerre nucleari",
+            "film sulla guerra fredda",
+            "film thriller",
+            "premi bafta al miglior film"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "storia dell'italia nel secondo dopoguerra"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto amministrativo",
+            "economia politica",
+            "pubblica amministrazione",
+            "sociologia politica"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto tributario",
+            "imposte",
+            "scienza delle finanze"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti e principi filosofici",
+            "filosofia della mente",
+            "platonismo"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti e principi sul tempo",
+            "futurologia"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

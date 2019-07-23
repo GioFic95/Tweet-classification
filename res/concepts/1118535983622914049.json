@@ -1,0 +1,43 @@
+[
+    {
+        "categories": [
+            "europarlamentari italiani della vii legislatura",
+            "nati a san benedetto del tronto",
+            "nati il 21 settembre",
+            "nati nel 1976",
+            "politici del popolo della libert\u00e0",
+            "politici di alleanza nazionale",
+            "politici di fratelli d'italia - alleanza nazionale",
+            "politici italiani del xxi secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forza"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forze armate"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

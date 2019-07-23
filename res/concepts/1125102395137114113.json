@@ -1,0 +1,43 @@
+[
+    {
+        "categories": [
+            "film ambientati a filadelfia",
+            "film ambientati a new york",
+            "film ambientati a washington",
+            "film ambientati in massachusetts",
+            "film ambientati nel new jersey",
+            "film d'avventura",
+            "film d'azione",
+            "film fantastici",
+            "film girati a new york",
+            "film statunitensi del 2004"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

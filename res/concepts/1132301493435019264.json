@@ -1,0 +1,68 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "spada laser"
+        ],
+        "domains": [
+            "media",
+            "games and video games"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "laser"
+        ],
+        "domains": [
+            "chemistry and mineralogy",
+            "engineering and technology",
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "aziende fondate nel 1998",
+            "aziende quotate presso la borsa di francoforte",
+            "aziende quotate presso la borsa italiana",
+            "gruppo unicredit"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cavalieri del lavoro",
+            "commendatori omri",
+            "dirigenti d'azienda italiani",
+            "dirigenti della juventus f.c.",
+            "grandi ufficiali omri",
+            "imprenditori italiani",
+            "insigniti con il collare d'oro al merito sportivo",
+            "nati a bologna",
+            "nati il 31 agosto",
+            "nati nel 1947",
+            "persone della formula 1",
+            "persone legate alla fiat",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "presidenti di confindustria",
+            "studenti della sapienza - universit\u00e0 di roma",
+            "tod's"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

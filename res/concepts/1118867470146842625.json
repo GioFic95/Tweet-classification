@@ -1,0 +1,105 @@
+[
+    {
+        "categories": [
+            "deputati della ix legislatura della repubblica italiana",
+            "deputati della vii legislatura della repubblica italiana",
+            "deputati della vi legislatura della repubblica italiana",
+            "deputati della x legislatura della repubblica italiana",
+            "deputati dell'viii legislatura della repubblica italiana",
+            "europarlamentari italiani della iii legislatura",
+            "europarlamentari italiani della iv legislatura",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "morti a roma",
+            "morti il 2 novembre",
+            "morti nel 2012",
+            "nati il 19 novembre",
+            "nati nel 1926",
+            "personalit\u00e0 del neofascismo",
+            "politici del movimento idea sociale",
+            "politici del movimento sociale fiamma tricolore",
+            "politici del movimento sociale italiano-destra nazionale",
+            "politici di ordine nuovo",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "storici del fascismo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "titoli nobiliari"
+        ],
+        "domains": [
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto costituzionale",
+            "governo",
+            "stato"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

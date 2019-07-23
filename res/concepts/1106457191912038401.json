@@ -1,0 +1,27 @@
+[
+    {
+        "categories": [
+            "bruxelles",
+            "bruxelles-capitale"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "comune di parigi",
+            "rivoluzioni del xix secolo",
+            "storia della francia",
+            "storia dell'anarchismo",
+            "storia di parigi"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

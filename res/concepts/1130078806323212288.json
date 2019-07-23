@@ -1,0 +1,62 @@
+[
+    {
+        "categories": [
+            "architettura religiosa cristiana",
+            "elementi architettonici",
+            "elementi architettonici dell'architettura religiosa cristiana",
+            "pulpiti"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mesi dell'anno"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "assassinati con esplosivo",
+            "eroi nazionali",
+            "lotta alla mafia",
+            "magistrati italiani",
+            "medaglie d'oro al valor civile",
+            "morti a palermo",
+            "morti il 19 luglio",
+            "morti nel 1992",
+            "nati a palermo",
+            "nati il 19 gennaio",
+            "nati nel 1940",
+            "vittime di cosa nostra"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "textile and clothing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

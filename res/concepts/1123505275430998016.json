@@ -1,0 +1,61 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ebrei statunitensi",
+            "facebook",
+            "fondatori di impresa",
+            "imprenditori statunitensi",
+            "informatici statunitensi",
+            "nati a white plains (new york)",
+            "nati il 14 maggio",
+            "nati nel 1984",
+            "personalit\u00e0 di internet"
+        ],
+        "domains": [
+            "computing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto dell'informazione",
+            "diritto informatico",
+            "etica",
+            "privacy"
+        ],
+        "domains": [
+            "health and medicine",
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "games and video games"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antartide",
+            "artide",
+            "idrografia",
+            "oceanografia"
+        ],
+        "domains": [
+            "history"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

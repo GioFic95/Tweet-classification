@@ -1,0 +1,46 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "strada",
+            "strade"
+        ],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cestisti degli asheville altitude",
+            "cestisti dei new york knicks",
+            "cestisti dei panteras de miranda",
+            "cestisti del b.c. oostende",
+            "cestisti del b.k. nov\u00fd ji\u010d\u00edn",
+            "cestisti della victoria libertas pesaro",
+            "cestisti statunitensi",
+            "nati ad albany (new york)",
+            "nati il 26 febbraio",
+            "nati nel 1978"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

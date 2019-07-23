@@ -1,0 +1,78 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "calciatori del calcio catania",
+            "calciatori dell'a.c. milan",
+            "calciatori dell'a.c. reggiana 1919",
+            "calciatori dell'a.s.d. civitavecchia calcio 1920",
+            "calciatori dell'a.s. livorno calcio",
+            "calciatori della s.p.a.l. 2013",
+            "calciatori della s.s. juve stabia",
+            "calciatori dell'u.s. cremonese",
+            "calciatori dell'u.s. latina calcio",
+            "calciatori dell'u.s. salernitana 1919",
+            "calciatori italiani",
+            "nati a monticelli d'ongina",
+            "nati il 21 febbraio",
+            "nati nel 1935"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "associazione",
+            "diritto civile"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "criminalit\u00e0",
+            "delitti contro l'ordine pubblico",
+            "leggi dello stato italiano",
+            "lotta alla mafia",
+            "normativa antimafia",
+            "pratiche illegali",
+            "reati associativi"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

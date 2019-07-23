@@ -1,0 +1,57 @@
+[
+    {
+        "categories": [
+            "morti a dubai",
+            "morti il 23 marzo",
+            "morti nel 2012",
+            "nati il 15 dicembre",
+            "nati in somalia",
+            "nati nel 1934",
+            "politici somali"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "unit\u00e0 di misura astronomiche",
+            "unit\u00e0 di tempo"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film ambientati nell'antica roma",
+            "film comici",
+            "film diretti da carlo vanzina",
+            "film italiani del 1994"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "universit\u00e0"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "liste di ministri della giustizia",
+            "liste di ministri della repubblica italiana"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

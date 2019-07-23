@@ -1,0 +1,90 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forza"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forza italia (1994)",
+            "partiti conservatori italiani del passato",
+            "partiti politici italiani del passato"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "appartenenti alla p2",
+            "cavalieri del lavoro",
+            "deputati della xiii legislatura della repubblica italiana",
+            "deputati della xii legislatura della repubblica italiana",
+            "deputati della xiv legislatura della repubblica italiana",
+            "deputati della xvi legislatura della repubblica italiana",
+            "deputati della xv legislatura della repubblica italiana",
+            "europarlamentari italiani della v legislatura",
+            "imprenditori italiani",
+            "ministri della salute della repubblica italiana",
+            "ministri dell'economia e delle finanze della repubblica italiana",
+            "ministri dello sviluppo economico della repubblica italiana",
+            "ministri per le politiche europee della repubblica italiana",
+            "nati a milano",
+            "nati il 29 settembre",
+            "nati nel 1936",
+            "politici del popolo della libert\u00e0",
+            "politici di forza italia (1994)",
+            "politici di forza italia (2013)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "presidenti del consiglio dei ministri della repubblica italiana",
+            "presidenti dell'a.c. milan",
+            "silvio berlusconi",
+            "studenti dell'universit\u00e0 degli studi di milano"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "etica",
+            "filosofia del diritto",
+            "religione e politica"
+        ],
+        "domains": [
+            "law and crime",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "frasi latine",
+            "guide"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

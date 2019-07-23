@@ -1,0 +1,24 @@
+[
+    {
+        "categories": [
+            "tg5"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "programmi televisivi di rai 1",
+            "programmi televisivi iniziati nel 1975",
+            "programmi televisivi in produzione",
+            "programmi televisivi italiani",
+            "telegiornali"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

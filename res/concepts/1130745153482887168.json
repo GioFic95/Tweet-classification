@@ -1,0 +1,98 @@
+[
+    {
+        "categories": [
+            "cucurbitaceae"
+        ],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto costituzionale",
+            "governo",
+            "stato"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "accademici italiani del xx secolo",
+            "accademici legati a milano",
+            "cavalieri di gran croce omri",
+            "commissari europei",
+            "commissione prodi",
+            "commissione santer",
+            "economisti italiani",
+            "governo monti",
+            "ministri dell'economia e delle finanze della repubblica italiana",
+            "nati a varese",
+            "nati il 19 marzo",
+            "nati nel 1943",
+            "politici di scelta civica",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "politici legati a roma",
+            "presidenti del consiglio dei ministri della repubblica italiana",
+            "professori all'universit\u00e0 commerciale luigi bocconi",
+            "rettori dell'universit\u00e0 commerciale luigi bocconi",
+            "senatori a vita italiani",
+            "senatori della xvi legislatura della repubblica italiana",
+            "studenti dell'universit\u00e0 commerciale luigi bocconi"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "games and video games",
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "categories": [
+            "mano"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "classi sociali",
+            "professioni",
+            "storia del movimento operaio"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "aziende della citt\u00e0 metropolitana di roma capitale",
+            "aziende fondate nel 1962",
+            "aziende quotate presso la borsa italiana",
+            "gruppo enel",
+            "multinazionali",
+            "produttori di energia elettrica italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

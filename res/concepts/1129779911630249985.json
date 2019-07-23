@@ -1,0 +1,102 @@
+[
+    {
+        "categories": [
+            "attivismo",
+            "sociologia politica"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "anno liturgico della chiesa cattolica",
+            "giorni della settimana"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mesi dell'anno"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "unit\u00e0 di tempo"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cappella sistina",
+            "dipinti del perugino",
+            "dipinti su mos\u00e8"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "dante alighieri",
+            "dolce stil novo",
+            "morti a ravenna",
+            "morti nel 1321",
+            "nati a firenze",
+            "nati nel 1265",
+            "personaggi citati nella divina commedia",
+            "personalit\u00e0 commemorate nella basilica di santa croce",
+            "persone legate a forl\u00ec",
+            "poeti italiani del xiii secolo",
+            "poeti italiani del xiv secolo",
+            "politici italiani del xiii secolo",
+            "politici italiani del xiv secolo",
+            "scrittori cattolici",
+            "scrittori in lingua latina",
+            "scrittori italiani del xiii secolo",
+            "scrittori italiani del xiv secolo"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

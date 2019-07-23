@@ -1,0 +1,68 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "federalisti",
+            "giuristi italiani del xx secolo",
+            "insegnanti italiani del xx secolo",
+            "morti a como",
+            "morti il 10 agosto",
+            "morti nel 2001",
+            "nati a como",
+            "nati l'11 gennaio",
+            "nati nel 1918",
+            "politici della lega nord",
+            "politici del partito federalista",
+            "politologi italiani",
+            "professori all'universit\u00e0 cattolica del sacro cuore",
+            "senatori della xiii legislatura della repubblica italiana",
+            "senatori della xii legislatura della repubblica italiana",
+            "senatori dell'xi legislatura della repubblica italiana",
+            "studenti dell'universit\u00e0 cattolica del sacro cuore"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto amministrativo",
+            "diritto costituzionale",
+            "elezioni"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

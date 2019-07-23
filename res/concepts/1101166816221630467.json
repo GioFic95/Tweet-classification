@@ -1,0 +1,65 @@
+[
+    {
+        "categories": [
+            "cantanti di musica leggera",
+            "cantanti italiani del xx secolo",
+            "cantanti legati a milano",
+            "cantanti rock",
+            "gruppi e musicisti della cgd",
+            "gruppi musicali beat",
+            "gruppi musicali rock",
+            "nati a milano",
+            "nati nel 1940"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "nati a benevento",
+            "nati il 2 luglio",
+            "nati nel 1985",
+            "pianisti italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "elementi architettonici"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

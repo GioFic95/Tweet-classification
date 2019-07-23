@@ -1,0 +1,64 @@
+[
+    {
+        "categories": [
+            "forma musicale",
+            "terminologia della musica"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "programmi televisivi degli anni 2010",
+            "programmi televisivi di rai 3",
+            "programmi televisivi iniziati nel 2013",
+            "programmi televisivi italiani",
+            "programmi televisivi satirici",
+            "programmi televisivi terminati nel 2017",
+            "talk show",
+            "talk-show"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "democrazia",
+            "forme di sovranit\u00e0",
+            "teorie politiche"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

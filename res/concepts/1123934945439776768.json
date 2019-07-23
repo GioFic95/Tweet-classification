@@ -1,0 +1,102 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "features archeologiche",
+            "sepolture",
+            "siti archeologici per tipologia"
+        ],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "eroi nazionali",
+            "morti a budapest",
+            "morti il 16 giugno",
+            "morti nel 1958",
+            "nati a kaposv\u00e1r",
+            "nati il 6 giugno",
+            "nati nel 1896",
+            "personalit\u00e0 commemorate con funerali di stato",
+            "persone giustiziate per impiccagione",
+            "politici ungheresi",
+            "repubblica popolare d'ungheria"
+        ],
+        "domains": [
+            "history",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "nati a sz\u00e9kesfeh\u00e9rv\u00e1r",
+            "nati il 31 maggio",
+            "nati nel 1963",
+            "politici ungheresi",
+            "primi ministri dell'ungheria",
+            "studenti dell'universit\u00e0 di oxford"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ebrei austriaci",
+            "filosofi austriaci",
+            "morti a londra",
+            "morti il 23 settembre",
+            "morti nel 1939",
+            "nati a p\u0159\u00edbor",
+            "nati il 6 maggio",
+            "nati nel 1856",
+            "neurologi austriaci",
+            "psicoanalisti austriaci",
+            "sigmund freud"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

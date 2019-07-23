@@ -1,0 +1,87 @@
+[
+    {
+        "categories": [
+            "asessualit\u00e0",
+            "medicina veterinaria",
+            "modificazione corporea",
+            "mutilazioni rituali",
+            "tortura"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "andrologia",
+            "asessualit\u00e0",
+            "pene"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "politica d'italia",
+            "terminologia della politica"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cristologia",
+            "ges\u00f9",
+            "morti a gerusalemme",
+            "nati a betlemme",
+            "nati a nazaret",
+            "parabole di ges\u00f9",
+            "parole e locuzioni della lingua greca",
+            "personaggi citati nella divina commedia (paradiso)",
+            "personaggi del nuovo testamento",
+            "persone giustiziate per crocifissione",
+            "profeti islamici",
+            "vangelo secondo giovanni"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "aristotele",
+            "filosofi greci antichi del iv secolo a.c.",
+            "logici greci antichi",
+            "morti nel 322 a.c.",
+            "nati a stagira",
+            "personaggi citati nella divina commedia (inferno)",
+            "scienziati greci antichi",
+            "scolarchi del liceo"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

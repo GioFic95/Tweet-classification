@@ -1,0 +1,91 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "liste di ministri degli affari interni",
+            "liste di segretari di stato del regno unito",
+            "segretari di stato britannici"
+        ],
+        "domains": [
+            "law and crime",
+            "politics and government",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attivisti per i diritti delle persone lgbt",
+            "consiglieri regionali dell'emilia-romagna",
+            "deputati della xiv legislatura della repubblica italiana",
+            "deputati della xv legislatura della repubblica italiana",
+            "nati a pianoro",
+            "nati il 14 marzo",
+            "nati nel 1955",
+            "politici dei democratici di sinistra",
+            "politici dell'italia dei valori",
+            "politici del partito comunista italiano",
+            "politici del partito di unit\u00e0 proletaria",
+            "politici del partito socialista italiano (2007)",
+            "politici di centro democratico (italia)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "politici sostenitori dei diritti lgbt"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "liste di ministri degli affari interni",
+            "liste di segretari di stato del regno unito",
+            "segretari di stato britannici"
+        ],
+        "domains": [
+            "law and crime",
+            "politics and government",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "grandezze astronomiche",
+            "leghe metalliche",
+            "leghe per monete"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

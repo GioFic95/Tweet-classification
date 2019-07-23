@@ -1,0 +1,21 @@
+[
+    {
+        "categories": [
+            "parassitologia"
+        ],
+        "domains": [
+            "biology",
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

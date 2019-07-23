@@ -1,0 +1,44 @@
+[
+    {
+        "categories": [
+            "avvocati italiani del xx secolo",
+            "deputati della xiii legislatura della repubblica italiana",
+            "deputati della xiv legislatura della repubblica italiana",
+            "nati il 24 aprile",
+            "nati nel 1947",
+            "politici di alleanza nazionale",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "lingua italiana",
+            "lingue svo"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "partiti liberali",
+            "partiti politici argentini",
+            "partiti socialdemocratici"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "venezuela"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "anticomunisti",
+            "generali cileni",
+            "golpe cileno del 1973",
+            "massoni",
+            "morti a santiago del cile",
+            "morti il 10 dicembre",
+            "morti nel 2006",
+            "nati a valpara\u00edso",
+            "nati il 25 novembre",
+            "nati nel 1915",
+            "politici cileni",
+            "presidenti del cile",
+            "senatori a vita cileni",
+            "storia del cile",
+            "violazioni dei diritti umani"
+        ],
+        "domains": [
+            "law and crime",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

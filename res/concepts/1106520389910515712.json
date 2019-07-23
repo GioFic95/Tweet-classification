@@ -1,0 +1,101 @@
+[
+    {
+        "categories": [
+            "concetti e principi sul tempo",
+            "futurologia"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "energia",
+            "funzioni di stato"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film ambientati a washington",
+            "film ambientati in artide",
+            "film basati su opere di narrativa",
+            "film britannici del 1964",
+            "film commedia nera",
+            "film conservati nel national film registry",
+            "film diretti da stanley kubrick",
+            "film girati in inghilterra",
+            "film satirici",
+            "film statunitensi del 1964",
+            "film su armi e guerre nucleari",
+            "film sulla guerra fredda",
+            "film thriller",
+            "premi bafta al miglior film"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attrezzi agricoli",
+            "attrezzi da giardinaggio",
+            "attrezzi per falegnameria",
+            "attrezzi per meccanica",
+            "geotecnica"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "carbone",
+            "chimica industriale",
+            "fonti di riscaldamento",
+            "fonti energetiche non rinnovabili",
+            "rocce sedimentarie"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

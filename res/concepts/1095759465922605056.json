@@ -1,0 +1,59 @@
+[
+    {
+        "categories": [
+            "belgi fiamminghi",
+            "europarlamentari belgi",
+            "nati l'11 aprile",
+            "nati nel 1953",
+            "politici belgi",
+            "primi ministri del belgio"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "governo degli stati uniti d'america",
+            "presidenti degli stati uniti d'america"
+        ],
+        "domains": [
+            "politics and government",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "economia ambientale",
+            "economia del benessere",
+            "economia industriale",
+            "economia sanitaria",
+            "scienza delle finanze"
+        ],
+        "domains": [
+            "business economics and finance",
+            "farming",
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

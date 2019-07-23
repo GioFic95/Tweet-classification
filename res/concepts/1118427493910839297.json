@@ -1,0 +1,90 @@
+[
+    {
+        "categories": [
+            "anni di piombo",
+            "modi di dire italiani",
+            "storia d'italia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "anni di piombo",
+            "incendi",
+            "neofascismo",
+            "stragi commesse in italia"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "anni di piombo",
+            "incendi",
+            "neofascismo",
+            "stragi commesse in italia"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "roma q. xxvii primavalle"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "idaho",
+            "montana",
+            "parchi nazionali degli stati uniti d'america",
+            "patrimoni dell'umanit\u00e0 degli stati uniti d'america",
+            "riserve della biosfera negli stati uniti d'america",
+            "wyoming"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "famiglia"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "anni di piombo",
+            "incendi",
+            "neofascismo",
+            "stragi commesse in italia"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

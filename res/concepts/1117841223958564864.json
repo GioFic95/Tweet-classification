@@ -1,0 +1,50 @@
+[
+    {
+        "categories": [
+            "arcivescovi cattolici italiani del xviii secolo",
+            "filosofi italiani del xviii secolo",
+            "morti a roma",
+            "morti il 16 gennaio",
+            "morti nel 1761",
+            "nati il 22 luglio",
+            "nati nel 1676",
+            "teologi italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "lingua italiana",
+            "lingue svo"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

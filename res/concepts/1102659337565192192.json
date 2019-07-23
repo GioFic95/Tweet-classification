@@ -1,0 +1,83 @@
+[
+    {
+        "categories": [
+            "diritto amministrativo",
+            "diritto costituzionale",
+            "elezioni"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "unit\u00e0 di misura astronomiche",
+            "unit\u00e0 di tempo"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cantanti da musical",
+            "cantanti in attivit\u00e0",
+            "cantanti italiani del xxi secolo",
+            "cantanti italiani del xx secolo",
+            "cantanti pop",
+            "conduttori televisivi italiani",
+            "danzatori italiani",
+            "gruppi e musicisti del lazio",
+            "nati a roma",
+            "nati il 10 agosto",
+            "nati nel 1965",
+            "partecipanti al festival di sanremo",
+            "presentatori del festival di sanremo",
+            "presentatori di domenica in",
+            "presentatori di paperissima",
+            "showgirl e showman italiani",
+            "telegatto al personaggio femminile"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

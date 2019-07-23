@@ -1,0 +1,42 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "programmi televisivi degli anni 1990",
+            "programmi televisivi degli anni 2000",
+            "programmi televisivi degli anni 2010",
+            "programmi televisivi italiani",
+            "programmi televisivi sportivi"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "comunit\u00e0 virtuali",
+            "facebook",
+            "software per android",
+            "software per blackberry os",
+            "software per firefox os",
+            "software per ios",
+            "software per windows phone"
+        ],
+        "domains": [
+            "computing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

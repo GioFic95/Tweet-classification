@@ -1,0 +1,74 @@
+[
+    {
+        "categories": [
+            "emozioni e sentimenti"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "rappresentazioni grafiche"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cristologia",
+            "eucaristia",
+            "eventi della vita di ges\u00f9",
+            "festivit\u00e0 cristiane",
+            "riti cristiani",
+            "testimoni di geova",
+            "vangelo secondo luca",
+            "vangelo secondo marco",
+            "vangelo secondo matteo"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "morti a stoccolma",
+            "morti l'11 luglio",
+            "morti nel 1974",
+            "nati a v\u00e4xj\u00f6",
+            "nati il 23 maggio",
+            "nati nel 1891",
+            "premi nobel nel 1951",
+            "scrittori svedesi",
+            "vincitori del premio nobel per la letteratura"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "categories": [
+            "satira",
+            "storia della televisione"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "camere alte nazionali",
+            "parlamento francese"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "avvocati italiani del xx secolo",
+            "nati a cagliari",
+            "nati il 28 novembre",
+            "nati nel 1942",
+            "politici della democrazia cristiana",
+            "politici della margherita",
+            "politici del partito democratico (italia)",
+            "politici del partito popolare italiano (1994)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "senatori della xiv legislatura della repubblica italiana",
+            "senatori della xvi legislatura della repubblica italiana",
+            "senatori della xv legislatura della repubblica italiana"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "funzionari italiani",
+            "morti a grosseto",
+            "morti il 25 agosto",
+            "morti nel 2003",
+            "nati nel 1915",
+            "poliziotti italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "eventi del 2000",
+            "giubilei universali della chiesa cattolica"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "comune",
+            "diritto comparato",
+            "diritto costituzionale",
+            "sindaci"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "politica della francia",
+            "regime di vichy",
+            "terza repubblica francese"
+        ],
+        "domains": [
+            "warfare and defense",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "politecnico di milano"
+        ],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

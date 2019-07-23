@@ -1,0 +1,98 @@
+[
+    {
+        "categories": [
+            "antifascisti italiani",
+            "direttori di periodici",
+            "direttori di telegiornale",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "morti a roma",
+            "morti il 22 novembre",
+            "morti nel 2008",
+            "nati a roma",
+            "nati il 4 marzo",
+            "nati nel 1930",
+            "personaggi televisivi italiani",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "agenzie",
+            "antropologia politica",
+            "architetture civili",
+            "diritto amministrativo",
+            "diritto costituzionale",
+            "lavoro",
+            "poteri magistratuali romani",
+            "sociologia politica"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "agenzie di stampa",
+            "professioni dell'informazione"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "stampa"
+        ],
+        "domains": [
+            "engineering and technology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giornalismo",
+            "professioni dell'informazione"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

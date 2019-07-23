@@ -1,0 +1,48 @@
+[
+    {
+        "categories": [
+            "squadre sportive",
+            "terminologia sportiva"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attori statunitensi del xxi secolo",
+            "attori statunitensi del xx secolo",
+            "attori televisivi statunitensi",
+            "fotografi statunitensi",
+            "morti a los angeles",
+            "morti il 19 aprile",
+            "morti nel 2013",
+            "nati a new york",
+            "nati il 15 febbraio",
+            "nati nel 1918"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

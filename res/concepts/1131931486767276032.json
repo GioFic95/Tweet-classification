@@ -1,0 +1,26 @@
+[
+    {
+        "categories": [
+            "calogero di sicilia",
+            "morti a sciacca",
+            "morti il 18 giugno",
+            "morti nel 561",
+            "nati nel 466"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "magia",
+            "pseudoscienza",
+            "religione"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

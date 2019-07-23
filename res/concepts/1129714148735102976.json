@@ -1,0 +1,23 @@
+[
+    {
+        "categories": [
+            "femminismo"
+        ],
+        "domains": [
+            "religion mysticism and mythology",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "filadelfia"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

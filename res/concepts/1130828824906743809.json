@@ -1,0 +1,30 @@
+[
+    {
+        "categories": [
+            "reti televisive di notizie",
+            "reti televisive europee",
+            "reti televisive francesi"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "education"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "reti televisive di notizie",
+            "reti televisive europee",
+            "reti televisive francesi"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

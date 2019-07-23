@@ -1,0 +1,23 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti religiosi",
+            "filosofia della religione",
+            "religione",
+            "simboli cristiani",
+            "teologia",
+            "teologia ebraica"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

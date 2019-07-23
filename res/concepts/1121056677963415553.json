@@ -1,0 +1,88 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "astrologia occidentale",
+            "opere di claudio tolomeo",
+            "opere letterarie del ii secolo",
+            "saggi di astrologia",
+            "saggi in greco antico"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "montagne dell'antiappennino laziale",
+            "montagne della provincia di frosinone"
+        ],
+        "domains": [
+            "geology and geophysics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "david di donatello per il miglior regista",
+            "morti a roma",
+            "morti il 17 marzo",
+            "morti nel 1976",
+            "nastri d'argento al regista del miglior film",
+            "nati a milano",
+            "nati il 2 novembre",
+            "nati nel 1906",
+            "persone che hanno fatto coming out",
+            "registi cinematografici italiani",
+            "registi del neorealismo",
+            "registi italiani del xx secolo",
+            "registi teatrali italiani",
+            "registi trattanti tematiche lgbt",
+            "sceneggiatori italiani",
+            "sceneggiatori italiani del xx secolo",
+            "visconti (famiglia)"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "unit\u00e0 di misura astronomiche",
+            "unit\u00e0 di tempo"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

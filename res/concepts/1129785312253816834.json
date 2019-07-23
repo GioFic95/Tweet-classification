@@ -1,0 +1,74 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "pensiero"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "chiesa cattolica nella citt\u00e0 del vaticano",
+            "citt\u00e0 del vaticano",
+            "diritto canonico",
+            "papato",
+            "santa sede",
+            "stato pontificio"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "arcivescovi cattolici polacchi del xxi secolo",
+            "arcivescovi cattolici polacchi del xx secolo",
+            "morti il 2 aprile",
+            "morti nel 2005",
+            "morti nella citt\u00e0 del vaticano",
+            "nati a wadowice",
+            "nati il 18 maggio",
+            "nati nel 1920",
+            "papa giovanni paolo ii",
+            "papi polacchi",
+            "santi polacchi del xx secolo",
+            "vescovi e arcivescovi di cracovia"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

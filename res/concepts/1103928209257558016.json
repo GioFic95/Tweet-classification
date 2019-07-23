@@ -1,0 +1,64 @@
+[
+    {
+        "categories": [
+            "grandezze astronomiche",
+            "leghe metalliche",
+            "leghe per monete"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "editoria",
+            "giornalismo"
+        ],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "consiglieri regionali del piemonte",
+            "deputati della xiii legislatura della repubblica italiana",
+            "grandi ufficiali omri",
+            "nati a moncalieri",
+            "nati il 1\u00ba settembre",
+            "nati nel 1948",
+            "persone legate agli alpini",
+            "politici dei democratici di sinistra",
+            "politici del partito comunista italiano",
+            "politici del partito democratico della sinistra",
+            "politici del partito democratico (italia)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "sindaci di torino"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "categories": [
+            "politica"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film ambientati a hiroshima",
+            "film giapponesi del 1973",
+            "film sulla yakuza",
+            "film thriller"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "categories": [
+            "reti televisive della rai",
+            "reti televisive di notizie",
+            "sky italia",
+            "telegiornali"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "reti televisive di notizie",
+            "reti televisive di sky italia",
+            "telegiornali"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

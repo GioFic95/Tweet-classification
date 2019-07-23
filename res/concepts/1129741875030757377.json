@@ -1,0 +1,42 @@
+[
+    {
+        "categories": [
+            "artigianato"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "strade urbane della provincia di varese",
+            "trasporti a busto arsizio"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "morti il 23 gennaio",
+            "morti nel 1979",
+            "nati il 13 maggio",
+            "nati nel 1889",
+            "pittori italiani del xx secolo",
+            "studenti dell'accademia di belle arti di brera"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "heraldry honors and vexillology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

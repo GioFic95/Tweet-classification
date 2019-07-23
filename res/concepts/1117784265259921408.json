@@ -1,0 +1,103 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "direttori d'orchestra",
+            "professioni musicali"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "design della comunicazione",
+            "professioni artistiche",
+            "professioni della pubblicit\u00e0"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "teatri",
+            "tipi di architettura"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attori teatrali italiani",
+            "autori partecipanti al festival di sanremo",
+            "cantanti in attivit\u00e0",
+            "cantautori italiani del xx secolo",
+            "cantautori pop",
+            "cantautori world music",
+            "nati a roma",
+            "nati il 5 febbraio",
+            "nati nel 1977",
+            "scrittori italiani del xxi secolo",
+            "scrittori italiani del xx secolo",
+            "vincitori del festival di sanremo",
+            "vincitori del premio della critica \"mia martini\""
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "artisti",
+            "istruzione",
+            "lavoro",
+            "virt\u00f9"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

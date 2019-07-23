@@ -1,0 +1,52 @@
+[
+    {
+        "categories": [
+            "cimiteri militari"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "commonwealth"
+        ],
+        "domains": [
+            "heraldry honors and vexillology",
+            "royalty and nobility",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "formazioni tattiche"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antifascismo",
+            "brigate britanniche",
+            "resistenza italiana",
+            "storia contemporanea",
+            "storia d'israele"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

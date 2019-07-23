@@ -1,0 +1,84 @@
+[
+    {
+        "categories": [
+            "liturgia cattolica",
+            "maria nella chiesa cattolica",
+            "preghiere cristiane"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mano"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "battaglie che coinvolgono i cavalieri ospitalieri",
+            "battaglie che coinvolgono la spagna",
+            "battaglie che coinvolgono l'impero ottomano",
+            "battaglie che coinvolgono lo stato pontificio",
+            "battaglie delle crociate",
+            "battaglie delle guerre turche",
+            "battaglie navali",
+            "battaglie navali delle guerre turco-veneziane",
+            "cristianesimo e islam",
+            "guerra nel 1571",
+            "guerre turco-veneziane",
+            "nafpaktia"
+        ],
+        "domains": [
+            "history",
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "battaglie che coinvolgono i cavalieri ospitalieri",
+            "battaglie che coinvolgono la spagna",
+            "battaglie che coinvolgono l'impero ottomano",
+            "battaglie che coinvolgono lo stato pontificio",
+            "battaglie delle crociate",
+            "battaglie delle guerre turche",
+            "battaglie navali",
+            "battaglie navali delle guerre turco-veneziane",
+            "cristianesimo e islam",
+            "guerra nel 1571",
+            "guerre turco-veneziane",
+            "nafpaktia"
+        ],
+        "domains": [
+            "history",
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

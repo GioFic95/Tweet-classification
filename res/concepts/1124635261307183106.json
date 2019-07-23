@@ -1,0 +1,68 @@
+[
+    {
+        "categories": [
+            "cinematica",
+            "munizioni"
+        ],
+        "domains": [
+            "engineering and technology",
+            "physics and astronomy",
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "et\u00e0 adulta",
+            "termini giuridici"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cinematica",
+            "munizioni"
+        ],
+        "domains": [
+            "engineering and technology",
+            "physics and astronomy",
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "meccanica classica"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cristologia",
+            "ges\u00f9 nell'arte",
+            "nascita di ges\u00f9",
+            "natale"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

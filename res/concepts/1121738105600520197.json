@@ -1,0 +1,47 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film ambientati a roma",
+            "film commedia drammatica",
+            "film diretti da paolo sorrentino",
+            "film francesi del 2013",
+            "film girati a roma",
+            "film italiani del 2013",
+            "golden globe per il miglior film straniero",
+            "premi oscar al miglior film straniero"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "catastrofi nel 1913",
+            "emigrazione italiana",
+            "incidenti minerari"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giorni della settimana"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

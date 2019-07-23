@@ -1,0 +1,25 @@
+[
+    {
+        "categories": [
+            "bandiere"
+        ],
+        "domains": [
+            "heraldry honors and vexillology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forme poetiche",
+            "inni liturgici",
+            "storia della letteratura"
+        ],
+        "domains": [
+            "music",
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

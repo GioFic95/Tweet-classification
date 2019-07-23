@@ -1,0 +1,43 @@
+[
+    {
+        "categories": [
+            "cristologia",
+            "eventi della vita di ges\u00f9",
+            "religione",
+            "risurrezione",
+            "vangelo secondo giovanni",
+            "vangelo secondo luca",
+            "vangelo secondo marco",
+            "vangelo secondo matteo"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cuore"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

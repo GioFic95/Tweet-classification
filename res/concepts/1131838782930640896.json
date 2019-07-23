@@ -1,0 +1,74 @@
+[
+    {
+        "categories": [
+            "europarlamentari italiani della vii legislatura",
+            "magistrati italiani",
+            "nati a napoli",
+            "nati il 20 giugno",
+            "nati nel 1967",
+            "politici dell'italia dei valori",
+            "politici italiani del xxi secolo",
+            "sindaci di napoli"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "europarlamentari italiani della vii legislatura",
+            "magistrati italiani",
+            "nati a napoli",
+            "nati il 20 giugno",
+            "nati nel 1967",
+            "politici dell'italia dei valori",
+            "politici italiani del xxi secolo",
+            "sindaci di napoli"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto comparato",
+            "reato",
+            "teoria del diritto"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "diritto comparato",
+            "diritto costituzionale"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

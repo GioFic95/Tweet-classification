@@ -1,0 +1,74 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "democrazia diretta",
+            "diritto internazionale",
+            "teoria del diritto",
+            "termini giuridici"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "diritto comparato",
+            "diritto costituzionale",
+            "diritto pubblico",
+            "procedure giudiziarie",
+            "professioni legali"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "gladiatori"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "avvocati italiani del xx secolo",
+            "avvocati statunitensi",
+            "italiani emigrati negli stati uniti d'america",
+            "magistrati italiani",
+            "magistrati statunitensi",
+            "morti a new york",
+            "morti il 7 dicembre",
+            "morti nel 1971",
+            "nati a nicosia (italia)",
+            "nati il 6 gennaio",
+            "nati nel 1882"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

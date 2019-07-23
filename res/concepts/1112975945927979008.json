@@ -1,0 +1,88 @@
+[
+    {
+        "categories": [
+            "consiglieri regionali del lazio",
+            "deputati della xiii legislatura della repubblica italiana",
+            "deputati della xii legislatura della repubblica italiana",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "governo berlusconi iii",
+            "ministri della salute della repubblica italiana",
+            "nati a cassino",
+            "nati il 25 gennaio",
+            "nati nel 1959",
+            "personalit\u00e0 del neofascismo",
+            "politici de la destra",
+            "politici del movimento sociale italiano",
+            "politici del movimento sociale italiano-destra nazionale",
+            "politici di alleanza nazionale",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "presidenti del lazio",
+            "senatori della xv legislatura della repubblica italiana"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto costituzionale",
+            "pratiche politiche"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto comparato",
+            "diritto costituzionale"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "gestione del traffico ferroviario"
+        ],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "categories": [
+            "allenatori del f.c. internazionale milano",
+            "allenatori del fcsb",
+            "allenatori del f.k. crvena zvezda",
+            "allenatori del gaziantepspor kul\u00fcb\u00fc",
+            "allenatori dell'a.c. milan",
+            "allenatori dell'a.c. monza brianza 1912",
+            "allenatori dell'a.c. pro sesto",
+            "allenatori dell'al-ain s.c.c.",
+            "allenatori dell'al-nassr a.s.c.c.",
+            "allenatori dell'al-sadd s.c.",
+            "allenatori dell'a.s.d. nocerina 1910",
+            "allenatori dell'hellas verona f.c.",
+            "allenatori dell'u.s. citt\u00e0 di palermo",
+            "allenatori di calcio italiani",
+            "calciatori dell'a.c. cant\u00f9 g.s. san paolo",
+            "calciatori dell'a.c. milan",
+            "calciatori dell'a.c.r. messina",
+            "calciatori della s.s.d. unione triestina 2012",
+            "calciatori della ternana calcio",
+            "calciatori dell'u.s. catanzaro",
+            "calciatori dell'u.s. fiorenzuola 1922",
+            "calciatori dell'u.s. salernitana 1919",
+            "calciatori dell'u.s. sambenedettese 1923",
+            "calciatori del mantova f.c.",
+            "calciatori del varese calcio s.s.d.",
+            "calciatori italiani",
+            "nati a milano",
+            "nati il 3 febbraio",
+            "nati nel 1958"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "grandezze astronomiche",
+            "leghe metalliche",
+            "leghe per monete"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "epistemologia",
+            "filosofia della mente",
+            "metodi e strumenti filosofici"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "language and linguistics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

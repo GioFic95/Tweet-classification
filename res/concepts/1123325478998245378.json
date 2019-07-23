@@ -1,0 +1,58 @@
+[
+    {
+        "categories": [
+            "migrazioni umane"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "mare mediterraneo",
+            "mari della grecia",
+            "mari dell'albania",
+            "mari d'italia"
+        ],
+        "domains": [
+            "geography and places",
+            "meteorology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "linea b (metropolitana di roma)",
+            "roma q. xvi monte sacro",
+            "roma z. i val melaina",
+            "stazioni della metropolitana di roma"
+        ],
+        "domains": [
+            "transport and travel"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cristologia",
+            "opere letterarie del i secolo",
+            "opere letterarie in greco antico",
+            "vangeli canonici"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

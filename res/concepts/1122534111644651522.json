@@ -1,0 +1,35 @@
+[
+    {
+        "categories": [
+            "opere di arthur rimbaud",
+            "opere letterarie del 1873",
+            "opere letterarie in francese",
+            "raccolte poetiche francesi"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "televisione"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "arte"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

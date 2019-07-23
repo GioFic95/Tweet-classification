@@ -1,0 +1,55 @@
+[
+    {
+        "categories": [
+            "anni di piombo",
+            "associazioni politiche italiane",
+            "settantasette"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fumettisti italiani",
+            "insegnanti italiani del xx secolo",
+            "morti a montepulciano",
+            "morti il 16 giugno",
+            "morti nel 1988",
+            "morti per overdose",
+            "nati a san benedetto del tronto",
+            "nati il 23 maggio",
+            "nati nel 1956",
+            "persone legate all'universit\u00e0 di bologna",
+            "pittori italiani del xx secolo"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto costituzionale",
+            "referendum"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

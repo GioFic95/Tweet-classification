@@ -1,0 +1,55 @@
+[
+    {
+        "categories": [
+            "propagazione guidata"
+        ],
+        "domains": [
+            "engineering and technology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "fronti della prima guerra mondiale",
+            "impero austro-ungarico nella prima guerra mondiale",
+            "italia nella prima guerra mondiale",
+            "storia delle forze armate italiane"
+        ],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "disneynature",
+            "film britannici del 2007",
+            "film documentari naturalistici",
+            "film statunitensi del 2007",
+            "film tedeschi del 2007"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "patriarcato di aquileia",
+            "stati del sacro romano impero",
+            "storia del friuli"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

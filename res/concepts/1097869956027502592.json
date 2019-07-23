@@ -1,0 +1,107 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "camere alte nazionali",
+            "parlamento francese"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attivisti per i diritti delle persone lgbt",
+            "consiglieri regionali dell'emilia-romagna",
+            "deputati della xiv legislatura della repubblica italiana",
+            "deputati della xv legislatura della repubblica italiana",
+            "nati a pianoro",
+            "nati il 14 marzo",
+            "nati nel 1955",
+            "politici dei democratici di sinistra",
+            "politici dell'italia dei valori",
+            "politici del partito comunista italiano",
+            "politici del partito di unit\u00e0 proletaria",
+            "politici del partito socialista italiano (2007)",
+            "politici di centro democratico (italia)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "politici sostenitori dei diritti lgbt"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime",
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "serie televisive basate su opere letterarie",
+            "serie televisive d'azione",
+            "serie televisive di fantascienza",
+            "serie televisive iniziate nel 1974",
+            "serie televisive statunitensi",
+            "serie televisive terminate nel 1978"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "movimento 5 stelle",
+            "partiti politici italiani"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

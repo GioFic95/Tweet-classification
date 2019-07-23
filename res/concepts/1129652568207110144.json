@@ -1,0 +1,44 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "battaglie della spedizione dei mille",
+            "guerra nel 1860",
+            "storia di reggio calabria"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "architetture dei parler",
+            "cattedrali cattoliche della germania",
+            "cattedrali dedicate a maria",
+            "chiese dedicate a san pietro",
+            "chiese di colonia",
+            "chiese gotiche della germania",
+            "cicli di vetrate della germania",
+            "disposizioni foniche di organi a canne",
+            "patrimoni dell'umanit\u00e0 della germania"
+        ],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "malattie parassitarie",
+            "malattie tropicali",
+            "sanit\u00e0 in africa"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ingegneria ambientale",
+            "inquinamento",
+            "rischio chimico e prevenzione",
+            "scienze ambientali"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "punti cardinali"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto amministrativo",
+            "governo"
+        ],
+        "domains": [
+            "law and crime",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "liste di ministri degli affari interni",
+            "liste di segretari di stato del regno unito",
+            "segretari di stato britannici"
+        ],
+        "domains": [
+            "law and crime",
+            "politics and government",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ambasciatori d'italia in russia",
+            "benemeriti della cultura e dell'arte",
+            "cavalieri di gran croce omri",
+            "diplomatici italiani",
+            "ebrei italiani",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "grandi ufficiali omri",
+            "nati a vicenza",
+            "nati il 7 luglio",
+            "nati nel 1929",
+            "professori all'universit\u00e0 degli studi di sassari",
+            "scrittori italiani del xxi secolo",
+            "scrittori italiani del xx secolo",
+            "storici italiani del xxi secolo",
+            "storici italiani del xx secolo",
+            "studenti dell'universit\u00e0 degli studi di milano"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

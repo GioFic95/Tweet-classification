@@ -1,0 +1,32 @@
+[
+    {
+        "categories": [
+            "avellino"
+        ],
+        "domains": [
+            "geology and geophysics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "compositori italiani del xx secolo",
+            "morti a napoli",
+            "morti nel 2001",
+            "musicisti italiani del xx secolo",
+            "nati a follina",
+            "nati il 3 aprile",
+            "nati nel 1921"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

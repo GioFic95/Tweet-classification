@@ -1,0 +1,26 @@
+[
+    {
+        "categories": [
+            "protocolli crittografici",
+            "software multipiattaforma",
+            "software per la sicurezza informatica liberi",
+            "tecniche di difesa informatica"
+        ],
+        "domains": [
+            "computing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "browser",
+            "internet"
+        ],
+        "domains": [
+            "computing"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

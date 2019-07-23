@@ -1,0 +1,189 @@
+[
+    {
+        "categories": [
+            "giornalismo",
+            "terminologia televisiva"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "parlamento statunitense"
+        ],
+        "domains": [
+            "law and crime",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forza"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "avvocati italiani del xx secolo",
+            "avvocati legati a milano",
+            "blogger italiani",
+            "deputati della xvi legislatura della repubblica italiana",
+            "deputati della xv legislatura della repubblica italiana",
+            "europarlamentari italiani della vi legislatura",
+            "europarlamentari italiani della v legislatura",
+            "governo prodi i",
+            "governo prodi ii",
+            "magistrati italiani",
+            "magistrati legati a milano",
+            "ministri dei lavori pubblici della repubblica italiana",
+            "ministri delle infrastrutture della repubblica italiana",
+            "nati a montenero di bisaccia",
+            "nati il 2 ottobre",
+            "nati nel 1950",
+            "persone legate a sansepolcro",
+            "politici de i democratici",
+            "politici dell'italia dei valori",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "politici legati a milano",
+            "senatori della xiii legislatura della repubblica italiana",
+            "studenti dell'universit\u00e0 degli studi di milano"
+        ],
+        "domains": [
+            "law and crime",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "commissari europei per i trasporti",
+            "commissione barroso i",
+            "commissione barroso ii",
+            "europarlamentari italiani della iv legislatura",
+            "europarlamentari italiani della viii legislatura",
+            "europarlamentari italiani della vi legislatura",
+            "europarlamentari italiani della v legislatura",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "monarchici",
+            "nati a roma",
+            "nati il 4 agosto",
+            "nati nel 1953",
+            "politici del popolo della libert\u00e0",
+            "politici di forza italia (1994)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "studenti della sapienza - universit\u00e0 di roma"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "commissari europei per i trasporti",
+            "commissione barroso i",
+            "commissione barroso ii",
+            "europarlamentari italiani della iv legislatura",
+            "europarlamentari italiani della viii legislatura",
+            "europarlamentari italiani della vi legislatura",
+            "europarlamentari italiani della v legislatura",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "monarchici",
+            "nati a roma",
+            "nati il 4 agosto",
+            "nati nel 1953",
+            "politici del popolo della libert\u00e0",
+            "politici di forza italia (1994)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "studenti della sapienza - universit\u00e0 di roma"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "nati ad assisi",
+            "nati il 9 febbraio",
+            "nati nel 1979",
+            "politici del popolo della libert\u00e0",
+            "politici di forza italia (1994)",
+            "politici di forza italia (2013)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "sindaci di perugia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xvii legislatura della repubblica italiana",
+            "deputati della xvi legislatura della repubblica italiana",
+            "governo berlusconi iv",
+            "imprenditori italiani",
+            "nati a citt\u00e0 di castello",
+            "nati il 3 luglio",
+            "nati nel 1967",
+            "politici del popolo della libert\u00e0",
+            "politici di forza italia (2013)",
+            "politici italiani del xxi secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xvii legislatura della repubblica italiana",
+            "deputati della xvi legislatura della repubblica italiana",
+            "governo berlusconi iv",
+            "imprenditori italiani",
+            "nati a citt\u00e0 di castello",
+            "nati il 3 luglio",
+            "nati nel 1967",
+            "politici del popolo della libert\u00e0",
+            "politici di forza italia (2013)",
+            "politici italiani del xxi secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xvii legislatura della repubblica italiana",
+            "deputati della xvi legislatura della repubblica italiana",
+            "governo berlusconi iv",
+            "imprenditori italiani",
+            "nati a citt\u00e0 di castello",
+            "nati il 3 luglio",
+            "nati nel 1967",
+            "politici del popolo della libert\u00e0",
+            "politici di forza italia (2013)",
+            "politici italiani del xxi secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

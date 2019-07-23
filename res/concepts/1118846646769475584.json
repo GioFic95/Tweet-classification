@@ -1,0 +1,58 @@
+[
+    {
+        "categories": [
+            "accademici dei lincei",
+            "antifascisti italiani",
+            "deputati della consulta nazionale",
+            "filosofi italiani del xx secolo",
+            "massoni",
+            "morti a roma",
+            "morti il 17 aprile",
+            "morti nel 1986",
+            "nati a roma",
+            "nati il 4 dicembre",
+            "nati nel 1904",
+            "persone legate alla resistenza italiana",
+            "politici del partito d'azione",
+            "politici del partito radicale",
+            "politici del partito socialista italiano",
+            "politici italiani del xx secolo",
+            "saggisti italiani del xx secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto amministrativo",
+            "elezioni"
+        ],
+        "domains": [
+            "philosophy and psychology",
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

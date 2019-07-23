@@ -1,0 +1,55 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "castelli e fortezze immaginari",
+            "hogwarts",
+            "organizzazioni di harry potter",
+            "scuole e universit\u00e0 immaginarie"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "governo renzi",
+            "nati a firenze",
+            "nati l'11 gennaio",
+            "nati nel 1975",
+            "persone legate a rignano sull'arno",
+            "politici della margherita",
+            "politici del partito democratico (italia)",
+            "politici del partito popolare italiano (1994)",
+            "politici italiani del xxi secolo",
+            "presidenti del consiglio dei ministri della repubblica italiana",
+            "presidenti della provincia di firenze",
+            "segretari del partito democratico (italia)",
+            "sindaci di firenze"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

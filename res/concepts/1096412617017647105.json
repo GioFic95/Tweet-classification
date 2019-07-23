@@ -1,0 +1,126 @@
+[
+    {
+        "categories": [
+            "governo degli stati uniti d'america",
+            "presidenti degli stati uniti d'america"
+        ],
+        "domains": [
+            "politics and government",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "parlamento europeo"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "parlamento europeo"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto parlamentare",
+            "parlamenti",
+            "stato"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "commissari europei per i trasporti",
+            "commissione barroso i",
+            "commissione barroso ii",
+            "europarlamentari italiani della iv legislatura",
+            "europarlamentari italiani della viii legislatura",
+            "europarlamentari italiani della vi legislatura",
+            "europarlamentari italiani della v legislatura",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "monarchici",
+            "nati a roma",
+            "nati il 4 agosto",
+            "nati nel 1953",
+            "politici del popolo della libert\u00e0",
+            "politici di forza italia (1994)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "studenti della sapienza - universit\u00e0 di roma"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "commissari europei per i trasporti",
+            "commissione barroso i",
+            "commissione barroso ii",
+            "europarlamentari italiani della iv legislatura",
+            "europarlamentari italiani della viii legislatura",
+            "europarlamentari italiani della vi legislatura",
+            "europarlamentari italiani della v legislatura",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "monarchici",
+            "nati a roma",
+            "nati il 4 agosto",
+            "nati nel 1953",
+            "politici del popolo della libert\u00e0",
+            "politici di forza italia (1994)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "studenti della sapienza - universit\u00e0 di roma"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

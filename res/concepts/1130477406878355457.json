@@ -1,0 +1,79 @@
+[
+    {
+        "categories": [
+            "informazione",
+            "teoria dell'informazione"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "forza"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "artisti alla posizione numero 1 della classifica singoli italiana",
+            "autori partecipanti al festival di sanremo",
+            "cantanti in attivit\u00e0",
+            "cantautori elettropop",
+            "cantautori italiani",
+            "cantautori legati a roma",
+            "cantautori pop",
+            "cantautori pop rock",
+            "cantautori r&b",
+            "cantautori soul",
+            "concorrenti di x factor (italia)",
+            "gruppi e musicisti della columbia records",
+            "gruppi e musicisti della epic records",
+            "gruppi e musicisti della sony music",
+            "gruppi e musicisti del lazio",
+            "nati a roma",
+            "nati il 25 gennaio",
+            "nati nel 1982",
+            "noemi",
+            "oppositori alla pena capitale",
+            "partecipanti al festival di sanremo",
+            "persone legate all'universit\u00e0 degli studi roma tre",
+            "registi di videoclip",
+            "registi legati a roma",
+            "sceneggiatori legati a roma"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

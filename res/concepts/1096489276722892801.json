@@ -1,0 +1,65 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diplomazia",
+            "diritto internazionale"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film basati su orgoglio e pregiudizio",
+            "film commedia",
+            "film drammatici",
+            "film in costume",
+            "film statunitensi del 1940"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cantanti croati",
+            "cantanti pop",
+            "morti a zagabria",
+            "morti il 24 settembre",
+            "morti nel 2008",
+            "nati a sebenico",
+            "nati il 13 giugno",
+            "nati nel 1941",
+            "partecipanti all'eurovision song contest 1963"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

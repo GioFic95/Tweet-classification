@@ -1,0 +1,78 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto penale romano",
+            "esilio",
+            "statuto delle comunit\u00e0 nel diritto romano"
+        ],
+        "domains": [
+            "education",
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto penale romano",
+            "esilio",
+            "statuto delle comunit\u00e0 nel diritto romano"
+        ],
+        "domains": [
+            "education",
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "dinamica",
+            "grandezze fisiche fondamentali",
+            "gravitazione",
+            "teorie relativistiche",
+            "voci parlate"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "antisemitismo",
+            "ghetti ebraici",
+            "razzismo",
+            "urbanistica"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "business economics and finance",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

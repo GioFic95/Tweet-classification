@@ -1,0 +1,90 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "tessitura",
+            "tessuti"
+        ],
+        "domains": [
+            "textile and clothing"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "art architecture and archaeology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "disoccupazione"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "animals"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "calciatori del calcio catania",
+            "calciatori del calcio lecco 1912",
+            "calciatori del derthona f.b.c. 1908",
+            "calciatori del faenza calcio",
+            "calciatori del frosinone calcio",
+            "calciatori della carrarese calcio",
+            "calciatori della civitanovese calcio",
+            "calciatori dell'a.c. mestre",
+            "calciatori dell'a.c. monza brianza 1912",
+            "calciatori dell'ascoli picchio f.c. 1898",
+            "calciatori dell'a.s.d. sangiovannese 1927",
+            "calciatori dell'a.s.d. s.e.f. tempio pausania",
+            "calciatori della s.s. fidelis andria 1928",
+            "calciatori della s.s. teramo calcio",
+            "calciatori dello spezia calcio",
+            "calciatori dell'u.c. sampdoria",
+            "calciatori dell'u.s. ancona 1905",
+            "calciatori del san marino calcio",
+            "calciatori italiani",
+            "nati a milano",
+            "nati il 6 maggio",
+            "nati nel 1977"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

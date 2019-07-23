@@ -1,0 +1,95 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cavalieri di gran croce omri",
+            "fondatori di societ\u00e0 e istituti cattolici",
+            "libera",
+            "lotta alla mafia",
+            "nati a pieve di cadore",
+            "nati il 10 settembre",
+            "nati nel 1945",
+            "persone legate all'universit\u00e0 degli studi di foggia",
+            "presbiteri italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cavalieri di gran croce omri",
+            "fondatori di societ\u00e0 e istituti cattolici",
+            "libera",
+            "lotta alla mafia",
+            "nati a pieve di cadore",
+            "nati il 10 settembre",
+            "nati nel 1945",
+            "persone legate all'universit\u00e0 degli studi di foggia",
+            "presbiteri italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cosa nostra",
+            "mafia"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "arti superiori"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "bocca"
+        ],
+        "domains": [
+            "animals",
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "food and drink"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "codificazione",
+            "teoria del diritto"
+        ],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,8 @@
+.idea/
+venv/
+temp/
+res/disambiguation/*
+res/senses/*
+res/synset/*
+res/altro/
+res/config/*

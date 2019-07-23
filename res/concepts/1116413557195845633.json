@@ -1,0 +1,88 @@
+[
+    {
+        "categories": [
+            "composti del gallio",
+            "composti dell'indio",
+            "composti del rame",
+            "seleniuri",
+            "semiconduttori"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cavalieri del lavoro",
+            "dirigenti d'azienda italiani",
+            "figli d'arte",
+            "grandi ufficiali omri",
+            "imprenditori italiani",
+            "imprenditori legati a roma",
+            "nati a roma",
+            "nati il 17 febbraio",
+            "nati nel 1947",
+            "presidenti di confindustria",
+            "tod's"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giornalismo",
+            "mansioni giornalistiche"
+        ],
+        "domains": [
+            "literature and theatre"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "agenzie di stampa italiane",
+            "aziende fondate nel 2014"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "terminologia teatrale"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

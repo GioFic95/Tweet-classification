@@ -1,0 +1,70 @@
+[
+    {
+        "categories": [
+            "comunicazione politica",
+            "elezioni",
+            "generi di pubblicit\u00e0"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "avvocati italiani del xx secolo",
+            "governo goria",
+            "nati ad ariano irpino",
+            "nati il 24 febbraio",
+            "nati nel 1939",
+            "politici del partito socialista democratico italiano",
+            "politici del partito socialista italiano",
+            "politici di forza italia (1994)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "senatori della ix legislatura della repubblica italiana",
+            "senatori della x legislatura della repubblica italiana",
+            "senatori dell'xi legislatura della repubblica italiana"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "comune",
+            "diritto comparato",
+            "diritto costituzionale",
+            "sindaci"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

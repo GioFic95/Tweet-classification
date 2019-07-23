@@ -1,0 +1,62 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "heraldry honors and vexillology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "eventi sociali"
+        ],
+        "domains": [],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "allenatori di calcio argentini",
+            "calciatori argentini",
+            "calciatori del c.a. boca juniors",
+            "calciatori del chelsea f.c.",
+            "calciatori del club estudiantes de la plata",
+            "calciatori del f.c. internazionale milano",
+            "calciatori della nazionale argentina",
+            "calciatori della s.s. lazio",
+            "calciatori dell'u.c. sampdoria",
+            "calciatori del manchester united f.c.",
+            "calciatori figli d'arte",
+            "dirigenti sportivi argentini",
+            "nati a la plata",
+            "nati il 9 marzo",
+            "nati nel 1975"
+        ],
+        "domains": [
+            "sport and recreation"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

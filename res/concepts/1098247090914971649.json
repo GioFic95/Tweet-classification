@@ -1,0 +1,64 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "climatologi statunitensi",
+            "geologi statunitensi",
+            "medaglia wollaston",
+            "nati a chicago",
+            "nati il 29 novembre",
+            "nati nel 1931",
+            "scienziati statunitensi",
+            "vincitori del premio balzan"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "climatologi statunitensi",
+            "geologi statunitensi",
+            "medaglia wollaston",
+            "nati a chicago",
+            "nati il 29 novembre",
+            "nati nel 1931",
+            "scienziati statunitensi",
+            "vincitori del premio balzan"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "clima"
+        ],
+        "domains": [
+            "meteorology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "textile and clothing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

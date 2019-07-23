@@ -1,0 +1,56 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "mathematics"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "film ambientati a los angeles",
+            "film ambientati in nuova zelanda",
+            "film ambientati nello utah",
+            "film biografici sugli sportivi",
+            "film d'avventura",
+            "film giapponesi del 2005",
+            "film girati in nuova zelanda",
+            "film neozelandesi del 2005",
+            "film statunitensi del 2005",
+            "film sul motociclismo",
+            "film svizzeri del 2005"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

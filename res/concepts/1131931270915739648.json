@@ -1,0 +1,102 @@
+[
+    {
+        "categories": [
+            "cantanti italiani all'eurovision song contest",
+            "cantanti italiani del xx secolo",
+            "cantautori blues",
+            "cantautori della canzone napoletana",
+            "cantautori folk",
+            "cantautori italo disco",
+            "cantautori jazz",
+            "cantautori pop",
+            "cantautori rock progressivo",
+            "cantautori soul",
+            "gruppi e musicisti della calabria",
+            "gruppi e musicisti della car juke box",
+            "gruppi e musicisti della dischi ricordi",
+            "gruppi e musicisti della fonit-cetra",
+            "gruppi e musicisti della rca italiana",
+            "gruppi e musicisti della rti music",
+            "gruppi e musicisti della warner bros. records",
+            "morti il 12 maggio",
+            "morti nel 1995",
+            "morti per overdose",
+            "nati a bagnara calabra",
+            "nati il 20 settembre",
+            "nati nel 1947",
+            "partecipanti all'eurovision song contest 1977",
+            "partecipanti all'eurovision song contest 1992",
+            "vincitori del festivalbar",
+            "vincitori del premio della critica \"mia martini\""
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "clima"
+        ],
+        "domains": [
+            "meteorology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "storia dell'unione europea"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "salute"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "psicologia clinica",
+            "psicologia della salute",
+            "salute",
+            "sicurezza del lavoro"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "guerra",
+            "nonviolenza",
+            "pace",
+            "sociologia politica"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

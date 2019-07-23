@@ -1,0 +1,60 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "chiesa cattolica nella citt\u00e0 del vaticano",
+            "citt\u00e0 del vaticano",
+            "diritto canonico",
+            "papato",
+            "santa sede",
+            "stato pontificio"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "famiglia"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "barbarigo",
+            "cardinali italiani del xvii secolo",
+            "gregorio barbarigo",
+            "morti a padova",
+            "morti il 18 giugno",
+            "morti nel 1697",
+            "nati a venezia",
+            "nati il 16 settembre",
+            "nati nel 1625",
+            "vescovi cattolici italiani del xvii secolo"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

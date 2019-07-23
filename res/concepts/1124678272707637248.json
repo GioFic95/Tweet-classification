@@ -1,0 +1,85 @@
+[
+    {
+        "categories": [
+            "taranto",
+            "voci parlate"
+        ],
+        "domains": [
+            "geography and places",
+            "history",
+            "warfare and defense"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "precipitazioni atmosferiche"
+        ],
+        "domains": [
+            "meteorology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto del lavoro",
+            "etica",
+            "sociologia",
+            "solidariet\u00e0"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "culture and society"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "capitali e capoluoghi delle suddivisioni amministrative della federazione russa",
+            "mosca"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "membranofoni",
+            "membranofoni a percussione",
+            "strumenti della musica colta del xx e xxi secolo",
+            "strumenti musicali dell'antichit\u00e0"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "societ\u00e0 di pallamano belghe",
+            "sport a schaerbeek"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

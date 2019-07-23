@@ -1,0 +1,81 @@
+[
+    {
+        "categories": [
+            "bibliofili",
+            "collezionisti d'arte britannici",
+            "diplomatici britannici",
+            "economisti britannici",
+            "filantropi britannici",
+            "imprenditori britannici",
+            "morti il 21 aprile",
+            "morti nel 1946",
+            "morti nell'east sussex",
+            "nati a cambridge",
+            "nati il 5 giugno",
+            "nati nel 1883",
+            "personalit\u00e0 commemorate con funerali di stato",
+            "personalit\u00e0 dell'agnosticismo",
+            "politici del partito liberale (regno unito)",
+            "storia del pensiero economico",
+            "studenti dell'eton college"
+        ],
+        "domains": [
+            "business economics and finance",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "giorno",
+            "unit\u00e0 di tempo"
+        ],
+        "domains": [
+            "physics and astronomy"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "bibbia ebraica",
+            "libri profetici dell'antico testamento",
+            "morti nel vi secolo a.c.",
+            "profeti ebraici",
+            "profezie",
+            "santi dell'antico testamento",
+            "santi per nome"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "debito pubblico",
+            "diritto dell'unione europea"
+        ],
+        "domains": [
+            "business economics and finance",
+            "language and linguistics",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

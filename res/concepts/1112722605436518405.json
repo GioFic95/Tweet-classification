@@ -1,0 +1,53 @@
+[
+    {
+        "categories": [
+            "patrimoni dell'umanit\u00e0 del kazakistan",
+            "patrimoni dell'umanit\u00e0 del kirghizistan",
+            "patrimoni dell'umanit\u00e0 della cina",
+            "via della seta"
+        ],
+        "domains": [
+            "history"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "seta"
+        ],
+        "domains": [
+            "textile and clothing"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "law and crime"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "propagazione guidata"
+        ],
+        "domains": [
+            "engineering and technology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cina",
+            "geografia della cina",
+            "storia della cina"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

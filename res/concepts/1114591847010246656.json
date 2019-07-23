@@ -1,0 +1,76 @@
+[
+    {
+        "categories": [
+            "film ambientati a new york",
+            "film basati su musical",
+            "film commedia",
+            "film musicali",
+            "film statunitensi del 1955",
+            "film sul gioco d'azzardo",
+            "golden globe per il miglior film commedia o musicale",
+            "premi oscar al miglior film"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attori statunitensi del xx secolo",
+            "cantanti statunitensi del xx secolo",
+            "coreografi statunitensi",
+            "danzatori statunitensi",
+            "decorati con la legion d'onore",
+            "germano-statunitensi",
+            "golden globe alla carriera",
+            "irlando-americani",
+            "morti a beverly hills",
+            "morti il 2 febbraio",
+            "morti nel 1996",
+            "nati a pittsburgh",
+            "nati il 23 agosto",
+            "nati nel 1912",
+            "premi oscar nel 1952",
+            "premi oscar onorari",
+            "produttori cinematografici statunitensi",
+            "registi statunitensi"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

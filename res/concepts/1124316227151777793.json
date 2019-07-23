@@ -1,0 +1,26 @@
+[
+    {
+        "categories": [
+            "album degli 88 fingers louie",
+            "album del 1998",
+            "album post-grunge",
+            "album punk revival"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "gruppi musicali alternative rock",
+            "gruppi musicali canadesi",
+            "gruppi musicali costituitisi nel 1979",
+            "gruppi musicali scioltisi nel 2016"
+        ],
+        "domains": [
+            "music"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

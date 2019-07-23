@@ -1,0 +1,100 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "materiali edilizi",
+            "pavimentazioni interne"
+        ],
+        "domains": [
+            "textile and clothing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attori italiani del xxi secolo",
+            "attori italiani del xx secolo",
+            "attori teatrali italiani",
+            "attori televisivi italiani",
+            "autori partecipanti allo zecchino d'oro",
+            "cavalieri di gran croce omri",
+            "comici italiani",
+            "grandi ufficiali omri",
+            "interpreti di fotoromanzi",
+            "nati ad andria",
+            "nati il 9 luglio",
+            "nati nel 1936",
+            "personaggi televisivi italiani",
+            "presentatori di domenica in",
+            "sceneggiatori italiani",
+            "scrittori italiani del xxi secolo"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "materiali edilizi",
+            "pavimentazioni interne"
+        ],
+        "domains": [
+            "textile and clothing"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "bocca"
+        ],
+        "domains": [
+            "animals",
+            "health and medicine"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "canidi",
+            "fauna asiatica",
+            "fauna europea",
+            "personaggi citati nella divina commedia (inferno)",
+            "taxa classificati da linneo"
+        ],
+        "domains": [
+            "animals"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto amministrativo",
+            "geografia politica"
+        ],
+        "domains": [
+            "geography and places",
+            "history"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "comuni della provincia di taranto",
+            "paesi arb\u00ebresh\u00eb"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cariche politiche",
+            "comune",
+            "diritto comparato",
+            "diritto costituzionale",
+            "sindaci"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "medaglie d'oro al valor civile",
+            "morti a capaci",
+            "morti il 23 maggio",
+            "morti nel 1992",
+            "nati a triggiano",
+            "nati il 13 aprile",
+            "nati nel 1962",
+            "personalit\u00e0 commemorate con funerali di stato",
+            "poliziotti italiani",
+            "vittime di cosa nostra"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "medaglie d'oro al valor civile",
+            "morti a capaci",
+            "morti il 23 maggio",
+            "morti nel 1992",
+            "nati a triggiano",
+            "nati il 13 aprile",
+            "nati nel 1962",
+            "personalit\u00e0 commemorate con funerali di stato",
+            "poliziotti italiani",
+            "vittime di cosa nostra"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

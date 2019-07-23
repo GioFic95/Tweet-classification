@@ -1,0 +1,33 @@
+[
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "ministri dell'istruzione, dell'universit\u00e0 e della ricerca della repubblica italiana",
+            "nati a treviglio",
+            "nati il 29 luglio",
+            "nati nel 1949",
+            "politici del partito democratico (italia)",
+            "politici italiani del xxi secolo",
+            "sindacalisti italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cgil",
+            "sindacati italiani"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

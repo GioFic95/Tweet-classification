@@ -1,0 +1,43 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "cristologia",
+            "ges\u00f9",
+            "morti a gerusalemme",
+            "nati a betlemme",
+            "nati a nazaret",
+            "parabole di ges\u00f9",
+            "parole e locuzioni della lingua greca",
+            "personaggi citati nella divina commedia (paradiso)",
+            "personaggi del nuovo testamento",
+            "persone giustiziate per crocifissione",
+            "profeti islamici",
+            "vangelo secondo giovanni"
+        ],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "categories": [
+            "reti sociali"
+        ],
+        "domains": [
+            "computing",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "facebook",
+            "film ambientati in california",
+            "film ambientati in massachusetts",
+            "film ambientati negli anni 2000",
+            "film basati su opere di narrativa",
+            "film biografici",
+            "film diretti da david fincher",
+            "film drammatici",
+            "film girati negli stati uniti d'america",
+            "film giudiziari",
+            "film statunitensi del 2010",
+            "premi c\u00e9sar per il miglior film straniero"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti delle scienze etnoantropologiche",
+            "concetti e principi filosofici",
+            "teologia cristiana"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

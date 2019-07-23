@@ -1,0 +1,24 @@
+[
+    {
+        "categories": [
+            "geografia umana",
+            "urbanistica",
+            "villaggi"
+        ],
+        "domains": [
+            "geography and places"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "alberi"
+        ],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

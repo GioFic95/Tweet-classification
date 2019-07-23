@@ -1,0 +1,98 @@
+[
+    {
+        "categories": [
+            "atomisti",
+            "epicurei",
+            "filosofi atei",
+            "filosofi romani",
+            "lucretii",
+            "morti a roma",
+            "morti il 15 ottobre",
+            "nati nel 94 a.c.",
+            "poeti romani",
+            "pre-esistenzialisti",
+            "storia dell'evoluzionismo"
+        ],
+        "domains": [
+            "literature and theatre",
+            "religion mysticism and mythology",
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "memoria"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "teorie in economia"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "atomisti",
+            "epicurei",
+            "filosofi atei",
+            "filosofi romani",
+            "lucretii",
+            "morti a roma",
+            "morti il 15 ottobre",
+            "nati nel 94 a.c.",
+            "poeti romani",
+            "pre-esistenzialisti",
+            "storia dell'evoluzionismo"
+        ],
+        "domains": [
+            "literature and theatre",
+            "philosophy and psychology",
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "memoria"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    }
+]

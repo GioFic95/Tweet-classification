@@ -1,0 +1,63 @@
+[
+    {
+        "categories": [
+            "chirurgia"
+        ],
+        "domains": [
+            "health and medicine"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "elementi chimici"
+        ],
+        "domains": [
+            "chemistry and mineralogy"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "governo degli stati uniti d'america",
+            "presidenti degli stati uniti d'america"
+        ],
+        "domains": [
+            "politics and government",
+            "royalty and nobility"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "deputati della xiv legislatura della repubblica italiana",
+            "deputati della xvii legislatura della repubblica italiana",
+            "deputati della xvi legislatura della repubblica italiana",
+            "deputati della xv legislatura della repubblica italiana",
+            "giornalisti italiani del xxi secolo",
+            "giornalisti italiani del xx secolo",
+            "governo prodi ii",
+            "governo renzi",
+            "ministri degli affari esteri della repubblica italiana",
+            "ministri delle comunicazioni della repubblica italiana",
+            "ministri delle politiche agricole, alimentari e forestali della repubblica italiana",
+            "nati a roma",
+            "nati il 22 novembre",
+            "nati nel 1954",
+            "politici della margherita",
+            "politici del partito democratico (italia)",
+            "politici italiani del xxi secolo",
+            "politici italiani del xx secolo",
+            "presidenti del consiglio dei ministri della repubblica italiana",
+            "studenti della sapienza - universit\u00e0 di roma"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

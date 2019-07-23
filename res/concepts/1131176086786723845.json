@@ -1,0 +1,25 @@
+[
+    {
+        "categories": [
+            "discipline spirituali",
+            "fenomenologia",
+            "filosofia della mente",
+            "processi cognitivi",
+            "psicologia cognitiva",
+            "scienze cognitive"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

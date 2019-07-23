@@ -1,0 +1,96 @@
+[
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "concetti e principi filosofici",
+            "scienze cognitive"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "povert\u00e0"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "diritto del lavoro",
+            "vicende nel lavoro"
+        ],
+        "domains": [
+            "business economics and finance"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "allenatori dell'u.s. arezzo",
+            "allenatori di calcio italiani",
+            "calciatori del bologna f.c. 1909",
+            "calciatori del brescia calcio",
+            "calciatori del genoa c.f.c.",
+            "calciatori dell'a.c. cesena",
+            "calciatori dell'a.c. perugia calcio",
+            "calciatori dell'ascoli picchio f.c. 1898",
+            "calciatori della s.p.a.l. 2013",
+            "calciatori dell'olbia calcio 1905 s.s.d.",
+            "calciatori dell'u.s. ancona 1905",
+            "calciatori dell'u.s. arezzo",
+            "calciatori dell'u.s. avellino 1912",
+            "calciatori dell'u.s. catanzaro",
+            "calciatori dell'u.s. salernitana 1919",
+            "calciatori italiani",
+            "nati a firenze",
+            "nati il 23 ottobre",
+            "nati nel 1973"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "categories": [
+            "aziende del gruppo rti",
+            "aziende fondate nel 1982",
+            "societ\u00e0 di produzione televisiva italiane"
+        ],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "religion mysticism and mythology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "virt\u00f9"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "virt\u00f9"
+        ],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "attivisti sudafricani",
+            "cavalieri di gran croce dell'ordine reale norvegese di sant'olav",
+            "decorati con la medaglia presidenziale della libert\u00e0",
+            "morti a johannesburg",
+            "morti il 5 dicembre",
+            "morti nel 2013",
+            "nati il 18 luglio",
+            "nati nel 1918",
+            "nonviolenza",
+            "personalit\u00e0 impegnate contro il razzismo",
+            "politici sudafricani",
+            "premi nobel nel 1993",
+            "premio lenin per la pace",
+            "presidenti del sudafrica",
+            "vincitori del premio nobel per la pace"
+        ],
+        "domains": [
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]

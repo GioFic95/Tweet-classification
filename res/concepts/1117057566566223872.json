@@ -1,0 +1,58 @@
+[
+    {
+        "categories": [
+            "conferenze della seconda guerra mondiale",
+            "jalta",
+            "storia della crimea"
+        ],
+        "domains": [
+            "warfare and defense",
+            "history",
+            "politics and government"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "biology"
+        ],
+        "is_key_concept": true,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [
+            "philosophy and psychology"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [],
+        "domains": [],
+        "is_key_concept": false,
+        "main_sense": ""
+    },
+    {
+        "categories": [
+            "serie televisive della abc (stati uniti d'america)",
+            "serie televisive di fantascienza",
+            "serie televisive iniziate nel 1966",
+            "serie televisive statunitensi",
+            "serie televisive terminate nel 1967"
+        ],
+        "domains": [
+            "media"
+        ],
+        "is_key_concept": false,
+        "main_sense": ""
+    }
+]
