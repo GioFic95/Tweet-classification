@@ -1,8 +1,10 @@
+import ast
 import csv
 import json
 import os
 import re
 import sys
+from json import JSONDecodeError
 
 import emoji
 import pandas as pd
@@ -52,18 +54,20 @@ def set_label(row):
 
         concept_file = os.path.join(RES_DIR, "concepts", str(row_id)+".json")
         with open(concept_file, 'r') as cf:
-            concept = json.load(cf)
+            all_concepts = json.load(cf)
     else:
         print("\n---   " + str(row_id))
         print(text)
 
         disambiguation = bs.get_write_disambiguation(text, "IT", partial_match=True, out_file=row_id)
-        concept = bp.extract_concept(disambiguation, out_file=str(row_id).replace(":", "_"))
-    if not concept:
+        all_concepts = bp.concepts_from_disambiguated_synsets(disambiguation, write_synsets=True,
+                                                              out_concept_file=str(row_id).replace(":", "_"))
+
+    main_concepts = bp.extract_main_concepts(all_concepts)
+    if not main_concepts:
         row["label"] = ""
     else:
-        # row["label"] = concept[0][0]
-        row["label"] = str(concept)
+        row["label"] = str(main_concepts)
     return row
 
 
@@ -75,7 +79,7 @@ def add_labels(old_dataset, new_dataset=""):
     old_dataset_path = os.path.join(RES_DIR, old_dataset)
     new_dataset_path = os.path.join(RES_DIR, new_dataset)
     ds = pd.read_csv(old_dataset_path)
-    # ds = ds[0:200]   # TODO solo per test
+    # ds = ds[0:200]   # solo per test
     global IDS
     path = os.path.join(RES_DIR, "concepts")
     IDS = [x[:-5] for x in os.listdir(path)]
@@ -89,3 +93,28 @@ def add_labels(old_dataset, new_dataset=""):
     finally:
         ds.to_csv(new_dataset_path, index=False)
 
+
+def repair_row(row):
+    row_id = row["id"]
+    label = row["label"]
+    if type(label) == str:
+        py_label = ast.literal_eval(label)
+        if type(py_label[0]) == dict:
+            print(row_id)
+            main_concepts = bp.extract_main_concepts(py_label)
+            if main_concepts:
+                row["label"] = str(main_concepts)
+            else:
+                row["label"] = ""
+    return row
+
+
+def repair_dataset(old_dataset, new_dataset=""):
+    if not new_dataset:
+        new_dataset = old_dataset
+
+    old_dataset_path = os.path.join(RES_DIR, old_dataset)
+    new_dataset_path = os.path.join(RES_DIR, new_dataset)
+    ds = pd.read_csv(old_dataset_path)
+    ds = ds.apply(repair_row, axis=1)
+    ds.to_csv(new_dataset_path, index=False)

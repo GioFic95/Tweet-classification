@@ -57,7 +57,7 @@ def test_disambiguation():
            "beneficeremo tutti. Con il voto della Camera, presto finalmente doteremo l’Italia di uno strumento che i " \
            "medici e i ricercatori aspettano da anni."
     disambiguation = bs.get_write_disambiguation(text, "IT", "5stelle_medicina")
-    concept = bp.extract_concept(disambiguation, False, "5stelle_medicina")
+    concept = bp.extract_main_concepts(disambiguation, False, "5stelle_medicina")
 
     # text = word_tokenize(text)
     # text = " ".join(text)
@@ -78,5 +78,6 @@ if __name__ == '__main__':
     # ds.build_dataset("dataset8.csv")
 
     start_time = time.time()
-    ds.add_labels("dataset8.csv", "dataset10.csv")
+    # ds.add_labels("dataset8.csv", "dataset10.csv")
+    ds.repair_dataset("dataset10.csv")
     print("\n--- %s seconds ---" % round(time.time() - start_time, 3))

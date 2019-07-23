@@ -1,7 +1,7 @@
 import json
 import os
 import sys
-from collections import defaultdict, Counter
+from collections import Counter
 
 import babelnet.babel_search as bs
 
@@ -47,6 +47,7 @@ def senses(json_senses):
 
 def synset(json_synset):
     """Parse Json object or file and return the corresponding list of meaningful fields of the synset"""
+
     goal = []
     synset_list = json_synset
 
@@ -77,9 +78,10 @@ def synset(json_synset):
     return goal
 
 
-def disambiguated_synsets(json_disambiguation, write=False):
+def concepts_from_disambiguated_synsets(json_disambiguation, write_synsets=False, to_print=False, out_concept_file=None):
     """Parse the result of the Babelfy disambiguation to get babelSynsetIDs, and make a query for those IDs,
     retrieving main fields"""
+
     goal = []
     synset_list = json_disambiguation
 
@@ -114,7 +116,7 @@ def disambiguated_synsets(json_disambiguation, write=False):
             with open(json_file, 'r', encoding='utf-8') as j:
                 syn_g = json.load(j)
         else:
-            if write:
+            if write_synsets:
                 out_synset_file = g.replace(":", "_")
             else:
                 out_synset_file = ""
@@ -122,7 +124,7 @@ def disambiguated_synsets(json_disambiguation, write=False):
 
         error = syn_g.get("message", "")
         if error == "BabelSynset not found.":
-            # raise ValueError("BabelSynset not found.")   # TODO handle this exception
+            print("BabelSynset not found")
             continue
         elif error == "Your key is not valid or the daily requests limit has been reached. Please visit" \
                       "http://babelnet.org.":
@@ -143,29 +145,38 @@ def disambiguated_synsets(json_disambiguation, write=False):
             goal_entry["domains"] = domains_g
             new_goal += [goal_entry]
 
+    if to_print:
+        out = json.dumps(new_goal, indent=4, sort_keys=True)
+        print(out)
+    if out_concept_file:
+        out_file = os.path.join(RES_DIR, "concepts", out_concept_file + ".json")
+        with open(out_file, 'w+') as jf:
+            out = json.dumps(new_goal, indent=4, sort_keys=True)
+            jf.write(out)
+
     return new_goal
 
 
-def extract_concept(json_disambiguation, k=3, to_print=False, out_file=None):
+def extract_main_concepts(json_concepts, k=3):
     """Establish the main concepts of the text"""
-    ds = disambiguated_synsets(json_disambiguation, True)
-    if to_print:
-        out = json.dumps(ds, indent=4, sort_keys=True)
-        print(out)
-    if out_file:
-        out_file = os.path.join(RES_DIR, "concepts", out_file + ".json")
-        # print(out_file)
-        with open(out_file, 'w+') as jf:
-            out = json.dumps(ds, indent=4, sort_keys=True)
-            jf.write(out)
+
+    concepts = json_concepts
+
+    if type(json_concepts) is str:
+        json_file = os.path.join(RES_DIR, json_concepts)
+        print(json_file)
+        if os.path.exists(json_file):
+            with open(json_file, 'r', encoding='utf-8') as j:
+                concepts = json.load(j)
+        else:
+            raise ValueError("This string is not a valid path")
 
     summary = Counter()
-    for entry in ds:
+    for entry in concepts:
         for c in entry["domains"]:
             summary[c] += 1
             if entry["is_key_concept"]:
                 summary[c] += 1
 
     print(summary)
-    # summary_max = max(summary, key=lambda key: summary[key])
     return summary.most_common(k)
