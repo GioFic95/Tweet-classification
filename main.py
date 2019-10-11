@@ -3,7 +3,7 @@ import sys
 import time
 
 # import nltk.tokenize.repp as tokenize
-from nltk import word_tokenize
+# from nltk import word_tokenize
 
 import babelnet.babel_parse as bp
 import babelnet.babel_search as bs
@@ -75,9 +75,12 @@ if __name__ == '__main__':
     # test_disambiguation()
 
     # bs.get_write_synset("bn:00024636n", "bn_00024636n_bis")
-    # ds.build_dataset("dataset8.csv")
+
+    # start_time = time.time()
+    # ds.build_dataset("datasetASE.csv")
+    # print("\nbuild\n--- %s seconds ---" % round(time.time() - start_time, 3))
 
     start_time = time.time()
-    # ds.add_labels("dataset8.csv", "dataset10.csv")
-    ds.repair_dataset("dataset10.csv")
-    print("\n--- %s seconds ---" % round(time.time() - start_time, 3))
+    ds.add_labels("datasetASE.csv", "datasetASE1.csv")
+    ds.repair_dataset("datasetASE1.csv")
+    print("\nadd labels\n--- %s seconds ---" % round(time.time() - start_time, 3))

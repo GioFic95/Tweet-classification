@@ -99,7 +99,6 @@ def concepts_from_disambiguated_synsets(json_disambiguation, write_synsets=False
             goal += [d["babelSynsetID"]]
         except:
             print("Unexpected error with babelfy parsing:", d, sys.exc_info()[0])
-            raise
     print(goal)
 
     new_goal = []

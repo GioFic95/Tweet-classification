@@ -3,7 +3,8 @@ import os
 import sys
 
 import requests
-
+from requests.adapters import HTTPAdapter
+from urllib3 import Retry
 
 RES_DIR = os.path.join(os.path.dirname(sys.modules['__main__'].__file__), "res")
 ID_URL = "https://babelnet.io/v5/getSynsetIds?lemma=%s&searchLang=%s&key=%s"
@@ -12,16 +13,16 @@ SYNSET_URL = "https://babelnet.io/v5/getSynset?id=%s&key=%s"
 BABELFY_URL = "https://babelfy.io/v1/disambiguate?text=%s&lang=%s&key=%s"
 
 
-def get_key(filename):
+def get_key(filename, key_name):
     """Read the value of the Babelnet/Babelfy key"""
     config_file = os.path.join(RES_DIR, "config", filename)
     with open(config_file, 'r') as cf:
         db_config = json.load(cf)
-        res = db_config["KEY"]
+        res = db_config[key_name]
         return res
 
 
-KEY = get_key("keys.json")
+KEY = get_key("keys.json", "KEY4")
 
 
 def get_synset_ids(lemma, lang):
@@ -51,7 +52,17 @@ def get_write_senses(lemma, lang, out_file=""):
 def get_write_synset(syn_id, out_file=""):
     """Returns the synset of the specified ID"""
     url = SYNSET_URL % (syn_id, KEY)
-    r = requests.get(url)
+    # r = requests.get(url)
+
+    req = requests.Request('GET', url)
+    req = req.prepare()
+    sess = requests.Session()
+    retry = Retry(connect=3, backoff_factor=0.5)
+    adapter = HTTPAdapter(max_retries=retry)
+    sess.mount('http://', adapter)
+    sess.mount('https://', adapter)
+    r = sess.send(req)
+
     resp = r.json()
 
     if out_file is not "":
@@ -71,6 +82,10 @@ def get_write_disambiguation(text, lang, out_file="", partial_match=False):
     req = requests.Request('GET', url)
     req = req.prepare()
     sess = requests.Session()
+    retry = Retry(connect=3, backoff_factor=0.5)
+    adapter = HTTPAdapter(max_retries=retry)
+    sess.mount('http://', adapter)
+    sess.mount('https://', adapter)
     resp = sess.send(req)
     resp.encoding = "gzip"
     resp = resp.json()
