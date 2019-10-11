@@ -6,4 +6,5 @@ res/senses/*
 res/synset/*
 res/altro/
 res/config/*
+res/concepts/*
 *.pyc
